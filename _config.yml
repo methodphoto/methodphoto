@@ -1,0 +1,10 @@
+title: "Method Photo"
+theme: minima
+email: richard@method.co.uk
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://method.photo" # the base hostname & protocol for your site, e.g. http://example.com
+heading_anchors: false
+minima:
+  social_links:
+    - { platform: mastadon, user_url: "https://toot.community/@methodphoto" }
+    - { platform: instagram,  user_url: "https://instagram.com/methodphotonew" }
