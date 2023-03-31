@@ -1,0 +1,100 @@
+---
+
+---
+
+@import "minima";
+
+$primary-color: #333f48;
+$primary-link-color: #667099;
+$secondary-link-color: #996699;
+$primary-tint-color: #EFFBFB;
+
+body {
+	font-family: myriad-pro-1, myriad-pro-2,sans-serif;
+	margin: 0 2em;
+	font-size: 110%;
+}
+
+h1 {
+	font-weight: 300;
+}
+
+article {
+ margin-bottom: 20px;
+}
+
+.container {
+	margin-bottom: 30px;
+}
+
+.site-header {
+	margin-top: 15px;
+	border: none;
+}
+
+.item {display: inline;}
+
+.top {margin-top: 20px;}
+
+.right {margin-right: 20px;}
+
+.bottom {margin-bottom: 30px;}
+
+.left {margin-left: 20px;}
+
+
+a.page-link {
+	color: $primary-link-color !important;
+	text-decoration: none;
+}
+
+a.page-link:hover {
+	color: $secondary-link-color !important;
+	text-decoration: underline;
+}
+
+a:hover.page-link {
+	color: $secondary-link-color !important;
+	text-decoration: underline;
+}
+
+li.p-name {
+	display: none;
+}
+
+.item a:hover {
+	opacity: 85%;
+	scale: 120%;
+}
+
+.overlay a h2 {
+	display: hidden;
+}
+
+.overlay a:hover h2 {
+	display: visible;
+}
+
+.grid {
+  display: grid;
+  gap: 0.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(125px, 1fr));
+}
+
+.grid img {
+	height: 125px;
+	width: 125px;
+}
+
+@media screen and (max-width: 600px) {
+	.grid {
+		display: grid;
+		gap: 0.5rem;
+		grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+	}
+
+	.grid img {
+		height: 100px;
+		width: 100px;
+	}
+}
