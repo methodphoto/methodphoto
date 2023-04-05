@@ -3,7 +3,7 @@ layout: default
 title: Links
 ---
 
-[![Buy The Prismatic Pond](../books/the-prismatic-pond-01.jpg "The Prismatic Pond book cover")](https://methodphotopress.uk)
+[![Buy The Prismatic Pond](books/the-prismatic-pond-01.jpg "The Prismatic Pond book cover")](https://methodphotopress.uk)
 
 [Method Photo](https://method.photo/)
 
