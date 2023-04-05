@@ -11,6 +11,7 @@ parent: galleries
 
 This series was made at a rather amazing stately home in Yorkshire called Wentworth Woodhouse. While wandering the grounds I came across the dilapidated Camellia House. It was obvious that it would make a great subject; the windows, the broken nature of it, and the grids were all perfectly imperfect.
 
+
 ![{{page.title}}](obscured-perception/obscured-perception-01.webp "{{page.title}}")
 
 ![{{page.title}}](obscured-perception/obscured-perception-02.webp "{{page.title}}")
