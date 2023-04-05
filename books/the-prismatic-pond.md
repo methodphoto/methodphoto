@@ -7,13 +7,15 @@ parent: books
 
 # {{page.title}}
 
+![The Prismatic Pond](the-prismatic-pond-01.jpg "The Prismatic Pond")
+
 ### It Began With a Riot of Colour…
 
-This hyper-local photographic project primarily focuses on a local pond at Forty Hill in Enfield, London. Less than a kilometre away from my house, the transformation of the space began under the surface in the winter of 2017.
+This hyper-local photographic project focuses on a local pond at Forty Hill in Enfield, London. Less than a kilometre away from my house, the transformation of the space began under the surface in the winter of 2017.
 
 ### A Transformative Process
 
-This book explores the metamorphosis of this small, seemingly unremarkable body of water over the past few years. A summer’s heat creates a stagnant soup, an autumn with the sun low in the sky, a winter growing frosted reflections. The conditions became perfect for sunlight to refract off the pond’s surface and display magical spectral effects, all found in these photographs.
+This book explores the metamorphosis of this small, seemingly unremarkable body of water over the past few years. A summer’s heat creates a stagnant soup, an autumn with the sun low in the sky, a winter showing frosted reflections. The conditions became perfect for sunlight to refract off the pond’s surface and display magical spectral effects, all found in these photographs.
 
 ### A Magical Effect
 
@@ -23,15 +25,18 @@ This book celebrates that quiet knowing, that riot of colour, and the subtle bea
 
 ### Specifications
 
-Dimensions: **200 x 245 mm (landscape)**
-Pages: **62pp**
-Cover: **350gsm Silk **
-Text: **170gsm Silk**
+Dimensions: **200 x 245 mm (landscape)**<br />
+Pages: **62pp**<br />
+Cover: **350gsm Silk **<br />
+Text: **170gsm Silk**<br />
 Printed with care by Wells Printing
 
 **Signed, limited edition of 100**
 
-Some copies left for immediate dispatch
+Copies left for immediate dispatch
+
+
+**Please choose your correct shipping location on the next screen**
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">

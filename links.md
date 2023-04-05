@@ -3,8 +3,6 @@ layout: default
 title: Links
 ---
 
-![Warped Topographies](warped-topographies/warped-topographies-01.webp "Warped Topographies")
-
 [![Buy The Prismatic Pond](../books/the-prismatic-pond-01.jpg "The Prismatic Pond book cover")](https://methodphotopress.uk)
 
 [Method Photo](https://method.photo/)

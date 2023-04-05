@@ -3,7 +3,8 @@ layout: default
 title: About
 ---
 
-# {{page.title}}
+![Warped Topographies](warped-topographies/warped-topographies-01.webp "Warped Topographies")
+
 
 ## Richard Earney
 
