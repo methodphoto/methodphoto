@@ -19,7 +19,7 @@ title: Galleries
 		</a>
    	</div>
    <div>
-  	 <a href="apps/obscured-perception">
+  	 <a href="obscured-perception">
 			<img src="assets/galleries/obscured-perception.webp" alt="Obscured Perception" title="Obscured Perception" />
 			Obscured Perception
 		</a>
@@ -31,7 +31,7 @@ title: Galleries
 		</a>
 	</div>
 	<div>
-		<a href="apps/one-misty-may-morning-as-i-set-out">
+		<a href="one-misty-may-morning-as-i-set-out">
 			<img src="assets/galleries/one-misty-may-morning-as-i-set-out.webp" alt="Shazam Home Screen" title="Shazam Home Screen" />
 			One Misty May Morning as I Set Out
 		</a>
@@ -49,7 +49,7 @@ title: Galleries
 		</a>
 	</div>
 		<div>
-		<a href="apps/the-most-gigantic-lying-mouth-of-all-time-iii">
+		<a href="the-most-gigantic-lying-mouth-of-all-time-iii">
 			<img src="assets/galleries/the-most-gigantic-lying-mouth-of-all-time-iii.webp" alt="The Most Gigantic Lying Mouth of All Time III" title="The Most Gigantic Lying Mouth of All Time III" />
 			The Most Gigantic Lying Mouth of All Time III
 		</a>
