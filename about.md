@@ -57,6 +57,8 @@ On Landscape Magazine, [Hipstamatic Landscape Photography](https://www.onlandsca
 
 London Independent Photography Crouch End group, 2023, The Original Gallery, London
 
+Jupiter Asset Mananagement
+
 London Independent Photography Crouch End group, 2022, The Original Gallery, London
 
 #Connected 2021
