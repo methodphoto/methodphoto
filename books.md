@@ -3,22 +3,22 @@ layout: default
 title: Books
 ---
 
-[![The Prismatic Pond](books/the-prismatic-pond-01.jpg "The Prismatic Pond")](books/the-prismatic-pond)
+[![The Prismatic Pond](books/the-prismatic-pond-01.webp "The Prismatic Pond")](books/the-prismatic-pond)
 
 
-[![Warped Topographies II](books/warped-topographies-ii-01.jpg "Warped Topographies II"))](books/warped-topographies-ii)
+[![Warped Topographies II](books/warped-topographies-ii-01.webp "Warped Topographies II"))](books/warped-topographies-ii)
 
 
 <div class="grid">
    <div>
    		<a href="books/warped-topographies-ii">
-			<img src="books/the-prismatic-pond-01.jpg" alt="The Prismatic Pond" title="The Prismatic Pond" />
+			<img src="books/the-prismatic-pond-01.webp" alt="The Prismatic Pond" title="The Prismatic Pond" />
 			The Prismatic Pond
 		</a>
    	</div>
    <div>
    		<a href="motion-stills">
-			<img src="books/warped-topographies-ii-01.jpg" alt="Warped Topographies II" title="Warped Topographies II" />
+			<img src="books/warped-topographies-ii-01.webp" alt="Warped Topographies II" title="Warped Topographies II" />
 			Warped Topographies II
 		</a>
    	</div>

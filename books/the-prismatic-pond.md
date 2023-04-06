@@ -7,7 +7,7 @@ parent: books
 
 # {{page.title}}
 
-![The Prismatic Pond](the-prismatic-pond-01.jpg "The Prismatic Pond")
+![The Prismatic Pond](the-prismatic-pond-01.webp "The Prismatic Pond")
 
 ### It Began With a Riot of Colour…
 
