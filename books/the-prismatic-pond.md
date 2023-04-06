@@ -2,10 +2,13 @@
 layout: default
 title: The Prismatic Pond
 year: 2022
+publisher: Method Photo Press
 parent: books
 ---
 
 # {{page.title}}
+
+### {{page.publisher}} {{page.year}}
 
 ![The Prismatic Pond](the-prismatic-pond-01.webp "The Prismatic Pond")
 

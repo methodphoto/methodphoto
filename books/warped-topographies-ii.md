@@ -1,11 +1,14 @@
 ---
 layout: default
 title: Warped Topographies II
-year: 
+year: 2020
+publisher: Method Photo Press
 parent: books
 ---
 
 # {{page.title}}
+
+### {{page.publisher}} {{page.year}}
 
 ![{{page.title}}](warped-topographies-ii-01.webp "{{page.title}}")
 
