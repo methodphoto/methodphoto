@@ -7,6 +7,8 @@ parent: galleries
 
 # {{page.title}}
 
+## 2016–2020
+
 The Warped Topographies series began over eight years ago with a faulty film eject from my Polaroid SX-70 camera. At the time without knowing a huge amount about Polaroids, the way they worked (or sometimes didn’t), their cultural significance and their contribution to photographic history, I simply admired the abstract blobs that appeared from the camera.  What emerged was something otherworldly, but beautiful. I put it away – but every so often it reappeared, and I still liked it but I couldn’t see anything more in this image.
 
 In 2016, I returned to image making with my now newly repaired Polaroid camera. Learning from the experience of the previous ‘faulty’ eject along with research in how to distress Polaroids, I began to manipulate the films as they ejected from the camera – first by hand, later using tools, heat, fire, and various liquids.
