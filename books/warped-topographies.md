@@ -10,5 +10,5 @@ parent: books
 
 ### {{page.publisher}} {{page.year}}
 
-![{{page.title}}](warped-topographies.webp "{{page.title}}")
+[![{{page.title}}](warped-topographies.webp "{{page.title}}")](https://www.kozubooks.com/books-new/richard-earney-warped-topographies)
 

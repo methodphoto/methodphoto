@@ -7,12 +7,12 @@ title: Books
 
 [![The Prismatic Pond](books/the-prismatic-pond-01.webp "The Prismatic Pond")](books/the-prismatic-pond)
 
-### Previous Book
+### Previous Books
 
 <div class="grid">
    <div>
    		<a href="books/warped-topographies-ii">
-			<img src="books/warped-topographies-ii-00.webp" alt="Warped Topographies II" title="warped-topographies II" />
+			<img src="books/warped-topographies-ii-01.webp" alt="Warped Topographies II" title="warped-topographies II" />
 			<span class="gallerytitle">Warped Topographies II</span>
 		</a>
    	</div>
