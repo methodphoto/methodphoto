@@ -10,11 +10,25 @@ next:
 
 {{page.date}}
 
-2020 may not have been the year to have exhibitions and private views, but [London Independent Photography’s](https://www.londonphotography.org.uk/) annual exhibition was replaced by the [LIP Chronicles](https://www.instagram.com/p/CIGUs1YnhsE/) which was a website, Instagram feed and a newspaper reflecting on life in lockdown
+I am thrilled to announce that [Kozu Books](https://www.kozubooks.com/books-new/richard-earney-warped-topographies) will be publishing my book Warped Topographies in July 2018.
 
-One of my abstract images was featured, *Summer Shimmer, Water Ripple*, which was made on one of my many summer walks, while permitted.
+Kozu Books are well known for their high quality small format Landscape Editions. This will be a bit different as befits the rich textures of this series.
 
-![<# alt text #>](summer-shimmer-water-rpple.jpg "summer-shimmer-water-rpple.jpg")
+![Warped Topographies](../books/warped-topographies.webp "Warped Topographies")
+
+### BOOK DETAILS
+
+**Size:** 215mm X 268mm Portrait<br />
+**Soft Cover:** Fedrigoni Uncoated 300gsm - Matt Laminated Cover<br />
+**Text:** 64pp Fedrigoni Uncoated 170gsm<br />
+PUR Bound
+
+**Please note:** This is a bigger publication than our Landscape Edition series.
+
+UK Shipping via Royal Mail<br />
+International orders are sent via Royal Mail
+
+You can pre-order the book now from Kozu for £14, it ships in early July
 
 [{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
 

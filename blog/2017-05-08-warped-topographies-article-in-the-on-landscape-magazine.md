@@ -10,11 +10,7 @@ next:
 
 {{page.date}}
 
-2020 may not have been the year to have exhibitions and private views, but [London Independent Photography’s](https://www.londonphotography.org.uk/) annual exhibition was replaced by the [LIP Chronicles](https://www.instagram.com/p/CIGUs1YnhsE/) which was a website, Instagram feed and a newspaper reflecting on life in lockdown
-
-One of my abstract images was featured, *Summer Shimmer, Water Ripple*, which was made on one of my many summer walks, while permitted.
-
-![<# alt text #>](summer-shimmer-water-rpple.jpg "summer-shimmer-water-rpple.jpg")
+On Landscape has kindly featured an article about my [Warped Topographies](https://www.onlandscape.co.uk/2017/04/warped-topographies/) project. It is available to paid subscribers only and I would urge you to subscribe regardless as it is a great independent publication featuring the full gamut of landscape, from close to wide, from blurry to detailed!
 
 [{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
 

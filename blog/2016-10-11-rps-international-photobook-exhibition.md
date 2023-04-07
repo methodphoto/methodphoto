@@ -10,11 +10,35 @@ next:
 
 {{page.date}}
 
-2020 may not have been the year to have exhibitions and private views, but [London Independent Photography’s](https://www.londonphotography.org.uk/) annual exhibition was replaced by the [LIP Chronicles](https://www.instagram.com/p/CIGUs1YnhsE/) which was a website, Instagram feed and a newspaper reflecting on life in lockdown
+I’m pleased to announce I will have 3 photographs exhibited (my first time) as part of the Royal Photographic Society International Photobook Exhibition 2016 which is held at:
 
-One of my abstract images was featured, *Summer Shimmer, Water Ripple*, which was made on one of my many summer walks, while permitted.
+[Espacio Gallery](http://www.espaciogallery.com)<br />
+159 Bethnal Green Road<br />
+E2 7DG
 
-![<# alt text #>](summer-shimmer-water-rpple.jpg "summer-shimmer-water-rpple.jpg")
+**Dates:** 18th–23rd October 2016<br />
+**Times:** 13:00–19:00<br />
+**Private View:** Thursday 20 October 18:00-21:00
+
+From the exhibition notes:
+
+The photobook has evolved to become an established art form, particularly since 2000. Exhibitions and festivals are now held in many countries across Europe, the USA, Scandinavia, the Far East and Australia/New Zealand. Most photobooks are about telling a story through a series of photographs, giving a reader an in-depth repeatable experience. 
+
+This is the first international photobook exhibition, open to all, that has been organised by the Royal Photographic Society (RPS). Submissions are being short-listed by a jury of international photobook experience. Those that pass the selection, with a winner, second and third being nominated, feature in this exhibition. All may be browsed at the gallery. 
+
+In support of the selected photobooks, 15 members of the RPS have been invited to exhibit their photographic prints in conjunction with showing their photobook featuring the series from which these images were made. 
+
+Short-listed photobook authors will be known after the selection in September. Photographers exhibiting prints with a photobook are: 
+
+Angel Amero, Robert Bedson, Lizzie Brown, Antionette Castro, Richard Earney, Chris Gravett, Robert Herringshaw, Mark Kelly, Nick Linnett, Tom Owens, Chris Roche, Seigfried Rubbert, Brian Steptoe, Neil Wittmann
+
+The Exhibition selectors are:
+
+**David Campany**, writer, curator, tutor of photography, photobook selector, Sony World Photo lead selector, RPS Award holder 2014.
+
+**Lucy Kumara Moore**, Director of Claire de Rouen Books, selector for MACK First book award. 
+
+**Dewi Lewis**, photobook publisher
 
 [{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
 

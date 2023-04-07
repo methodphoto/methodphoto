@@ -1,7 +1,7 @@
 ---
 template: default
-title: Warped Topographies II
-date: 2021/01/13
+title: Abstract Grasses in ‘On Landscape’ Magazine
+date: 2016-02-05
 previous:
 next:
 ---
@@ -10,11 +10,15 @@ next:
 
 {{page.date}}
 
-2020 may not have been the year to have exhibitions and private views, but [London Independent Photography’s](https://www.londonphotography.org.uk/) annual exhibition was replaced by the [LIP Chronicles](https://www.instagram.com/p/CIGUs1YnhsE/) which was a website, Instagram feed and a newspaper reflecting on life in lockdown
+Last week's On Landscape Magazine published some of my Abstract Grasses in its Subscribers 4x4 section.
 
-One of my abstract images was featured, *Summer Shimmer, Water Ripple*, which was made on one of my many summer walks, while permitted.
+Their 4x4 feature is a set of four mini portfolios from their subscribers, each consisting of four images related in some way.
 
-![<# alt text #>](summer-shimmer-water-rpple.jpg "summer-shimmer-water-rpple.jpg")
+
+
+I also loved Stuart Westmore's Roebuck Bay tides, abstract seascapes in the same section.
+
+Aerial views such as these, and those shot by masters like [Hans Strand](http://www.hansstrand.com/Hans_Strand/Aerials_14.html), alter your perspective of the landscape more than almost any other part of the canon. Of course heading up in a plane is an expensive old business, but well worth it from the work we see.
 
 [{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
 

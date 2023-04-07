@@ -1,6 +1,6 @@
 ---
 template: default
-title:Happy Accidents on Pryme Edition
+title: Happy Accidents on Pryme Edition
 date: 2017-08-26
 previous:
 next:
@@ -10,11 +10,13 @@ next:
 
 {{page.date}}
 
-2020 may not have been the year to have exhibitions and private views, but [London Independent Photography’s](https://www.londonphotography.org.uk/) annual exhibition was replaced by the [LIP Chronicles](https://www.instagram.com/p/CIGUs1YnhsE/) which was a website, Instagram feed and a newspaper reflecting on life in lockdown
+One of my newer Warped Topographies has been selected for [Prime Editions' Happy Accidents](http://prymeeditions.com/happy-accidents-september-2017) September 2017 online exhibition.
 
-One of my abstract images was featured, *Summer Shimmer, Water Ripple*, which was made on one of my many summer walks, while permitted.
+![Happy Accidents](polaroid-scans-260.webp "Happy Accidents")
 
-![<# alt text #>](summer-shimmer-water-rpple.jpg "summer-shimmer-water-rpple.jpg")
+The joy and frustration of shooting instant film is that you can't always guarantee what you will get. The process of my Warped Topographies series has been to use that unpredictability and  push it as far as possible.
+
+The [Happy Accidents](http://prymeeditions.com/happy-accidents-september-2017) exhibition highlights 40 images which have become works of art in their own right.
 
 [{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
 
