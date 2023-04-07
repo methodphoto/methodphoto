@@ -61,7 +61,7 @@ title: Galleries
 		</a>
 	</div>
 	<div>
-		<a href="life-in-a-glass-hous">
+		<a href="life-in-a-glass-house">
 			<img src="assets/galleries/life-in-a-glass-house.webp" alt="Life in a Glass House" title="Life in a Glass House" />
 			<span class="gallerytitle">Life in a Glass House</span>
 		</a>
@@ -79,7 +79,7 @@ title: Galleries
 		</a>
 	</div>
 	<div>
-		<a href="intimate-landscapes">
+		<a href="intimate-lansdcapes">
 			<img src="assets/galleries/intimate-landscapes.webp" alt="Intimate Landscapes" title="Intimate Landscapes" />
 			<span class="gallerytitle">Intimate Landscapes</span>
 		</a>
