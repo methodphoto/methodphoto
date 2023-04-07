@@ -11,6 +11,8 @@ The Abstract Grasses project started as an experiment in more conceptual photogr
 
 Most of the images were created in camera using single or multiple exposures. More recent images have taken this further and used Photoshop and Lightroom to combine more exposures, in part to compensate for the two shots in a Multiple Exposure limitation with my Fuji X-T1, but also to keep exploring possibilities.
 
+A [Blurb book](https://www.blurb.com/b/7212166-abstract-grasses) is available for this project
+
 ![{{page.title}}](abstract-grasses/abstract-grasses-01.webp "{{page.title}}")
 
 ![{{page.title}}](abstract-grasses/abstract-grasses-02.webp "{{page.title}}")
