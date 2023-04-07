@@ -116,7 +116,7 @@ li.p-name {
 .gallerytitle {
 	display: block;
 	font-size: 14px;
-	line-height: 15px;
+	line-height: 15px !important;
 	color: $primary-header-color;
 }
 
