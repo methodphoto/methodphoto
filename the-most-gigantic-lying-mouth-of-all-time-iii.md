@@ -32,3 +32,5 @@ We may not deserve better, but we need better.
 ![Patel](the-most-gigantic-lying-mouth-of-all-time-iii/the-most-gigantic-lying-mouth-of-all-time-iii-patel.webp "Patel")
 
 ![Farage](the-most-gigantic-lying-mouth-of-all-time-iii/the-most-gigantic-lying-mouth-of-all-time-iii-farage.webp "Farage")
+
+{% include gallery %}

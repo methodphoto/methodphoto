@@ -43,3 +43,5 @@ Here are a mere 13 images of the approximately 1000 made, so far.
 ![{{page.title}}](warped-topographies/warped-topographies-12.webp "{{page.title}}")
 
 ![{{page.title}}](warped-topographies/warped-topographies-13.webp "{{page.title}}")
+
+{% include gallery %}

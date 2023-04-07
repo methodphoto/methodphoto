@@ -48,3 +48,5 @@ parent: galleries
 ![{{page.title}}](those-lost-souls/those-lost-souls-20.webp "{{page.title}}")
 
 ![{{page.title}}](those-lost-souls/those-lost-souls-21.webp "{{page.title}}")
+
+{% include gallery %}

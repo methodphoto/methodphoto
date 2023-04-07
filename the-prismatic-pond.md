@@ -58,3 +58,5 @@ The book The Prismatic Pond is available to buy.
 ![{{page.title}}](the-prismatic-pond/the-prismatic-pond-21.webp "{{page.title}}")
 
 ![{{page.title}}](the-prismatic-pond/the-prismatic-pond-22.webp "{{page.title}}")
+
+{% include gallery %}

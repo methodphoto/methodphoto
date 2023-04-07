@@ -21,3 +21,5 @@ These images are collected here in a Motion Stills section.
 ![{{page.title}}](motion-stills/motion-stills-04.webp "{{page.title}}")
 
 ![{{page.title}}](motion-stills/motion-stills-05.webp "{{page.title}}")
+
+{% include gallery %}

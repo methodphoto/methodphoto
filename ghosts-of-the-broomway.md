@@ -34,3 +34,5 @@ The [Broomway](https://www.bbc.com/travel/article/20170110-why-the-broomway-is-t
 ![{{page.title}}](ghosts-of-the-broomway/ghosts-of-the-broomway-11.webp "{{page.title}}")
 
 ![{{page.title}}](ghosts-of-the-broomway/ghosts-of-the-broomway-12.webp "{{page.title}}")
+
+{% include gallery %}

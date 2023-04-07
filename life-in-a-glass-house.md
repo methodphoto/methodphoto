@@ -46,3 +46,5 @@ Taken at Porto’s Jardim Botânico these contain some of my favourite elements:
 ![{{page.title}}](life-in-a-glass-house/life-in-a-glass-house-18.webp "{{page.title}}")
 
 ![{{page.title}}](life-in-a-glass-house/life-in-a-glass-house-19.webp "{{page.title}}")
+
+{% include gallery %}

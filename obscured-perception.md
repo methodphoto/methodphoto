@@ -41,3 +41,5 @@ This series was made at a rather amazing stately home in Yorkshire called Wentwo
 ![{{page.title}}](obscured-perception/obscured-perception-14.webp "{{page.title}}")
 
 ![{{page.title}}](obscured-perception/obscured-perception-15.webp "{{page.title}}")
+
+{% include gallery %}

@@ -25,3 +25,5 @@ parent: galleries
 ![{{page.title}}](intimate-lansdcapes/intimate-landscapes-09.webp "{{page.title}}")
 
 ![{{page.title}}](intimate-lansdcapes/intimate-landscapes-10.webp "{{page.title}}")
+
+{% include gallery %}

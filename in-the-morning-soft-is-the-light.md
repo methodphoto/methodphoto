@@ -47,3 +47,4 @@ And in doing so I was reminded of a French pastoral scene from a movie just as J
 
 ![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-16.webp "{{page.title}}")
 
+{% include gallery %}

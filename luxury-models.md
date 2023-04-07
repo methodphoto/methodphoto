@@ -27,3 +27,5 @@ The showroom manikins of London's Bond Street live their lives, dressing up, pos
 ![{{page.title}}](luxury-models/luxury-models-08.webp "{{page.title}}")
 
 ![{{page.title}}](luxury-models/luxury-models-09.webp "{{page.title}}")
+
+{% include gallery %}
