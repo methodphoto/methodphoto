@@ -27,7 +27,7 @@ title: Galleries
    <div>
    		<a href="in-the-morning-soft-is-the-light">
 			<img src="assets/galleries/in-the-morning-soft-is-the-light.webp" alt="In the Morning, Soft is the Light" title="In the Morning, Soft is the Light" />
-			In the Morning, Soft is the Light
+			In the Morning,<br />Soft is the Light
 		</a>
 	</div>
 	<div>
