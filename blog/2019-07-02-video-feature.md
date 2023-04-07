@@ -14,7 +14,7 @@ Life is zipping past quickly at the moment, so I completely forgot to link to [G
 
 This may seem an unpromising concept for a series, but take a look for yourself. The piece about the project is at about 21:20 in, but why not watch the whole video!
 
-<iframe width="100%" height="100% "src="https://www.youtube.com/embed/ZbgUwId99yQ?start=1279" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZbgUwId99yQ?start=1279" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
 
