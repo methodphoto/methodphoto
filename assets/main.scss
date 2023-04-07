@@ -110,12 +110,13 @@ li.p-name {
 }
 
 .grid img:hover {
-	opacity: 90%;
+	opacity: 80%;
 }
 
-.grid a {
+.gallerytitle {
+	display: block;
 	font-size: 14px;
-	line-height: 16px;
+	line-height: 15px;
 	color: $primary-header-color;
 }
 

@@ -9,7 +9,7 @@ title: Galleries
    <div>
    		<a href="ghosts-of-the-broomway">
 			<img src="assets/galleries/ghosts-of-the-broomway.webp" alt="Ghosts of the Broomway" title="Ghosts of the Broomway" />
-			Ghosts of the Broomway
+			<span class="gallerytitle">Ghosts of the Broomway</span>
 		</a>
    	</div>
    <div>
