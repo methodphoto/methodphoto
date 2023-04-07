@@ -23,6 +23,6 @@ A signed limited edition of 50 <br />
 **Soft Cover:** 350gsm Silk paper with soft touch lamination<br />
 **Contents:** 36pp 170gsm Silk paper
 
-<span class="button">
+<div class="button">
 ![Sold Out](../assets/sold-out.svg "Sold Out")
-</span>
+</div>
