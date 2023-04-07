@@ -6,6 +6,7 @@
 @import "minima";
 
 $primary-color: #333f48;
+$primary-header-color: rgb(12,91,151)
 $primary-link-color: #667099;
 $secondary-link-color: #996699;
 $primary-tint-color: #EFFBFB;
@@ -37,7 +38,7 @@ body {
 
 h1 {
 	font-weight: 300;
-	color: rgb(12,91,151)
+	color: $primary-header-color:
 }
 
 article {
@@ -107,6 +108,8 @@ li.p-name {
 	height: 125px;
 	width: 125px;
 }
+
+.grid a {font-size: 14px;color: $primary-header-color:}
 
 @media screen and (max-width: 600px) {
 	.grid {
