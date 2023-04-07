@@ -50,3 +50,5 @@ Copies left for immediate dispatch
   publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
 >
 </stripe-buy-button>
+
+{% include books %}

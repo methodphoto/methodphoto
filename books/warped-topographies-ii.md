@@ -24,3 +24,5 @@ A signed limited edition of 50 <br />
 **Contents:** 36pp 170gsm Silk paper
 
 <img src="../assets/sold-out.svg" width="288" alt="Sold Out" title="Sold Out" />
+
+{% include books %}
