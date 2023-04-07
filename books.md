@@ -23,6 +23,12 @@ title: Books
 		</a>
   	</div>
    <div>
+  	 <a href="books/abstract-grasses">
+			<img src="books/abstract-grasses.webp" alt="Abstract Grasses" title="Abstract Grasses" />
+			<span class="gallerytitle">Abstract Grasses</span>
+		</a>
+  	</div>
+   <div>
    		<a href="books/inside-lightroom">
 			<img src="books/inside-lightroom.webp" alt="Inside Lightroom" title="Inside Lightroom" />
 			<span class="gallerytitle">Inside Lightroom</span>
