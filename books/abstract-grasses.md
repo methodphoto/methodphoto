@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Inside Lightroom
+title: Abstract Grasses
 year: 2016
 publisher: Blurb
 parent: books
