@@ -12,6 +12,7 @@ parent: books
 
 [![{{page.title}}](abstract-grasses.webp "[{{page.title}}")](https://www.blurb.com/b/7212166-abstract-grasses)
 
-<div class="button">
-[![Buy](../assets/buy.svg "Buy")](https://www.blurb.com/b/7212166-abstract-grasses)
-</div>
+
+<a href="https://www.blurb.com/b/7212166-abstract-grasses">
+	<img src="../assets/buy.svg" width="288" alt="Buy" title="buy" />
+</a>
