@@ -13,7 +13,7 @@ A simple pond in the place I most visit for walking and photography.
 
  Of course not; but yet it is…
 
-The book The Prismatic Pond is available to buy.
+The book [The Prismatic Pond](books/the-prismatic-pond) is available to buy.
 
 ![{{page.title}}](the-prismatic-pond/the-prismatic-pond-01.webp "{{page.title}}")
 
