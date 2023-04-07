@@ -18,10 +18,10 @@ This new book presents two images which date back to the origins of the project,
 
 **Specifications**
 
-A signed limited edition of 50 
-Size: 210mm x 210mm (Square)
-Soft Cover: 350gsm Silk paper with soft touch lamination
-Contents: 36pp 170gsm Silk paper
+A signed limited edition of 50 <br />
+**Size:** 210mm x 210mm (Square)<br />
+**Soft Cover:** 350gsm Silk paper with soft touch lamination<br />
+**Contents:** 36pp 170gsm Silk paper
 
 
 ![Sold Out](../assets/sold-out.svg "Sold Out")

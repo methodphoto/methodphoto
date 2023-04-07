@@ -28,10 +28,10 @@ This book celebrates that quiet knowing, that riot of colour, and the subtle bea
 
 ### Specifications
 
-Dimensions: **200 x 245 mm (landscape)**<br />
-Pages: **62pp**<br />
-Cover: **350gsm Silk **<br />
-Text: **170gsm Silk**<br />
+**Dimensions:** 200 x 245 mm (landscape)<br />
+**Pages:** 62pp<br />
+**Cover:** 350gsm Silk<br />
+Text: 170gsm Silk<br />
 Printed with care by Wells Printing
 
 **Signed, limited edition of 100**
