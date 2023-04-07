@@ -3,6 +3,8 @@ layout: default
 title: Books
 ---
 
+# {{page.title}}
+
 [![The Prismatic Pond](books/the-prismatic-pond-01.webp "The Prismatic Pond")](books/the-prismatic-pond)
 
 
