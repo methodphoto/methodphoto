@@ -37,7 +37,7 @@ body {
 }
 
 h1 {
-	font-weight: 300;
+	font-weight: 700;
 	color: $primary-header-color;
 }
 
@@ -115,8 +115,9 @@ li.p-name {
 
 .gallerytitle {
 	display: block;
+	padding-top: 8px;
 	font-size: 14px;
-	line-height: 15px !important;
+	line-height: 16px !important;
 	color: $primary-header-color;
 }
 
