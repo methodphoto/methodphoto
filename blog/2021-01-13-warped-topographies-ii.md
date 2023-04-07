@@ -1,5 +1,5 @@
 ---
-template: default
+template: post
 title: Warped Topographies II
 date: 2021-01-13
 previous:
