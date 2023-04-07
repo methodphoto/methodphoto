@@ -15,7 +15,9 @@ I thought I’d try something a bit different on this rather too quiet blog. So 
 
 If you haven’t ordered a copy yet, it is published by [Kozu Books](https://www.kozubooks.com/books-new/o-hanami-by-paul-kenny), pricing starts at £40 with Special Editions available. The forward is by [Francis Hodgson](https://francishodgson.com/).
 
+<span class="kanji"
 **花見**
+</span>
 
 ### On Paul's Process
 
@@ -74,7 +76,6 @@ A: Several senior curators and notably [Andy Goldsworthy](https://www.goldsworth
 A: I’m afraid I reverted to the role of eagle eyed documentary photographer. I only took my Nikon FT2 with bog standard 50mm lens and some rolls of Ilford FP4.
 
 ![<# alt text #>](o-hanami-02.webp "o-hanami-02.webp")
-
 
 While I was in Japan I stayed in Tokyo mainly and had managed to agree five meetings with institutions and curators.
 
