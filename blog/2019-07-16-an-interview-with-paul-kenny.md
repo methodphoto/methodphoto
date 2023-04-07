@@ -15,7 +15,7 @@ I thought I’d try something a bit different on this rather too quiet blog. So 
 
 If you haven’t ordered a copy yet, it is published by [Kozu Books](https://www.kozubooks.com/books-new/o-hanami-by-paul-kenny), pricing starts at £40 with Special Editions available. The forward is by [Francis Hodgson](https://francishodgson.com/).
 
-<span class="kanji"
+<span class="kanji">
 **花見**
 </span>
 
