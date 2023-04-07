@@ -12,3 +12,6 @@ parent: books
 
 [![{{page.title}}](warped-topographies.webp "{{page.title}}")](https://www.kozubooks.com/books-new/richard-earney-warped-topographies)
 
+<span class="button">
+![Sold Out](../assets/sold-out.svg "Sold Out")
+</span>
