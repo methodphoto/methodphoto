@@ -7,7 +7,7 @@
 
 $primary-color: #333f48;
 $primary-header-color: #0c5b97;
-$primary-link-color: #667099;
+$primary-link-color: #0c5b97;
 $secondary-link-color: #996699;
 $primary-tint-color: #EFFBFB;
 
@@ -125,7 +125,7 @@ li.p-name {
 blockquote {
 	color: $primary-header-color;
 	font-style: normal;
-	letter-spacing: 0;
+	letter-spacing: 0 !important;
 }
 
 
