@@ -11,7 +11,7 @@ Unlike *An Early Morning Walk, One Day in Spring* it was made into a video!
 
 This series is about walking, movement, lockdown, freedom, fragmented memory and a sense of looking around and taking in the beauty of the morning.
 
-<iframe src="https://player.vimeo.com/video/449190135?h=6b89ebaf1e" width="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/449190135?h=6b89ebaf1e" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/449190135">One Misty May Morning as I Set Out</a> from <a href="https://vimeo.com/methodphoto">Richard Earney</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ![{{page.title}}](one-misty-may-morning-as-i-set-out/one-misty-may-morning-as-i-set-out-01.webp "{{page.title}}")
