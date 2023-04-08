@@ -63,13 +63,13 @@ h3 {
 	text-align: center;
 }
 
+.links:hover {
+	background-color: #000;
+}
+
 .links a {
 	color: $white;
 	text-decoration: none;
-}
-
-.links a:hover {
-	background-color: #000;
 }
 
 article {

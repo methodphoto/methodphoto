@@ -6,7 +6,7 @@ title: Links
 [![Buy The Prismatic Pond](books/the-prismatic-pond-01.webp "The Prismatic Pond book cover")](https://methodphotopress.co.uk)
 
 <div class="links">
-	<a href="https://https://methodphotopress.co.uk">
+	<a href="https://methodphotopress.co.uk">
 		But The Prismatic Pond
 	</a>
 <div>
