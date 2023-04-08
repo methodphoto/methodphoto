@@ -41,8 +41,6 @@ title: Links
 	</a>
 </div>
 
-<div>
-
 <div class="links">
 	<a href="https://glass.photo/methodphoto">
 		Glass.Photo
@@ -59,6 +57,4 @@ title: Links
 	<a href=""https://vero.co/methodphoto">
 		Vero
 	</a>
-</div>
-
 </div>
