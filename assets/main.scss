@@ -19,7 +19,6 @@ $white: #ffffff;
     max-width: calc(1280px -(15px * 2));
     margin-right: auto;
     margin-left: auto;
-    border: 1px dotted red;
     padding-left: 0 !important;
     padding-right: 0 !important;
 }
@@ -28,9 +27,8 @@ $white: #ffffff;
     .wrapper {
         max-width: -webkit-calc(800px -(15px));
         max-width: calc(800px -(15px));
-        border: 1px dotted red;
-        padding-left: 8px !important;
-    	padding-right: 8px !important;
+        padding-left: 0 !important;
+    	padding-right: 0 !important;
     }
 }
 
