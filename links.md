@@ -6,61 +6,55 @@ title: Links
 [![Buy The Prismatic Pond](books/the-prismatic-pond-01.webp "The Prismatic Pond book cover")](https://methodphotopress.co.uk)
 
 <a href="https://methodphotopress.co.uk">
-<button class="links">
-	Buy The Prismatic Pond
-</button>
+	<button class="links">
+		Buy The Prismatic Pond
+	</button>
 </a>
 
-<div class="links">
-	<a href="https://methodphotopress.co.uk">
-		Buy The Prismatic Pond
-	</a>
-<div>
-
-<div class="links">
-	<a href="https://method.photo">
+<a href="https://method.photo">
+	<button class="links">	
 		Method Photo
-	</a>
-<div>
+	</button>
+</a>
 
-<div class="links">
-	<a href="https://vimeo.com/449190135">
+<a href="https://vimeo.com/449190135">
+	<button class="links">
 		One Misty May Morning video
-	</a>
-</div>
+	</button>
+</a>
 
-<div class="links">
-	<a href="https://biblioscapes.com/in-discussion/richard-earney-1">
+<a href="https://biblioscapes.com/in-discussion/richard-earney-1">
+	<button class="links">
 		Biblioscapes In Discussion 08/12/2022
-	</a>
-</div>
+	</button>
+</a>
 
-<div class="links">
-	<a href="https://biblioscapes.com/in-discussion/richard-earney">
+<a href="https://biblioscapes.com/in-discussion/richard-earney">
+	<button class="links">
 		Biblioscapes In Discussion 08/10/2020
-	</a>
-</div>
+	</button>
+</a>
 
-<div class="links">
-	<a href="https://method.photo/blog/2019/7/2/an-interview-with-paul-kenny">
+<a href="https://method.photo/blog/2019/7/2/an-interview-with-paul-kenny">
+	<button class="links">
 		An Interview with Paul Kenny
-	</a>
-</div>
+	</button>
+</a>
 
-<div class="links">
-	<a href="https://glass.photo/methodphoto">
+<a href="https://glass.photo/methodphoto">
+	<button class="links">
 		Glass.Photo
-	</a>	
-</div>
+	</button>
+</a>
 
-<div class="links">
-	<a href="https://toot.community/@methodphoto">
+<a href="https://toot.community/@methodphoto">
+	<button class="links">
 		Mastodon
-	</a>
-</div>
+	</button>
+</a>
 
-<div class="links">
-	<a href="https://vero.co/methodphoto">
+<a href="https://vero.co/methodphoto">
+	<button class="links">
 		Vero
-	</a>
-</div>
+	</button>
+</a>
