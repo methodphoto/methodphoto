@@ -60,6 +60,16 @@ h3 {
 	border-radius: 6px;
 	padding: 4px;
 	margin-bottom: 16px;
+	text-align: center;
+}
+
+.links a {
+	color: $white;
+	text-decoration: none;
+}
+
+.links a:hover {
+	background-color: #000;
 }
 
 article {
