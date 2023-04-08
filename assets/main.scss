@@ -13,6 +13,10 @@ $primary-tint-color: #EFFBFB;
 $header-three: #3f7e7e;
 $white: #ffffff;
 
+body {
+	margin-left: 16px !important;
+	margin-right: 16px !important;
+}
 
 .wrapper {
     max-width: -webkit-calc(1280px -(15px * 2));
