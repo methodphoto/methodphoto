@@ -54,7 +54,7 @@ title: Links
 </div>
 
 <div class="links">
-	<a href=""https://vero.co/methodphoto">
+	<a href="https://vero.co/methodphoto">
 		Vero
 	</a>
 </div>
