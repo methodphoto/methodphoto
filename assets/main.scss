@@ -20,7 +20,7 @@ $white: #ffffff;
     margin-right: auto;
     margin-left: auto;
     padding-right: 15px;
-    padding-left:15px
+    padding-left: 15px;
     border: 1px dotted red;
 }
 
@@ -30,6 +30,7 @@ $white: #ffffff;
         max-width: calc(800px -(15px));
         padding-right: 15px;
         padding-left: 15px
+        border: 1px dotted red;
     }
 }
 
