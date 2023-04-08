@@ -34,7 +34,7 @@ This book celebrates that quiet knowing, that riot of colour, and the subtle bea
 Text: 170gsm Silk<br />
 Printed with care by Wells Printing
 
-**Signed, limited edition of 100**
+**£17.50 + shipping. Signed, limited edition of 100**
 
 Copies left for immediate dispatch
 
