@@ -54,6 +54,5 @@ This series is about walking, movement, lockdown, freedom, fragmented memory and
 
 ![{{page.title}}](one-misty-may-morning-as-i-set-out/one-misty-may-morning-as-i-set-out-21.webp "{{page.title}}")
 
-![{{page.title}}](one-misty-may-morning-as-i-set-out/one-misty-may-morning-as-i-set-out-22.webp "{{page.title}}")
 
 {% include gallery %}
