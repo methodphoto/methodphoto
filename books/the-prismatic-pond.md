@@ -36,7 +36,7 @@ Printed with care by Wells Printing
 
 **£17.50 + shipping. Signed, limited edition of 100**
 
-Copies readygi for immediate dispatch
+Copies ready for immediate dispatch
 
 
 **Please choose your correct shipping location on the next screen**
