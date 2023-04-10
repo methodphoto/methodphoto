@@ -2,7 +2,9 @@
 template: post
 title: Warped Topographies II
 date: 2021-01-13
-previous:
+prevtitle: LIP Chrionicles: Life in Lockdown
+previous: 2021-01-13-lip-chronicles-life-in-lockdown
+nexttitle: 
 next:
 ---
 
@@ -16,8 +18,8 @@ This new book presents two images which date back to the origins of the project,
 
 The first run was a limited edition of 50 and sold out very quickly. There are -still some slight seconds left-, which are almost as good as the original edition but one page has a slight blue streak in the margin of one page.
 
-![Warped Topographies II](../books/warped-topographies-ii-02.jpg "Warped Topographies II")
+![Warped Topographies II](../books/warped-topographies-ii-02.webp "Warped Topographies II")
 
 You can see more of both [Warped Topographies](https://biblioscapes.com/library/warped-topographies) and W[arped Topographies II](https://biblioscapes.com/library/warped-topographies-ii) at [Biblioscapes](https://biblioscapes.com/), and you can hear an podcast with me [talking about Warped Topographies II](https://biblioscapes.com/in-discussion/richard-earney) also at Biblioscapes.
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
+[{{page.prevtitle}}]({{page.previous}}) [{{page.nexttitle}}]({{page.next}})
