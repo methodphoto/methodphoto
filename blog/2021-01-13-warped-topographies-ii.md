@@ -4,8 +4,8 @@ title: Warped Topographies II
 date: 2021-01-13
 prevtitle: LIP Chrionicles: Life in Lockdown
 previous: 2021-01-13-lip-chronicles-life-in-lockdown
-nexttitle: 
-next:
+nexttitle: Crouch End LIP Annual Show
+next: 2022-03-15-crouch-end-lip-annual-show
 ---
 
 {{page.title}}
@@ -22,4 +22,11 @@ The first run was a limited edition of 50 and sold out very quickly. There are -
 
 You can see more of both [Warped Topographies](https://biblioscapes.com/library/warped-topographies) and W[arped Topographies II](https://biblioscapes.com/library/warped-topographies-ii) at [Biblioscapes](https://biblioscapes.com/), and you can hear an podcast with me [talking about Warped Topographies II](https://biblioscapes.com/in-discussion/richard-earney) also at Biblioscapes.
 
-[{{page.prevtitle}}]({{page.previous}}) [{{page.nexttitle}}]({{page.next}})
+<div class="blognav">
+	<span class="blognav-left">
+		[{{page.prevtitle}}]({{page.previous}})
+	</span>
+	<span class="blognav-right">
+		[{{page.nexttitle}}]({{page.next}})
+	</span>
+</div>
