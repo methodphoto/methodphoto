@@ -12,7 +12,7 @@ title: Blog
 ### 2022
 
 2022-09-01 [The Prismatic Pond](blog/2022-09-01-the-prismatic-pond)<br />
-2022-03-15 [Warped Topographies II](blog/2022-03-15-crouch-end-lip-annual-show)
+2022-03-15 [Crouch End LIP Annual Show](blog/2022-03-15-crouch-end-lip-annual-show)
 
 ### 2021
 

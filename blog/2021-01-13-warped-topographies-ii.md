@@ -20,7 +20,7 @@ The first run was a limited edition of 50 and sold out very quickly. There are -
 
 ![Warped Topographies II](../books/warped-topographies-ii-02.webp "Warped Topographies II")
 
-You can see more of both [Warped Topographies](https://biblioscapes.com/library/warped-topographies) and W[arped Topographies II](https://biblioscapes.com/library/warped-topographies-ii) at [Biblioscapes](https://biblioscapes.com/), and you can hear an podcast with me [talking about Warped Topographies II](https://biblioscapes.com/in-discussion/richard-earney) also at Biblioscapes.
+You can see more of both [Warped Topographies](https://biblioscapes.com/library/warped-topographies) and [Warped Topographies II](https://biblioscapes.com/library/warped-topographies-ii) at [Biblioscapes](https://biblioscapes.com/), and you can hear an podcast with me [talking about Warped Topographies II](https://biblioscapes.com/in-discussion/richard-earney) also at Biblioscapes.
 
 <div class="blognav">
 	<span class="blognav-left">
