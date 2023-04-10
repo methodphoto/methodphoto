@@ -1,5 +1,5 @@
 <div class="spacer">
- &mbsp;
+ &nbsp;
 </div>
 
-[<< next]({{page.next}}) | [>> previous]({{page.previous}})
+| [<< next]({{page.next}}) | [>> previous]({{page.previous}}) |

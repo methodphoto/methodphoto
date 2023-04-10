@@ -72,6 +72,9 @@ button {box-shadow: none;}
 
 .spacer {height: 20px;}
 
+td:first-child {text-align: left;}
+td:second-child {text-align: right;}
+
 .links:hover {
 	background-color: #000;
 }
