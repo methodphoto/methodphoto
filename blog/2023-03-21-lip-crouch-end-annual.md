@@ -1,5 +1,5 @@
 ---
-template: post
+template: default
 title: LIP Crouch End Annual
 date: 2022-03-15
 prevtitle: The Prismatic Pond

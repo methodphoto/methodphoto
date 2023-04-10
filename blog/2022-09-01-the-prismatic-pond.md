@@ -1,5 +1,5 @@
 ---
-template: post
+template: default
 title: The Prismatic Pond
 date: 2022-09-01
 prevtitle: Crouch End LIP Annual Show

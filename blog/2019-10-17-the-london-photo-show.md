@@ -1,5 +1,5 @@
 ---
-template: post
+template: default
 title: The London Photo Show
 date: 2019-10-17
 prevtitle: 
