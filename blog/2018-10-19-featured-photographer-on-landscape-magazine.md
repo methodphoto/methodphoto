@@ -14,6 +14,4 @@ I am the [Featured Photographer](https://www.onlandscape.co.uk/2018/10/richard-e
 
 ![Those Lost Souls](those-lost-souls-2016.webp "Those Lost Souls")
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
-
-[{{page.next}}](2021-01-13-warped-topographies-ii)
+{% include blog-link %}

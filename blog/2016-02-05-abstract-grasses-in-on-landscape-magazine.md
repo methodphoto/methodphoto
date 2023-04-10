@@ -3,7 +3,7 @@ template: default
 title: Abstract Grasses in ‘On Landscape’ Magazine
 date: 2016-02-05
 previous:
-next:
+next: 2016-02-16-the-fuji-x-t1-a-card-and-a-cautionary-tale
 ---
 
 # {{page.title}}
@@ -20,6 +20,4 @@ I also loved Stuart Westmore's Roebuck Bay tides, abstract seascapes in the same
 
 Aerial views such as these, and those shot by masters like [Hans Strand](http://www.hansstrand.com/Hans_Strand/Aerials_14.html), alter your perspective of the landscape more than almost any other part of the canon. Of course heading up in a plane is an expensive old business, but well worth it from the work we see.
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
-
-[{{page.next}}](2021-01-13-warped-topographies-ii)
+{% include blog-link %}

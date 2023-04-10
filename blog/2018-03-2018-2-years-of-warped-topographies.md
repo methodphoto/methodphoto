@@ -16,6 +16,4 @@ One of my abstract images was featured, *Summer Shimmer, Water Ripple*, which wa
 
 ![<# alt text #>](summer-shimmer-water-rpple.jpg "summer-shimmer-water-rpple.jpg")
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
-
-[{{page.next}}](2021-01-13-warped-topographies-ii)
+{% include blog-link %}

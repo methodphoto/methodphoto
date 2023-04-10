@@ -26,6 +26,4 @@ These were printed and mounted by Metro Imaging in London. I decided to print th
 
 And here’s a pic of me with the image pair, looking pretty happy!
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
-
-[{{page.next}}](2021-01-13-warped-topographies-ii)
+{% include blog-link %}

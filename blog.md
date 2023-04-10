@@ -49,5 +49,4 @@ title: Blog
 2016-03-15 [Those Lost Souls](blog/2016-03-15-those-lost-souls)<br />
 2016-02-27 [Filigree](blog/2016-02-27-filigree)<br />
 2016-02-16 [The X-T1, a Card and a Cautionary Tale](blog/2016-02-16-the-fuji-x-t1-a-card-and-a-cautionary-tale)<br />
-2016-02-09 [Monday Abstract Grasses](blog/2016-02-09-monday-abstract-grasses)<br />
 2016-02-05 [Abstract Grasses in On Landscape Magazine](blog/2016-02-05-abstract-grasses-in-on-landscape-magazine)

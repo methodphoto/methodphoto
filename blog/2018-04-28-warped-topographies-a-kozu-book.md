@@ -30,6 +30,4 @@ International orders are sent via Royal Mail
 
 You can pre-order the book now from Kozu for £14, it ships in early July
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
-
-[{{page.next}}](2021-01-13-warped-topographies-ii)
+{% include blog-link %}

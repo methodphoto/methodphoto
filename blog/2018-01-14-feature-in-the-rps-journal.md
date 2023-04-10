@@ -14,6 +14,4 @@ next:
 
 [![RPS Journal](rpsjournal_thumb.webp "RPS Journal")](RPS-Journal-January-2018.pdf)
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
-
-[{{page.next}}](2021-01-13-warped-topographies-ii)
+{% include blog-link %}

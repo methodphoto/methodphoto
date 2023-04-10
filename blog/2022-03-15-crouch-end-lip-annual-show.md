@@ -2,8 +2,8 @@
 template: default
 title: Crouch End LIP Annual Show
 date: 2022-03-15
-previous:
-next:
+previous: 2021-01-13-warped-topographies-ii
+next: 2022-09-01-the-prismatic-pond
 ---
 
 # {{page.title}}
@@ -22,4 +22,4 @@ I am showing four from my [Motion Stills](../motion-stills) and [Ghosts of the B
 ![Motion Stills](../motion-stills/motion-stills-01.webp "Motion Stills")
 
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
+[<< next]({{page.next}}) | [>> previous]({{page.previous}})

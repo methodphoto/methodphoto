@@ -18,6 +18,4 @@ The joy and frustration of shooting instant film is that you can't always guaran
 
 The [Happy Accidents](http://prymeeditions.com/happy-accidents-september-2017) exhibition highlights 40 images which have become works of art in their own right.
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
-
-[{{page.next}}](2021-01-13-warped-topographies-ii)
+{% include blog-link %}

@@ -142,6 +142,4 @@ Paul is currently exhibiting at The Lowry, Salford in [Expect the Unexpected](ht
 
 
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
-
-[{{page.next}}](2021-01-13-warped-topographies-ii)
+{% include blog-link %}

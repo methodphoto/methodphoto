@@ -21,6 +21,4 @@ If you would like a print, then visit my store. Three framed prints will be part
 Thank you to everyone who has liked, encouraged, shared and bought this series, you are all wonderful 😄
 
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
-
-[{{page.next}}](2021-01-13-warped-topographies-ii)
+{% include blog-link %}

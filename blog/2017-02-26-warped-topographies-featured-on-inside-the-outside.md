@@ -30,6 +30,4 @@ Inside the Outside is a collective run by [Al Brydon](Al Brydon), [Rob Hudson](h
 
 
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
-
-[{{page.next}}](2021-01-13-warped-topographies-ii)
+{% include blog-link %}

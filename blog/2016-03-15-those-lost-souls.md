@@ -23,6 +23,4 @@ There are even elements of the cloud patterns of Jupiter to be seen in the shape
 ![Those Lost Souls](../those-lost-souls/those-lost-souls-01.webp "Those Lost Souls")
 
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
-
-[{{page.next}}](2021-01-13-warped-topographies-ii)
+{% include blog-link %}

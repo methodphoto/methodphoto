@@ -32,6 +32,4 @@ Instagram user [Florintintin](http://instagram.com/flointintin) who provided som
 
 And of course, my wife Janette, and my children Charlotte and Harry, who have had to put up numerous Polaroids strewn around the house and lots of. "What do you think?…"
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
-
-[{{page.next}}](2021-01-13-warped-topographies-ii)
+{% include blog-link %}

@@ -42,6 +42,4 @@ Thanks need to go to Matthew Lee in Tech Support at LC Tech Support Services Ltd
 
 Generally my card usage and backup regime is pretty good, but this has certainly given me cause for further thought.
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
-
-[{{page.next}}](2021-01-13-warped-topographies-ii)
+{% include blog-link %}

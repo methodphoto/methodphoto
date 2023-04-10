@@ -2,9 +2,8 @@
 template: default
 title: The Prismatic Pond
 date: 2022-09-01
-prevtitle: Crouch End LIP Annual Show
 previous: 2022-03-15-crouch-end-lip-annual-show
-next:
+next: 2023-03-21-lip-crouch-end-annual
 ---
 
 # {{page.title}}
@@ -21,4 +20,4 @@ Copies are [directly available](https://methodphotopress.co.uk) and are £17:50 
 
 ![{{page.title}}](../books/the-prismatic-pond-01.webp "{{page.title}}")
 
-[{{page.prevtitle}}]({{page.previous}})
+[<< next]({{page.next}}) | [>> previous]({{page.previous}})

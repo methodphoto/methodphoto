@@ -16,6 +16,4 @@ This may seem an unpromising concept for a series, but take a look for yourself.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbgUwId99yQ?start=1279" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
-
-[{{page.next}}](2021-01-13-warped-topographies-ii)
+{% include blog-link %}
