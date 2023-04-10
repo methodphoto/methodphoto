@@ -20,4 +20,4 @@ Copies are [directly available](https://methodphotopress.co.uk) and are £17:50 
 
 ![{{page.title}}](../books/the-prismatic-pond-01.webp "{{page.title}}")
 
-[<< next]({{page.next}}) | [>> previous]({{page.previous}})
+{% include blog-link %}

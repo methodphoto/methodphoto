@@ -2,8 +2,8 @@
 template: default
 title: The Fuji X-T1, a Card, and a Cautionary Tale
 date: 2016-02-16
-previous:
-next:
+previous: 2016-02-05-abstract-grasses-in-on-landscape-magazine
+next: 2016-02-27-filigree
 ---
 
 # {{page.title}}

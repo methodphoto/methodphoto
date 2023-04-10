@@ -20,4 +20,4 @@ The first run was a limited edition of 50 and sold out very quickly. There are -
 
 You can see more of both [Warped Topographies](https://biblioscapes.com/library/warped-topographies) and [Warped Topographies II](https://biblioscapes.com/library/warped-topographies-ii) at [Biblioscapes](https://biblioscapes.com/), and you can hear an podcast with me [talking about Warped Topographies II](https://biblioscapes.com/in-discussion/richard-earney) also at Biblioscapes.
 
-[<< next]({{page.next}}) | [>> previous]({{page.previous}})
+{% include blog-link %}

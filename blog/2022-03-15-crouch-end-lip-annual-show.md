@@ -22,4 +22,4 @@ I am showing four from my [Motion Stills](../motion-stills) and [Ghosts of the B
 ![Motion Stills](../motion-stills/motion-stills-01.webp "Motion Stills")
 
 
-[<< next]({{page.next}}) | [>> previous]({{page.previous}})
+{% include blog-link %}

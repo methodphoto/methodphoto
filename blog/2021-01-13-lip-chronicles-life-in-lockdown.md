@@ -16,3 +16,4 @@ One of my abstract images was featured, *Summer Shimmer, Water Ripple*, which wa
 
 ![Summer Shimmer, Water Ripple](summer-shimmer-water-ripple.webp "Summer Shimmer, Water Ripple")
 
+{% include blog-link %}

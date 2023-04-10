@@ -21,4 +21,4 @@ Meet the Artists: 01/04/2023 13:00–17:00
 ![Obscured Perception](obscured-perception.webp "Obscured Perception")
 
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
+{% include blog-link %}

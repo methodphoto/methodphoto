@@ -23,4 +23,4 @@ I am showing works from Warped Topographies and The Prismatic Pond
 ![The Prismatic Pond](../the-prismatic-pond/the-prismatic-pond-08.webp "The Prismatic Pond")
 
 
-[{{page.previous}}](2021-01-13-lip-chronicles-life-in-lockdown)
+{% include blog-link %}
