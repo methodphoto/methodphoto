@@ -5,6 +5,15 @@ title: Blog
 
 {{page.title}}
 
+### 2023
+
+[2023-03-21 LIP Crouch End Annual](blog/2023-03-21-lip-crouch-end-annual)
+
+### 2022
+
+[2022-09-01 The Prismatic Pond](blog/2022-09-01-the-prismatic-pond)<br />
+[2022-03-15 Warped Topographies II](blog/2022-03-15-crouch-end-lip-annual-show)
+
 ### 2021
 
 [2021-01-13 Warped Topographies II](blog/2021-01-13-warped-topographies-ii)<br />
@@ -12,6 +21,8 @@ title: Blog
 
 ### 2019
 
+[2019-10-17 The London Photo Show](blog/2019-10-17-the-london-photo-show)<br />
+[2019-10-01 London Independent Photography 31st Annual Exhibition](blog/2019-10-01-lip-31)<br />
 [2019-07-16 An Interview with Paul Kenny](blog/2019-07-16-an-interview-with-paul-kenny)<br />
 [2019-07-02 Video Feature](blog/2019-07-02-video-feature)
 
