@@ -70,10 +70,10 @@ button {box-shadow: none;}
 	font-size: 1.1rem !important;
 }
 
-.spacer {height: 20px;}
+table {margin-top: 20px;}
 
-td:first-child {text-align: left;}
-td:second-child {text-align: right;}
+td:nth-child(1) {text-align: left;}
+td:nth-child(2) {text-align: right;}
 
 .links:hover {
 	background-color: #000;
