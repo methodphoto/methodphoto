@@ -6,9 +6,9 @@ previous:
 next:
 ---
 
-{{page.title}}
+# {{page.title}}
 
-{{page.date}}
+## {{page.date}}
 
 I am thrilled to announce that [Kozu Books](https://www.kozubooks.com/books-new/richard-earney-warped-topographies) will be publishing my book Warped Topographies in July 2018.
 

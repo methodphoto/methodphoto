@@ -7,9 +7,9 @@ previous: 2022-03-15-crouch-end-lip-annual-show
 next:
 ---
 
-{{page.title}}
+# {{page.title}}
 
-{{page.date}}
+## {{page.date}}
 
 ### it began with a riot of colour…
 

@@ -6,9 +6,9 @@ previous:
 next:
 ---
 
-{{page.title}}
+# {{page.title}}
 
-{{page.date}}
+## {{page.date}}
 
 Naturally this is an after the event post, but last week I had two Warped Topographies in the [London Independent Photographers](http://www.londonphotography.org.uk/) 30th (LIP30) [Annual Exhibition](http://www.londonphotography.org.uk/exhibitions/LIP30Annual/).
 

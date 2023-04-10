@@ -6,9 +6,9 @@ previous:
 next:
 ---
 
-{{page.title}}
+# {{page.title}}
 
-{{page.date}}
+## {{page.date}}
 
 I thought I’d try something a bit different on this rather too quiet blog. So to help celebrate the book launch of Paul Kenny’s O Hanami: The Celebration of Transient Beauty. I corralled the help of [Graham Cook](https://www.innervisible.co.uk/) and we put together some questions which I hope not only enlighten you about the book, but also some of Paul’s thinking and working methods.
 

@@ -6,9 +6,9 @@ previous:
 next:
 ---
 
-{{page.title}}
+# {{page.title}}
 
-{{page.date}}
+## {{page.date}}
 
 One of my newer Warped Topographies has been selected for [Prime Editions' Happy Accidents](http://prymeeditions.com/happy-accidents-september-2017) September 2017 online exhibition.
 

@@ -6,9 +6,9 @@ previous:
 next:
 ---
 
-{{page.title}}
+# {{page.title}}
 
-{{page.date}}
+## {{page.date}}
 
 I’m pleased to announce I will have 3 photographs exhibited (my first time) as part of the Royal Photographic Society International Photobook Exhibition 2016 which is held at:
 

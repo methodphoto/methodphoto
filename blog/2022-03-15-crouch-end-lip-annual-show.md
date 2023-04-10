@@ -6,9 +6,9 @@ previous:
 next:
 ---
 
-{{page.title}}
+# {{page.title}}
 
-{{page.date}}
+## {{page.date}}
 
 After 2 years away from exhibiting the Crouch End London Independent Photography group is back with our annual exhibition.
 

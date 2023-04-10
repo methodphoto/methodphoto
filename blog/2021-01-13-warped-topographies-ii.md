@@ -8,9 +8,9 @@ nexttitle: Crouch End LIP Annual Show
 next: 2022-03-15-crouch-end-lip-annual-show
 ---
 
-{{page.title}}
+# {{page.title}}
 
-{{page.date}}
+## {{page.date}}
 
 One lockdown project was publishing of Warped Topographies II. This is a second collection of Warped Topographies following the publication of the original book in July 2018 by [Kozu Books].
 

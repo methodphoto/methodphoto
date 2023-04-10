@@ -6,9 +6,9 @@ previous:
 next:
 ---
 
-{{page.title}}
+# {{page.title}}
 
-{{page.date}}
+## {{page.date}}
 
 Life is zipping past quickly at the moment, so I completely forgot to link to [Greg Whitton’s Quickshotz video](https://www.youtube.com/watch?v=ZbgUwId99yQ) which contains a feature on The Prismatic Pond, my recent and current series looking at a small grotty pond in a local country park.
 

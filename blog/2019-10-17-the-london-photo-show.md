@@ -7,9 +7,9 @@ previous:
 next:
 ---
 
-{{page.title}}
+# {{page.title}}
 
-{{page.date}}
+## {{page.date}}
 
 I'm really exited to be showing some work at The London Photo Show at the Bargehouse Gallery in the Oxo Tower Wharf, London.
 

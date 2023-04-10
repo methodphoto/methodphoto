@@ -6,9 +6,9 @@ previous:
 next:
 ---
 
-{{page.title}}
+# {{page.title}}
 
-{{page.date}}
+## {{page.date}}
 
 A February trip to Iceland promised much winter weather and the possibility of Northern Lights and it duly delivered. But along the way there was a heart-stopping moment.
 

@@ -6,9 +6,9 @@ previous:
 next:
 ---
 
-{{page.title}}
+# {{page.title}}
 
-{{page.date}}
+## {{page.date}}
 
 2018 gets off to a nice start with a feature in the RPS Journal about Warped Topographies, click the thumbnail to read the full article.
 

@@ -6,9 +6,9 @@ previous:
 next:
 ---
 
-{{page.title}}
+# {{page.title}}
 
-{{page.date}}
+## {{page.date}}
 
 Last week's On Landscape Magazine published some of my Abstract Grasses in its Subscribers 4x4 section.
 

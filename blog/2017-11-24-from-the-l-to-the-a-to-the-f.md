@@ -6,9 +6,9 @@ previous:
 next:
 ---
 
-{{page.title}}
+# {{page.title}}
 
-{{page.date}}
+## {{page.date}}
 
 I am delighted and proud to announce that I have just been awarded the Fellowship of the Royal Photographic Society with my panel of Warped Topographies Polaroids.
 
