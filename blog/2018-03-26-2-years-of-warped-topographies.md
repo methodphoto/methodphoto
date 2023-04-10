@@ -2,8 +2,8 @@
 template: default
 title: 2 Years of Warped Topographies
 date: 2018-03-26
-previous:
-next:
+previous: 2018-01-14-feature-in-the-rps-journal
+next: 2018-04-25-#connected2018
 ---
 
 # {{page.title}}

@@ -2,8 +2,8 @@
 template: default
 title: From the L to the A to the F
 date: 2017-11-24
-previous:
-next:
+previous: 2017-08-26-happy-accidents-on-pryme-editions
+next: 2018-01-14-feature-in-the-rps-journal
 ---
 
 # {{page.title}}

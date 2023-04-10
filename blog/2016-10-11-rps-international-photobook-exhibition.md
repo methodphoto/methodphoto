@@ -2,8 +2,8 @@
 template: default
 title: RPS International Photobook Exhibition
 date: 2016-10-11
-previous:
-next:
+previous: 2016-03-15-those-lost-souls
+next: 2017-02-14-rps-biennial-2017
 ---
 
 # {{page.title}}

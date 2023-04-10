@@ -2,8 +2,8 @@
 template: default
 title: Warped Topographies featured on Inside The Outside
 date: 2017-02-26
-previous:
-next:
+previous: 2017-02-14-rps-biennial-2017
+next: 2017-05-08-warped-topographies-article-in-the-on-landscape-magazine
 ---
 
 # {{page.title}}

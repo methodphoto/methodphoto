@@ -2,8 +2,8 @@
 template: default
 title: Those Lost Souls
 date: 2016-03-15
-previous:
-next:
+previous: 2016-02-27-filigree
+next: 2016-10-11-rps-international-photobook-exhibition
 ---
 
 # {{page.title}}

@@ -2,8 +2,8 @@
 template: default
 title: Happy Accidents on Pryme Edition
 date: 2017-08-26
-previous:
-next:
+previous: 2017-05-08-warped-topographies-article-in-the-on-landscape-magazine
+next: 2017-11-24-from-the-l-to-the-a-to-the-f
 ---
 
 # {{page.title}}

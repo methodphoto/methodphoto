@@ -2,8 +2,8 @@
 template: default
 title: Feature in the RPS Journal
 date: 2018-01-14
-previous:
-next:
+previous: 2017-11-24-from-the-l-to-the-a-to-the-f
+next: 2018-03-26-2-years-of-warped-topographies
 ---
 
 # {{page.title}}

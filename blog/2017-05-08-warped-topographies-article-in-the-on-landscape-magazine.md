@@ -2,8 +2,8 @@
 template: default
 title: Warped Topographies in the On Landscape Magazine
 date: 2017-05-08
-previous:
-next:
+previous: 2017-02-26-warped-topographies-featured-on-inside-the-outside
+next: 2017-08-26-happy-accidents-on-pryme-editions
 ---
 
 # {{page.title}}
