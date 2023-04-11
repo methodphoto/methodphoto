@@ -6,9 +6,7 @@ previous: 2022-03-15-crouch-end-lip-annual-show
 next: 2023-03-21-lip-crouch-end-annual
 ---
 
-# {{page.title}}
-
-## {{page.date}}
+#### {{page.date}}
 
 ### it began with a riot of colour…
 

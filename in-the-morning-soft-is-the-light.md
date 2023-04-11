@@ -5,8 +5,6 @@ year: 2021
 parent: galleries
 ---
 
-# {{page.title}}
-
 Think of that first light on a cold morning; winter on the cusp of spring. It is a clear and pure light; shimmers and scintillations as the light falls onto a patch of fresh-growth leaves.
 
  One such morning, close by my favourite pond, I looked through the trees and saw this light. It seemed like there was so much that could fit into the frame. Every few metres there was something there. I felt like I was looking through an image and seeing a thousand more.

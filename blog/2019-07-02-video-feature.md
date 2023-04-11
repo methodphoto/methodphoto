@@ -2,13 +2,11 @@
 template: default
 title: Video Feature
 date: 2019-07-02
-previous:
-next:
+previous: 018-10-19-featured-photographer-on-landscape-magazine
+next: 019-07-16-an-interview-with-paul-kenny
 ---
 
-# {{page.title}}
-
-## {{page.date}}
+#### {{page.date}}
 
 Life is zipping past quickly at the moment, so I completely forgot to link to [Greg Whitton’s Quickshotz video](https://www.youtube.com/watch?v=ZbgUwId99yQ) which contains a feature on The Prismatic Pond, my recent and current series looking at a small grotty pond in a local country park.
 

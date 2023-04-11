@@ -2,14 +2,11 @@
 template: default
 title: The London Photo Show
 date: 2019-10-17
-prevtitle: 
-previous: 
-next:
+previous: 019-10-01-lip-31
+next: 021-01-13-lip-chronicles-life-in-lockdown
 ---
 
-# {{page.title}}
-
-## {{page.date}}
+#### {{page.date}}
 
 I'm really exited to be showing some work at The London Photo Show at the Bargehouse Gallery in the Oxo Tower Wharf, London.
 

@@ -2,13 +2,11 @@
 template: default
 title: Warped Topographies - A Kozu Book
 date: 2018-04-28
-previous:
-next:
+previous: 018-04-25-#connected2018
+next: 018-10-08-london-independent-photographers-30th-annual-exhibition
 ---
 
-# {{page.title}}
-
-## {{page.date}}
+#### {{page.date}}
 
 I am thrilled to announce that [Kozu Books](https://www.kozubooks.com/books-new/richard-earney-warped-topographies) will be publishing my book Warped Topographies in July 2018.
 

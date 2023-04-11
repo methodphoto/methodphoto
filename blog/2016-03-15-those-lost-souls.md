@@ -6,9 +6,7 @@ previous: 2016-02-27-filigree
 next: 2016-10-11-rps-international-photobook-exhibition
 ---
 
-# {{page.title}}
-
-## {{page.date}}
+#### {{page.date}}
 
 It isn't often that I get to shoot images when the weather is -3C, with 20m/s winds, in the middle of a snowstorm, while the sun still shines, but I'm mightily glad I did with this set.
 

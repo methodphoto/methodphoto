@@ -43,7 +43,7 @@ body {
 	color: $primary-color;
 }
 
-h1 {
+h1, h1.post-title {
 	font-weight: 500;
 	color: $primary-header-color;
 }

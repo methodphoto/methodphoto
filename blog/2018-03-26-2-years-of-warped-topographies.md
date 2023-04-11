@@ -6,9 +6,7 @@ previous: 2018-01-14-feature-in-the-rps-journal
 next: 2018-04-25-#connected2018
 ---
 
-# {{page.title}}
-
-## {{page.date}}
+#### {{page.date}}
 
 Today (March 26th) marks the second anniversary of my first Warped Topographies post on Instagram, a series that has become something of an obsession ever since. It was a project that I’d begun about a month before and I decided to use Instagram as a diary and post it all.
 

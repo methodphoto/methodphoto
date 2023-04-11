@@ -6,9 +6,7 @@ previous: 2017-05-08-warped-topographies-article-in-the-on-landscape-magazine
 next: 2017-11-24-from-the-l-to-the-a-to-the-f
 ---
 
-# {{page.title}}
-
-## {{page.date}}
+#### {{page.date}}
 
 One of my newer Warped Topographies has been selected for [Prime Editions' Happy Accidents](http://prymeeditions.com/happy-accidents-september-2017) September 2017 online exhibition.
 

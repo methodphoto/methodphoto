@@ -6,9 +6,7 @@ previous: 2021-01-13-warped-topographies-ii
 next: 2022-09-01-the-prismatic-pond
 ---
 
-# {{page.title}}
-
-## {{page.date}}
+#### {{page.date}}
 
 After 2 years away from exhibiting the Crouch End London Independent Photography group is back with our annual exhibition.
 

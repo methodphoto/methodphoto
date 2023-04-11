@@ -6,9 +6,7 @@ previous: 2016-03-15-those-lost-souls
 next: 2017-02-14-rps-biennial-2017
 ---
 
-# {{page.title}}
-
-## {{page.date}}
+#### {{page.date}}
 
 I’m pleased to announce I will have 3 photographs exhibited (my first time) as part of the Royal Photographic Society International Photobook Exhibition 2016 which is held at:
 

@@ -6,9 +6,7 @@ previous: 2017-02-14-rps-biennial-2017
 next: 2017-05-08-warped-topographies-article-in-the-on-landscape-magazine
 ---
 
-# {{page.title}}
-
-## {{page.date}}
+#### {{page.date}}
 
 I'm delighted to announce that my project [Warped Topographies](http://method.photo/#/warped-topographies/) has been featured this week on [Inside the Outside](http://www.inside-the-outside.com/warped-topographies-richard-earney/).
 

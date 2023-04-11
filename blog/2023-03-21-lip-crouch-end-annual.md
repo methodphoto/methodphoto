@@ -7,9 +7,7 @@ previous: 2022-09-01-the-prismatic-pond
 next:
 ---
 
-# {{page.title}}
-
-## {{page.date}}
+#### {{page.date}}
 
 A brand new LIP Crouch End annual exhibition takes place back at the Original Gallery in Hornsey Library N8 9JA 21 March–2 April.
 

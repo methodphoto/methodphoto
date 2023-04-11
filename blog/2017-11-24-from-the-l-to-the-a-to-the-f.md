@@ -6,9 +6,7 @@ previous: 2017-08-26-happy-accidents-on-pryme-editions
 next: 2018-01-14-feature-in-the-rps-journal
 ---
 
-# {{page.title}}
-
-## {{page.date}}
+#### {{page.date}}
 
 I am delighted and proud to announce that I have just been awarded the Fellowship of the Royal Photographic Society with my panel of Warped Topographies Polaroids.
 

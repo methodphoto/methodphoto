@@ -6,9 +6,7 @@ previous:
 next: 2016-02-16-the-fuji-x-t1-a-card-and-a-cautionary-tale
 ---
 
-# {{page.title}}
-
-## {{page.date}}
+#### {{page.date}}
 
 Last week's On Landscape Magazine published some of my Abstract Grasses in its Subscribers 4x4 section.
 
