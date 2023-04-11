@@ -13,7 +13,7 @@ A brand new LIP Crouch End annual exhibition takes place back at the Original Ga
 
 16 artists are showing their work and I am showing 6 [Obscured Perception](../obscured-perception) images.
 
-Private view: 23/03/2023 18:30–21:00
+Private view: 23/03/2023 18:30–21:00<br />
 Meet the Artists: 01/04/2023 13:00–17:00
 
 ![Obscured Perception](obscured-perception.webp "Obscured Perception")
