@@ -24,7 +24,7 @@ For deeper encouragement during existential crises, [Rob Hudson](http://www.robh
 
 [Paul Mitchell](http://www.paulmitchellphotography.co.uk/) who mentored me through the choppier waters of the Fellowship Process.
 
-Instagram user [Florintintin](http://instagram.com/flointintin) who provided some early technical advice!
+Instagram user *florintintin* who provided some early technical advice!
 
 [Paul Kenny](http://www.paul-kenny.co.uk/) whose work provided huge amounts of inspiration and also showed that creative work needs time and patience (although I'm not sure any of my images took multiple months to produce!)
 
