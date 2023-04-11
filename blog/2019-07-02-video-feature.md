@@ -2,8 +2,8 @@
 template: default
 title: Video Feature
 date: 2019-07-02
-previous: 018-10-19-featured-photographer-on-landscape-magazine
-next: 019-07-16-an-interview-with-paul-kenny
+previous: 2018-10-19-featured-photographer-on-landscape-magazine
+next: 2019-07-16-an-interview-with-paul-kenny
 ---
 
 #### {{page.date}}

@@ -2,8 +2,8 @@
 template: default
 title: London Independent Photography 30th Annual Exhibition
 date: 2018-10-08
-previous: 018-04-28-warped-topographies-a-kozu-book
-next: 018-10-19-featured-photographer-on-landscape-magazine
+previous: 2018-04-28-warped-topographies-a-kozu-book
+next: 2018-10-19-featured-photographer-on-landscape-magazine
 ---
 
 #### {{page.date}}

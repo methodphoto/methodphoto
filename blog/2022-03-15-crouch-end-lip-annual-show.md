@@ -8,7 +8,7 @@ next: 2022-09-01-the-prismatic-pond
 
 #### {{page.date}}
 
-After 2 years away from exhibiting the Crouch End London Independent Photography group is back with our annual exhibition.
+After 2 years away from exhibiting, the Crouch End London Independent Photography group is back with our annual exhibition.
 
 Held at the Original Gallery in Hornsey Library N8 9JA (a lovely space) 16 artists are showing their work, most of which was made in the hiatus caused by the Pandemic.
 

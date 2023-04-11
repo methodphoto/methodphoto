@@ -1,9 +1,9 @@
 ---
 template: default
-title: Warped Topographies II
+title: LIP Chronicles - Life in Lockdown
 date: 2021-01-13
-previous: 021-01-13-lip-chronicles-life-in-lockdown
-next: 022-03-15-crouch-end-lip-annual-show
+previous: 2019-10-17-the-london-photo-show
+next: 2022-03-15-crouch-end-lip-annual-show
 ---
 
 #### {{page.date}}

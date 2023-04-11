@@ -2,8 +2,8 @@
 template: default
 title: Featured Photographer - On Landscape Magazine
 date: 2018-10-19
-previous: 018-10-08-london-independent-photographers-30th-annual-exhibition
-next: 019-07-02-video-feature
+previous: 2018-10-08-london-independent-photographers-30th-annual-exhibition
+next: 2019-07-02-video-feature
 ---
 
 #### {{page.date}}

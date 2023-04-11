@@ -2,8 +2,8 @@
 template: default
 title: An Interview with Paul Kenny
 date: 2019-07-16
-previous: 019-07-02-video-feature
-next: 019-10-01-lip-31
+previous: 2019-07-02-video-feature
+next: 2019-10-01-lip-31
 ---
 
 #### {{page.date}}
