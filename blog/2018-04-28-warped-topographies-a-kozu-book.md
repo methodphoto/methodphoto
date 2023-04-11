@@ -2,7 +2,7 @@
 template: default
 title: Warped Topographies - A Kozu Book
 date: 2018-04-28
-previous: 2018-04-25-#connected2018
+previous: 2018-04-25-connected2018
 next: 2018-10-08-london-independent-photographers-30th-annual-exhibition
 ---
 
