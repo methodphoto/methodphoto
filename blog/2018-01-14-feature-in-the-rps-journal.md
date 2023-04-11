@@ -10,6 +10,7 @@ next: 2018-03-26-2-years-of-warped-topographies
 
 2018 gets off to a nice start with a feature in the RPS Journal about Warped Topographies, click the thumbnail to read the full article.
 
-[![RPS Journal](rpsjournal_thumb.webp "RPS Journal")](RPS-Journal-January-2018.pdf)
+[![RPS Journal](rps-journal-01-2018-sm.webp "RPS Journal")](rps-journal-01-2018.webp)
+
 
 {% include blog-link %}
