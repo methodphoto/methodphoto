@@ -19,4 +19,4 @@ A brand new LIP Crouch End annual exhibition takes place back at the Original Ga
 ![Obscured Perception](obscured-perception.webp "Obscured Perception")
 
 
-{% include blog-link %}
+{% include blog-link-newest %}
