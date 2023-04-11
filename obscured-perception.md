@@ -4,6 +4,8 @@ title: Obscured Perception
 parent: galleries
 ---
 
+# {{page.title}}
+
  “There are things known and there are things unknown, and in between are the doors of perception.” 
 — Aldous Huxley
 
