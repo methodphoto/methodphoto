@@ -18,4 +18,4 @@ I also loved Stuart Westmore's Roebuck Bay tides, abstract seascapes in the same
 
 Aerial views such as these, and those shot by masters like [Hans Strand](http://www.hansstrand.com/Hans_Strand/Aerials_14.html), alter your perspective of the landscape more than almost any other part of the canon. Of course heading up in a plane is an expensive old business, but well worth it from the work we see.
 
-{% include blog-link %}
+{% include blog-link-alone %}
