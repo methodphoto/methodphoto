@@ -3,7 +3,7 @@ layout: default
 title: Blog
 ---
 
-{{page.title}}
+# {{page.title}}
 
 ### 2023
 

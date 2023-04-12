@@ -5,6 +5,10 @@ year: 2020
 parent: galleries
 ---
 
+# {{page.title}}
+
+### {{page.year}}
+
 As with [An Early Morning Walk, One Day in Spring](an-early-morning-walk-one-day-in-spring) this series started as a video. Many of the frames made for beautiful stills which are presented here. 
 
 Unlike *An Early Morning Walk, One Day in Spring* it was made into a video!

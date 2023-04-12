@@ -7,6 +7,8 @@ parent: galleries
 
 # {{page.title}}
 
+### {{page.year}}
+
 The showroom manikins of London's Bond Street live their lives, dressing up, posing, and throwing shapes. They seem oblivious to the economic crisis.
 
 

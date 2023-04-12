@@ -7,6 +7,8 @@ parent: galleries
 
 # {{page.title}}
 
+### {{page.year}}
+
 It isn't often that I get to shoot images when the weather is -3C, with 20m/s winds, in the middle of a snowstorm, while the sun still shines, but I'm mightily glad I did with this set.
 
 They were all shot on a frozen lake in Rif in the Snaefelsness peninsular of Iceland.

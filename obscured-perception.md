@@ -6,6 +6,9 @@ parent: galleries
 
 # {{page.title}}
 
+### {{page.year}}
+
+
  “There are things known and there are things unknown, and in between are the doors of perception.” 
 — Aldous Huxley
 

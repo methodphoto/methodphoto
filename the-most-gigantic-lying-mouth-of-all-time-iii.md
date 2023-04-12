@@ -7,6 +7,8 @@ parent: galleries
 
 # {{page.title}}
 
+### {{page.year}}
+
 After a decade of great crisis we’re cursed with the worst politicians. They‘re happy to destroy the country for their own petty obsessions. They lie and then they lie about lying.
 
 We may not deserve better, but we need better.

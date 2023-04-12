@@ -7,6 +7,8 @@ parent: galleries
 
 # {{page.title}}
 
+### {{page.year}}
+
 Taken at Porto’s Jardim Botânico these contain some of my favourite elements: flowers, time as depicted by the fading flowers and the slug/snail trails forming patterns through the algae on the glass, diffuse imagery and abstraction. 
 
 ![{{page.title}}](life-in-a-glass-house/life-in-a-glass-house-01.webp "{{page.title}}")

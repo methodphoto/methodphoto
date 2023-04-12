@@ -7,6 +7,8 @@ parent: galleries
 
 # {{page.title}}
 
+### {{page.year}}
+
 The Abstract Grasses project started as an experiment in more conceptual photography. A piece of Barley grass and various natural abstract backgrounds all found either in my back garden or in nearby parks and nature reserves.
 
 Most of the images were created in camera using single or multiple exposures. More recent images have taken this further and used Photoshop and Lightroom to combine more exposures, in part to compensate for the two shots in a Multiple Exposure limitation with my Fuji X-T1, but also to keep exploring possibilities.
