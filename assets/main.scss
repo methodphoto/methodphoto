@@ -5,6 +5,8 @@
 
 @import "minima";
 
+@import url("form.css")
+
 $primary-color: #333f48;
 $primary-header-color: #0c5b97;
 $primary-link-color: #0c5b97;
@@ -188,11 +190,11 @@ blockquote {
 	.grid {
 		display: grid;
 		gap: 0.5rem;
-		grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
 	}
 
 	.grid img {
-		height: 100px;
-		width: 100px;
+		height: 110px;
+		width: 110px;
 	}
 }
