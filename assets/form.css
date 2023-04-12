@@ -20,16 +20,6 @@
   -moz-appearance: none;
 }
 
-#fs-frm label,
-#fs-frm legend,
-#fs-frm ::placeholder {
-  font-size: .825rem;
-  margin-bottom: .5rem;
-  padding-top: .2rem;
-  display: flex;
-  align-items: baseline;
-}
-
 /* submit */
 
 #fs-frm [type="submit"] {
@@ -39,6 +29,24 @@
 	border-radiun: 6px !important;
 	colour: white !important;
 	padding: .75em 1rem !important;
+}
+
+#fs-frm label {
+	color: $primary-color;
+}
+
+#fs-frm placeholder {
+	color: #ccc;
+}
+
+#fs-frm label,
+#fs-frm legend,
+#fs-frm ::placeholder {
+  font-size: .825rem;
+  margin-bottom: .5rem;
+  padding-top: .2rem;
+  display: flex;
+  align-items: baseline;
 }
 
 /* border, padding, margin, width */
