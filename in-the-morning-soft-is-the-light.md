@@ -1,7 +1,7 @@
 ---
 layout: default
 title: In the Morning, Soft is the Light
-year: 2021
+year: 2022
 parent: galleries
 ---
 

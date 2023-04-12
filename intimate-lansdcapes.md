@@ -6,7 +6,6 @@ parent: galleries
 
 # {{page.title}}
 
-### {{page.year}}
 
 ![{{page.title}}](intimate-lansdcapes/intimate-landscapes-01.webp "{{page.title}}")
 
