@@ -14,7 +14,8 @@ parent: books
 
 ### It Began With a Riot of Colour…
 
-This hyper-local photographic project focuses on a local pond at Forty Hill in Enfield, London. Less than a kilometre away from my house, the transformation of the space began under the surface in the winter of 2017.
+This book on a small pond at Forty Hall in Enfield, London, less than a kilometre away from my house.<br />
+The transformation of the space began under the surface in the winter of 2017.
 
 ### A Transformative Process
 
@@ -22,7 +23,7 @@ The book explores the metamorphosis of this small, seemingly unremarkable body o
 
 ### A Magical Effect
 
-There’s a joy that can be experienced in a long-term project; the understanding of light, pattern and texture; the anticipation of change; the imperceptible (to others) differences you notice as you return time and time again; the chance encounters with wildlife, where they are wary of you but accept your presence. It builds and builds until you feel you know the place.
+There’s a joy that can be experienced in a long-term project; the understanding of light, pattern and texture; the anticipation of change; the imperceptible (to others) differences you notice as you return time and time again; the chance encounters with wildlife, where they are wary of you but accept your presence. It builds and builds until you feel you intimately know the place.
 
 This book celebrates that quiet knowing, that riot of colour, and the subtle beauty that can be found in the most unlikely of places.
 
