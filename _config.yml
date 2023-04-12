@@ -8,3 +8,4 @@ minima:
   social_links:
     - { platform: mastadon, user_url: "https://toot.community/@methodphoto" }
     - { platform: instagram,  user_url: "https://instagram.com/methodphotonew" }
+    - { platform: glass,  user_url: "https://glass.photo/methodphoto" }

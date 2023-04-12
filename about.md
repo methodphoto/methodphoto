@@ -103,5 +103,4 @@ Biblioscapes: In Discussion [Episode 113](https://biblioscapes.com/in-discussion
 
 Biblioscapes: In Discussion [Episode 3](https://biblioscapes.com/in-discussion/richard-earney) (Warped Topographies)
 
-## Contact
 
