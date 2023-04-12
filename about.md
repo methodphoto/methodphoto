@@ -14,7 +14,7 @@ Over the years the common themes of representing time and motion in the still im
 
 ## Books
 
-[The Prismatic Pond](https://method.photo/books/the-prismatic-pond), 2022
+[The Prismatic Pond](https://methodphotopress.co.uk), 2022
 
 [Warped Topographies II](http://methodphotopress.uk/), 2020 (can also be viewed at [Biblioscapes](https://biblioscapes.com/library/warped-topographies-ii))
 
@@ -34,7 +34,7 @@ Licentiate of the Royal Photographic Society (LRPS) 2004
 
 ## Articles
 
-Royal Photographic Society Visual Art Magazine 157, Jan 2020
+[Royal Photographic Society Visual Art Magazine 157, Jan 2020](blog/2018-01-14-feature-in-the-rps-journal)
 
 Endframe, On Landscape Magazine, Dec 2019
 
@@ -56,37 +56,37 @@ On Landscape Magazine, [Hipstamatic Landscape Photography](https://www.onlandsca
 
 ## Exhibitions
 
-London Independent Photography Crouch End group, 2023, The Original Gallery, London
+[London Independent Photography Crouch End group, 2023, The Original Gallery, London](blog/2023-03-21-lip-crouch-end-annual)
 
 Jupiter Asset Mananagement
 
-London Independent Photography Crouch End group, 2022, The Original Gallery, London
+[London Independent Photography Crouch End group, 2022, The Original Gallery, London](blog/2022-03-15-crouch-end-lip-annual-show)
 
 #Connected 2021
 
 #Connected 2020: Re-Connected
 
-LIP Chronicles: Life Under Lockdown 2020
+[LIP Chronicles: Life Under Lockdown 2020](blog/2021-01-13-lip-chronicles-life-in-lockdown)
 
-London Photo Show 2019, Bargehouse Gallery, Oxo Tower
+[London Photo Show 2019, Bargehouse Gallery, Oxo Tower](blog/2019-10-17-the-london-photo-show)
 
 London Independent Photography Crouch End group, 2019, Ply Gallery, London
 
-London Independent Photography LIP 31 Exhibition 2019, Espacio Gallery (selected by Laura Noble, Tom Hunter, Philip Grey; curated by Colleen Rowe Harvey)
+[London Independent Photography LIP 31 Exhibition 2019, Espacio Gallery (selected by Laura Noble, Tom Hunter, Philip Grey; curated by Colleen Rowe Harvey)](blog/2019-10-01-lip-31)
 
 On Landscape, Meeting of Minds 2018 Community Exhibition
 
-London Independent Photography LIP 30 Exhibition 2018, Espacio Gallery
+[London Independent Photography LIP 30 Exhibition 2018, Espacio Gallery](blog/2018-10-08-london-independent-photographers-30th-annual-exhibition)
 
-#Connected 2018, Patching’s Gallery, Nottinghamshire
+[#Connected 2018, Patching’s Gallery, Nottinghamshire](blog/2018-04-25-#connected2018)
 
 #ConnectedTen, Patching’s Gallery, Nottinghamshire
 
-RPS Biennial 2017, Shire Hall Gallery, Stafford, Hull International Photo Festival, Royal Albert Hall
+[RPS Biennial 2017, Shire Hall Gallery, Stafford, Hull International Photo Festival, Royal Albert Hall](blog/2017-02-14-rps-biennial-2017)
 
 On Landscape, Meeting of Minds 2016 Community Exhibition
 
-International Photobook Exhibition 2016, Espacio Gallery, London
+[International Photobook Exhibition 2016, Espacio Gallery, London](blog/2016-10-11-rps-international-photobook-exhibition)
 
 ## Talks
 
