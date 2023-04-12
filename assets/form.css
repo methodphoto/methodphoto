@@ -30,10 +30,20 @@
   align-items: baseline;
 }
 
+/* submit */
+
+#fs-frm [type="submit"] {
+	background-color: #0c5b97 !important;
+	width: 288px !important;
+	min-height: 44px !important;
+	border-radiun: 6px !important;
+	colour: white !important;
+	padding: .75em 1rem !important;
+}
+
 /* border, padding, margin, width */
 
 #fs-frm input,
-#fs-frm select,
 #fs-frm textarea,
 #fs-frm #card-element {
   border: 1px solid rgba(0,0,0,0.2);
