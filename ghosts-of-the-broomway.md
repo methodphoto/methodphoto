@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ghosts of the Broomway
+year: 2022
 parent: galleries
 ---
 
