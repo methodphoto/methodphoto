@@ -20,7 +20,7 @@ E2 7DG
 
 From the exhibition notes:
 
-The photobook has evolved to become an established art form, particularly since 2000. Exhibitions and festivals are now held in many countries across Europe, the USA, Scandinavia, the Far East and Australia/New Zealand. Most photobooks are about telling a story through a series of photographs, giving a reader an in-depth repeatable experience. 
+> The photobook has evolved to become an established art form, particularly since 2000. Exhibitions and festivals are now held in many countries across Europe, the USA, Scandinavia, the Far East and Australia/New Zealand. Most photobooks are about telling a story through a series of photographs, giving a reader an in-depth repeatable experience. 
 
 This is the first international photobook exhibition, open to all, that has been organised by the Royal Photographic Society (RPS). Submissions are being short-listed by a jury of international photobook experience. Those that pass the selection, with a winner, second and third being nominated, feature in this exhibition. All may be browsed at the gallery. 
 
