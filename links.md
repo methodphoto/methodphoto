@@ -35,7 +35,7 @@ title: Links
 	</button>
 </a>
 
-<a href="https://method.photo/blog/2019/7/2/an-interview-with-paul-kenny">
+<a href="https://method.photo/blog/2019-07-16-an-interview-with-paul-kenny.md">
 	<button class="links">
 		An Interview with Paul Kenny
 	</button>
