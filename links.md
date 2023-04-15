@@ -3,9 +3,9 @@ layout: default
 title: Links
 ---
 
-[![Buy The Prismatic Pond](books/the-prismatic-pond-01.webp "The Prismatic Pond book cover")](https://www.methodphotopress.co.uk)
+[![Buy The Prismatic Pond](books/the-prismatic-pond-01.webp "The Prismatic Pond book cover")](https://www.methodphotopress.uk)
 
-<a href="https://www.methodphotopress.co.uk">
+<a href="https://www.methodphotopress.uk">
 	<button class="links">
 		Buy The Prismatic Pond
 	</button>
