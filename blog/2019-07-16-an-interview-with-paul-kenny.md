@@ -13,9 +13,9 @@ I thought I’d try something a bit different on this rather too quiet blog. So 
 
 If you haven’t ordered a copy yet, it is published by [Kozu Books](https://www.kozubooks.com/books-new/o-hanami-by-paul-kenny), pricing starts at £40 with Special Editions available. The forward is by [Francis Hodgson](https://francishodgson.com/).
 
-<span class="kanji">
-**花見**
-</span>
+<div class="kanji">
+	**花見**
+</div>
 
 ### On Paul's Process
 
@@ -73,7 +73,7 @@ A: Several senior curators and notably [Andy Goldsworthy](https://www.goldsworth
 
 A: I’m afraid I reverted to the role of eagle eyed documentary photographer. I only took my Nikon FT2 with bog standard 50mm lens and some rolls of Ilford FP4.
 
-![<# alt text #>](o-hanami-02.webp "o-hanami-02.webp")
+![O Hanami](o-hanami-02.webp "O Hanami")
 
 While I was in Japan I stayed in Tokyo mainly and had managed to agree five meetings with institutions and curators.
 
@@ -81,9 +81,9 @@ My one trip outside was a three day trip to the town of Utsunumya (no, I’d nev
 
 He took me to Mashiko. Home of the potter [Shōji Hamada](https://en.wikipedia.org/wiki/Shōji_Hamada) he is dead but had been designated ‘national living treasure’. He taught [Bernard Leach](https://en.wikipedia.org/wiki/Bernard_Leach) and his style spawned all that [Cornish Habitat](http://www.studiopottery.com/cgi-bin/mp.cgi?item=9) look.
 
-![<# alt text #>](o-hanami-mashiko.webp "o-hanami-mashiko.webp")
+![Mashiko](o-hanami-mashiko.webp "Mashiko")
 
-![<# alt text #>](o-hanami-03.webp "o-hanami-03.webp")
+![Tomu](o-hanami-03.webp "Tomu")
 
 I did get to meet his grandson Tomu who was the seventh generation to work the pottery.
 
