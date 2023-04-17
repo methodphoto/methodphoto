@@ -24,7 +24,7 @@ This project came about by chance after receiving an email from Ben Thompson, th
 
 > All of these abstract and or surreal photographs work together to radiate a mysterious fantasy and at times, a disconcerting beauty emerges. The inherent visual complexity further complicates the reception of the manifold layers of meaning through a different lens.
 
-? My thanks go to Jupiter for this opportunity and to Ben for giving so much of his time to this project.
+> My thanks go to Jupiter for this opportunity and to Ben for giving so much of his time to this project.
 
 
 
