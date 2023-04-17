@@ -3,8 +3,9 @@ template: default
 title: LIP Crouch End Annual
 date: 2022-03-15
 prevtitle: The Prismatic Pond
+nexttitle: Through a Different Lens
 previous: 2022-09-01-the-prismatic-pond
-next:
+next: 2023-04-17-through-a-different-lens
 ---
 
 #### {{page.date}}

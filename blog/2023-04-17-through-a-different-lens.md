@@ -9,7 +9,7 @@ next:
 
 #### {{page.date}}
 
-Recently two of my images, *Cave Markings* and *Golden River* have been placed in the smart office space of Jupiter Asset Management. This exhibition was created by J Nash of [Sullen Riot Curation](https://www.instagram.com/sullenriotcuration/), details below…
+Two of my images, *Cave Markings* and *Golden River* were recently placed in the smart office space of Jupiter Asset Management. This exhibition was created by J Nash of [Sullen Riot Curation](https://www.instagram.com/sullenriotcuration/), details below…
 
 ![{{page.title}}](through-a-different-lens.webp "{{page.title}}")
 
