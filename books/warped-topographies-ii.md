@@ -28,8 +28,6 @@ The images resemble aerial satellite imagery, with tortured landforms, disrupted
 
 **Price:** £7.50 + shipping (UK and EU/RoW)
 
-<div style="background-color: #ddd;">
-
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
@@ -40,6 +38,5 @@ The images resemble aerial satellite imagery, with tortured landforms, disrupted
 >
 </stripe-buy-button>
 
-</div>
 
 {% include books %}
