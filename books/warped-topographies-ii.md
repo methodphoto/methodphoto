@@ -14,9 +14,11 @@ parent: books
 
 This is a second collection of Warped Topographies following the publication of the original book in July 2018 by [Kozu Books].
 
-This new book presents two images which date back to the origins of the project, but most have been made in the last two years since the publication of the book. I’ve continued making images on a regular basis, sometimes beginning with abstract imagery, sometimes using portraits of people and politicians. More often than not I have added new elements including ink, and chemicals such as copper sulphate.
+This  book presents two images which date back to the origins of the project, but most have been made in the  two years since the publication of the first book. I’ve continued making images on a regular basis, sometimes beginning with abstract imagery, sometimes using portraits of people and politicians. More often than not I have added new elements including ink, and chemicals such as copper sulphate.
 
-*These editions currently for sale are classed as seconds - there is one page that has a small blue streak on it which doesn't detract from the books, but I mention it for completeness.*
+The images resemble aerial satellite imagery, with tortured landforms, disrupted river flows, impenetrable forests, glacial melts and ice flows all ‘appearing’ in these handmade  fractured works.
+
+*The editions currently for sale are classed as seconds - there's one page that has a small blue streak on it which doesn't detract from the books, but I mention it for completeness.*
 
 **Specifications**
 
@@ -25,6 +27,8 @@ This new book presents two images which date back to the origins of the project,
 **Contents:** 36pp 170gsm Silk paper
 
 **Price:** £7.50 + shipping (UK and EU/RoW)
+
+<div style="background-color: #ddd;">
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
@@ -35,5 +39,7 @@ This new book presents two images which date back to the origins of the project,
   publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
 >
 </stripe-buy-button>
+
+</div>
 
 {% include books %}
