@@ -20,6 +20,8 @@ The images resemble aerial satellite imagery, with tortured landforms, disrupted
 
 *The editions currently for sale are classed as seconds - there's one page that has a small blue streak on it which doesn't detract from the books, but I mention it for completeness.*
 
+![Colour Streak](wt3-colours.webp "Colour Streak")
+
 **Specifications**
 
 **Size:** 210mm x 210mm (Square)<br />
