@@ -90,7 +90,9 @@ On Landscape, Meeting of Minds 2016 Community Exhibition
 
 ## Talks
 
-London Independent Photography 2023, *Journeys into Abstration*
+[Find Your Voice](https://fyv.art/) July 2023, *Realistic Abstraction*
+
+London Independent Photography May 2023, *Journeys into Abstration*
 
 On Landscape, Meeting of Minds 2018, *Overcoming Creative Blocks*
 
