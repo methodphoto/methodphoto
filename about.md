@@ -12,6 +12,13 @@ I’m a photographer who aims to represent the landscape using Abstract and Conc
 
 Over the years the common themes of representing time and motion in the still image have become more central to my work.
 
+-   [Books](#books)
+-   [Awards and Positions](#awards-and-positions)
+-   [Articles](#articles)
+-   [Exhibitions](#exhibitions)
+-   [Talks](#talks)
+-   [Podcasts](#podcasts)
+
 ## Books
 
 [The Prismatic Pond](https://methodphotopress.co.uk), 2022
@@ -22,7 +29,7 @@ Over the years the common themes of representing time and motion in the still im
 
 [Inside Lightroom 2: The serious photographer's guide to Lightroom efficiency](https://www.amazon.co.uk/Inside-Lightroom-serious-photographers-efficiency/dp/1138456306?crid=13UHN3DFGKZXT&keywords=Inside%20lightroom&qid=1666183854&sprefix=inside%20lightroom%2Caps%2C82&sr=8-1), 2012
 
-## Awards/Positions
+## Awards and Positions
 
 *Selector:* Stephen H. Tyng Collection 2018/19
 
