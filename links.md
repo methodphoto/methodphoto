@@ -5,9 +5,15 @@ title: Links
 
 [![Buy The Prismatic Pond](books/the-prismatic-pond-01.webp "The Prismatic Pond book cover")](http://methodphotopress.co.uk)
 
-<a href="http://methodphotopress.co.uk">
+<a href="https://method.photo/books/the-prismatic-pond">
 	<button class="links">
 		Buy The Prismatic Pond
+	</button>
+</a>
+
+<a href="https://method.photo/books/warped-topographies-ii">
+	<button class="links">
+		Buy TWarped Topographies II
 	</button>
 </a>
 
