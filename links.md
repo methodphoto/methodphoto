@@ -13,7 +13,7 @@ title: Links
 
 <a href="https://method.photo/books/warped-topographies-ii">
 	<button class="links">
-		Buy TWarped Topographies II
+		Buy Warped Topographies II
 	</button>
 </a>
 
