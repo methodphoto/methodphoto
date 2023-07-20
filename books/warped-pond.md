@@ -12,6 +12,8 @@ parent: books
 
 ![{{page.title}}](warped-prismatic.webp "{{page.title}}")
 
+If you want both books for a combo price and one shipping fee then they are available for £24.00 + Shipping (UK or EU/ROW).
+
 [Buy Both Books](#buy-both-books)
 
 After some enforced tidying of my studio, I have found some extra seconds of Warped Topographies II. So if you missed out or would like a copy for Sunday best there are still some copies left.
@@ -20,8 +22,6 @@ They are classed as seconds as they have a faint blue printing scuff in the marg
 
 There are also a few copies of The Prismatic Pond still remaining. This book looks at the beauty in a small, overlooked, edgeland pond in a North London Country Park. A pond that for a few years captivated me with its beguiling show of colours, pattern and texture. 
 The Prismatic Pond is in a signed, limited edition of 100 selling for £17.50  + Shipping (UK or EU/ROW).
-
-If you want both books for a combo price and one shipping fee then they are available for £24.00 + Shipping (UK or EU/ROW).
 
 Copies ready for immediate dispatch
 
