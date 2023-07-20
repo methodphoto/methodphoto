@@ -14,7 +14,9 @@ parent: books
 
 After some enforced tidying of my studio, I have found some extra seconds of **Warped Topographies II**. So if you missed out or would like a copy for Sunday best there are still some copies left.
 
-They are classed as seconds as they have a faint blue printing scuff in the margin area of one page (see images), otherwise the reproduction is superb. As it will make more space in the office. I’m selling them for £8.50 + Shipping (UK or EU/ROW). 
+They are classed as seconds as they have a faint blue printing scuff in the margin area of one page (see images), otherwise the reproduction is superb. As it will make more space in the office. 
+
+I’m selling them for £8.50 + Shipping (UK or EU/ROW). 
 
 There are also a few copies of **The Prismatic Pond** still remaining. This book looks at the beauty in a small, overlooked, edgeland pond in a North London Country Park. A pond that for a few years captivated me with its beguiling show of colours, pattern and texture. 
 
@@ -29,7 +31,7 @@ Copies ready for immediate dispatch
 
 <div align="center">
 
-<h2>Buy both books</h2>
+<h2 id="buy-both-books">Buy both books</h2>
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
