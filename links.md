@@ -3,9 +3,9 @@ layout: default
 title: Links
 ---
 
-[![Buy Warped Topographies II and The Prismatic Pond](books/warped-prismatic.webp "Warped Topographies II and The Prismatic Pond covers")](https://method-photo/books/warped-pond)
+[![Buy Warped Topographies II and The Prismatic Pond](books/warped-prismatic.webp "Warped Topographies II and The Prismatic Pond covers")](https://method.photo/books/warped-pond)
 
-<a href="https://method-photo/books/warped-pond">
+<a href="https://method.photo/books/warped-pond">
 	<button class="links">
 		Buy Warped Topographies II and The Prismatic Pond
 	</button>
