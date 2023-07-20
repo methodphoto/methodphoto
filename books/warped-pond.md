@@ -44,6 +44,8 @@ Copies ready for immediate dispatch
 <br />
 <br />
 
+<div style="display: inline;">
+
 ### Buy Warped Topographies II
 
 <script async
@@ -56,11 +58,9 @@ Copies ready for immediate dispatch
 >
 </stripe-buy-button>
 
-<br />
-<br />
-
 ### Buy The Prismatic Pond
 
+<script async
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
@@ -70,6 +70,8 @@ Copies ready for immediate dispatch
   publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
 >
 </stripe-buy-button>
+
+</div>
 
 
 {% include books %}
