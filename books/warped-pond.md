@@ -10,7 +10,7 @@ parent: books
 
 ### {{page.publisher}} {{page.year}}
 
-![{{page.title}}](warped-prismatic.webpp "{{page.title}}")
+![{{page.title}}](warped-prismatic.webp "{{page.title}}")
 
 [Buy Both Books](#buy-both-books)
 
@@ -28,6 +28,22 @@ Copies ready for immediate dispatch
 
 **Please choose your correct shipping location on the next screen**
 
+
+## Buy both books
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1NVuCbEYn6r0o2yhJV4yLPAd"
+  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
+>
+</stripe-buy-button>
+
+<br />
+<br />
+
 ### Buy Warped Topographies II
 
 <script async
@@ -40,6 +56,8 @@ Copies ready for immediate dispatch
 >
 </stripe-buy-button>
 
+<br />
+<br />
 
 ### Buy The Prismatic Pond
 
@@ -53,17 +71,5 @@ Copies ready for immediate dispatch
 >
 </stripe-buy-button>
 
-
-### Buy both books
-
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button
-  buy-button-id="buy_btn_1NVuCbEYn6r0o2yhJV4yLPAd"
-  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
->
-</stripe-buy-button>
 
 {% include books %}
