@@ -27,8 +27,9 @@ Copies ready for immediate dispatch
 
 **Please choose your correct shipping location on the next screen**
 
+<div align="center"
 
-## Buy both books
+<h2>Buy both books</h2>
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
@@ -43,7 +44,7 @@ Copies ready for immediate dispatch
 <hr />
 <br />
 
-### or Buy Warped Topographies II
+<h3>or Buy Warped Topographies II</h3>
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
@@ -55,7 +56,7 @@ Copies ready for immediate dispatch
 >
 </stripe-buy-button>
 
-### or Buy The Prismatic Pond
+<h3>or Buy The Prismatic Pond</h3>
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
@@ -67,7 +68,7 @@ Copies ready for immediate dispatch
 >
 </stripe-buy-button>
 
-
+</div>
 
 
 {% include books %}
