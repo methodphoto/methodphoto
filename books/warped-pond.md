@@ -40,6 +40,7 @@ Copies ready for immediate dispatch
 </stripe-buy-button>
 
 <hr />
+<br />
 
 ### or Buy Warped Topographies II
 
