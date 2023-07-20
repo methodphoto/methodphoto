@@ -63,9 +63,3 @@ Buy both books
 		Mastodon
 	</button>
 </a>
-
-<a href="https://vero.co/methodphoto">
-	<button class="links">
-		Vero
-	</button>
-</a>
