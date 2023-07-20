@@ -27,7 +27,7 @@ Copies ready for immediate dispatch
 
 **Please choose your correct shipping location on the next screen**
 
-<div align="center"
+<div align="center">
 
 <h2>Buy both books</h2>
 
