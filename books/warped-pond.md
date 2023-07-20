@@ -10,13 +10,13 @@ parent: books
 
 ### {{page.publisher}} {{page.year}}
 
-![The Prismatic Pond](the-prismatic-pond-01.webp "The Prismatic Pond")
+![{{page.title}}](warped-prismatic.webpp "{{page.title}}")
 
-Check out a special offer >
+[Buy Both Books](#buy-both-books)
 
 After some enforced tidying of my studio, I have found some extra seconds of Warped Topographies II. So if you missed out or would like a copy for Sunday best there are still some copies left.
 
-They are classed as seconds as they have a faint blue printing scuff in the margin area of one page (see images), otherwise the reproduction is superb. As it will make more space in the office. I’m selling them for £8.50 + Shipping (UK or EU/ROW).
+They are classed as seconds as they have a faint blue printing scuff in the margin area of one page (see images), otherwise the reproduction is superb. As it will make more space in the office. I’m selling them for £8.50 + Shipping (UK or EU/ROW). 
 
 There are also a few copies of The Prismatic Pond still remaining. This book looks at the beauty in a small, overlooked, edgeland pond in a North London Country Park. A pond that for a few years captivated me with its beguiling show of colours, pattern and texture. 
 The Prismatic Pond is in a signed, limited edition of 100 selling for £17.50  + Shipping (UK or EU/ROW).
@@ -28,12 +28,40 @@ Copies ready for immediate dispatch
 
 **Please choose your correct shipping location on the next screen**
 
+### Buy Warped Topographies II
+
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
 
 <stripe-buy-button
-  buy-button-id="buy_btn_1NVWQBEYn6r0o2yhn9ja6hLR"
+  buy-button-id="buy_btn_1MtBIWEYn6r0o2yhzei5Kbnt"
+  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
+>
+</stripe-buy-button>
+
+
+### Buy The Prismatic Pond
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1MtBIWEYn6r0o2yhzei5Kbnt"
+  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
+>
+</stripe-buy-button>
+
+
+### Buy both books
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1NVuCbEYn6r0o2yhJV4yLPAd"
   publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
 >
 </stripe-buy-button>
