@@ -39,12 +39,9 @@ Copies ready for immediate dispatch
 >
 </stripe-buy-button>
 
-<br />
-<br />
+<hr />
 
-<div style="display: inline;">
-
-<h3>Buy Warped Topographies II</h3>
+### or Buy Warped Topographies II
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
@@ -56,7 +53,7 @@ Copies ready for immediate dispatch
 >
 </stripe-buy-button>
 
-<h3>Buy The Prismatic Pond</h3>
+### or Buy The Prismatic Pond
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
@@ -68,7 +65,7 @@ Copies ready for immediate dispatch
 >
 </stripe-buy-button>
 
-</div>
+
 
 
 {% include books %}
