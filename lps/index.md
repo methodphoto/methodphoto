@@ -27,6 +27,16 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 
 ![{{page.title}}](lps-06.webp "{{page.title}}")
 
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1O3fFvEYn6r0o2yh5zTOpVFh"
+  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
+>
+</stripe-buy-button>
+
 <div class="more">
 	&nbsp;
 </div>
