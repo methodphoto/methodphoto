@@ -15,19 +15,17 @@ Open 9–12 November 2023 11am–6pm. Admission is free
 I will be showing some new work, images to be revealed as the exhibition opens. Here you will have an opportunity to buy the work on display as well as order copies of my two books, [Warped Topographies II and The Prismatic Pond](../books/warped-pond), these are available as a special bundle as well.
 
 
-![{{page.title}}](01.webp "{{page.title}}")
+![{{page.title}}](lps-01.webp "{{page.title}}")
 
-![{{page.title}}](02.webp "{{page.title}}")
+![{{page.title}}](lps-02.webp "{{page.title}}")
 
-![{{page.title}}](03.webp "{{page.title}}")
+![{{page.title}}](lps-03.webp "{{page.title}}")
 
-![{{page.title}}](04.webp "{{page.title}}")
+![{{page.title}}](lps-04.webp "{{page.title}}")
 
-![{{page.title}}](05.webp "{{page.title}}")
+![{{page.title}}](lps-05.webp "{{page.title}}")
 
-![{{page.title}}](06.webp "{{page.title}}")
-
-
+![{{page.title}}](lps-06.webp "{{page.title}}")
 
 <div class="more">
 	&nbsp;
