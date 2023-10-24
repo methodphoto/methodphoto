@@ -62,9 +62,9 @@ title: Links
 	</button>
 </a>
 
-<a href="https://toot.community/@methodphoto">
+<a href="https://threads.net/@methodphotonew">
 	<button class="links">
-		Mastodon
+		Threads
 	</button>
 </a>
 
