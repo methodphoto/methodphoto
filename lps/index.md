@@ -17,16 +17,6 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 
 ![{{page.title}}](lps-01.webp "{{page.title}}")
 
-![{{page.title}}](lps-02.webp "{{page.title}}")
-
-![{{page.title}}](lps-03.webp "{{page.title}}")
-
-![{{page.title}}](lps-04.webp "{{page.title}}")
-
-![{{page.title}}](lps-05.webp "{{page.title}}")
-
-![{{page.title}}](lps-06.webp "{{page.title}}")
-
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
@@ -37,9 +27,76 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 >
 </stripe-buy-button>
 
-<div class="more">
-	&nbsp;
-</div>
+![{{page.title}}](lps-02.webp "{{page.title}}")
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1O6gXaEYn6r0o2yhK8xha5Yp"
+  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
+>
+</stripe-buy-button>
+
+![{{page.title}}](lps-03.webp "{{page.title}}")
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1O6gZdEYn6r0o2yh5ZxMwQxZ"
+  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
+>
+</stripe-buy-button>
+
+![{{page.title}}](lps-04.webp "{{page.title}}")
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1O6gZdEYn6r0o2yh5ZxMwQxZ"
+  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
+>
+</stripe-buy-button>
+
+![{{page.title}}](lps-05.webp "{{page.title}}")
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1O6gdxEYn6r0o2yh1DHeQgIW"
+  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
+>
+</stripe-buy-button>
+
+![{{page.title}}](lps-06.webp "{{page.title}}")
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1O6gh7EYn6r0o2yhO14tAP0e"
+  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
+>
+</stripe-buy-button>
+
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1O6gjmEYn6r0o2yhQ949IcyY"
+  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
+>
+</stripe-buy-button>
 
 ### Galleries
 
