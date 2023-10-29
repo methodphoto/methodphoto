@@ -14,6 +14,7 @@ Open 9–12 November 2023 11am–6pm. Admission is free
 
 I will be showing some new work, images to be revealed as the exhibition opens. Here you will have an opportunity to buy the work on display as well as order copies of my two books, [Warped Topographies II and The Prismatic Pond](../books/warped-pond), these are available as a special bundle as well.
 
+<div>
 
 ![{{page.title}}](lps-01.webp "{{page.title}}")
 
@@ -26,6 +27,8 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
   publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
 >
 </stripe-buy-button>
+
+</div>
 
 ![{{page.title}}](lps-02.webp "{{page.title}}")
 
@@ -58,7 +61,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 </script>
 
 <stripe-buy-button
-  buy-button-id="buy_btn_1O6gZdEYn6r0o2yh5ZxMwQxZ"
+  buy-button-id="buy_btn_1O6gdxEYn6r0o2yh1DHeQgIW"
   publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
 >
 </stripe-buy-button>
@@ -70,23 +73,12 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 </script>
 
 <stripe-buy-button
-  buy-button-id="buy_btn_1O6gdxEYn6r0o2yh1DHeQgIW"
-  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
->
-</stripe-buy-button>
-
-![{{page.title}}](lps-06.webp "{{page.title}}")
-
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button
   buy-button-id="buy_btn_1O6gh7EYn6r0o2yhO14tAP0e"
   publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
 >
 </stripe-buy-button>
 
+![{{page.title}}](lps-06.webp "{{page.title}}")
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
