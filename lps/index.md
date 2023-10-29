@@ -14,22 +14,16 @@ Open 9–12 November 2023 11am–6pm. Admission is free
 
 I will be showing some new work, images to be revealed as the exhibition opens. Here you will have an opportunity to buy the work on display as well as order copies of my two books, [Warped Topographies II and The Prismatic Pond](../books/warped-pond), these are available as a special bundle as well.
 
-<div>
+
 
 <img src="lps-01.webp" width="50%" height="50%" alt="Reeds" title="Reeds" />
 
+Caption: Reeds (print only)
 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
+<a href="https://buy.stripe.com/4gw6p20Wcaj9cWQ9AQ">
+	<img src=""../assets/buy.svg" alt="Reeds" title="Reeds" />
+</a>
 
-<stripe-buy-button
-  buy-button-id="buy_btn_1O3fFvEYn6r0o2yh5zTOpVFh"
-  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
->
-</stripe-buy-button>
-
-</div>
 
 ![{{page.title}}](lps-02.webp "{{page.title}}")
 
