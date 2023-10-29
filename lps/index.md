@@ -16,7 +16,8 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 
 <div>
 
-![{{page.title}}](lps-01.webp "{{page.title}}")
+<img src="lps-01.webp" alt="Reeds" title="Reeds" />
+
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
