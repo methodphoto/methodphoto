@@ -21,7 +21,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 Caption: Reeds (print only)
 
 <a href="https://buy.stripe.com/4gw6p20Wcaj9cWQ9AQ">
-	<img src="../assets/buy.svg" alt="Reeds" title="Reeds" />
+	<img src="../assets/buy.svg" width="288px" height="44px" alt="Reeds" title="Reeds" />
 </a>
 
 
