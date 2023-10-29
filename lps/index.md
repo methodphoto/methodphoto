@@ -16,7 +16,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 
 <div>
 
-<img src="lps-01.webp" alt="Reeds" title="Reeds" />
+<img src="lps-01.webp" width="75%" height="75%" alt="Reeds" title="Reeds" />
 
 
 <script async
