@@ -10,7 +10,7 @@ year: 2023
 
 The London Photo Show 2023 takes place at the Bargehouse Gallery, Oxo Tower Wharf, South Bank, London SE1 9PH.
 
-Open 9–12 November 2023 11am–6pm. Admission is free
+Open **9–12 November 2023 11am–6pm**. Admission is free
 
 I will be showing some new work, images to be revealed as the exhibition opens. Here you will have an opportunity to buy the work on display as well as order copies of my two books, [Warped Topographies II and The Prismatic Pond](../books/warped-pond), these are available as a special bundle as well.
 
@@ -18,7 +18,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 
 <img src="lps-01.webp" width="80%" height="80%" alt="Reeds" title="Reeds" />
 
-Reeds (print only)
+**Reeds (print only)**
 
 <a href="https://buy.stripe.com/4gw6p20Wcaj9cWQ9AQ" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Reeds" title="Reeds" />
@@ -27,7 +27,7 @@ Reeds (print only)
 
 <img src="lps-02.webp" width="80%" height="80%" alt="Blue Mood" title="Blue Mood" />
 
-Blue Mood (print only)
+**Blue Mood (print only)**
 
 <a href="https://buy.stripe.com/eVaeVydIYdvle0U00h" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Blue Mood" title="Blue Mood" />
@@ -36,7 +36,7 @@ Blue Mood (print only)
 
 <img src="lps-03.webp" width="80%" height="80%" alt="Ripple Reflections" title="Ripple Reflections" />
 
-Ripple Reflections (print only)
+**Ripple Reflections (print only)**
 
 <a href="https://buy.stripe.com/8wM00EfR676XbSM7sK" class="buybutton">
 	<img src="../assets/buy.svg" width="80%" height="80%" alt="Ripple Reflections" title="Ripple Reflections" />
@@ -45,7 +45,7 @@ Ripple Reflections (print only)
 
 ![{{page.title}}](lps-04.webp "{{page.title}}")
 
-Up is the New Down (print only)
+**Up is the New Down (print only)**
 
 <a href="https://buy.stripe.com/dR6dRucEUdvlg92bJ1" class="buybutton">
 	<img src="../assets/buy.svg" width="80%" height="80%" alt="Down is the New Up" title="Down is the New Up" />
@@ -53,7 +53,7 @@ Up is the New Down (print only)
 
 ![{{page.title}}](lps-05.webp "{{page.title}}")
 
-Weird Fishes (print only)
+**Weird Fishes (print only)**
 
 <a href="https://buy.stripe.com/6oE14IawM8b1e0U7sM" class="buybutton">
 	<img src="../assets/buy.svg" width="80%" height="80%" alt="Weird Fishes" title="Weird Fishes" />
@@ -61,7 +61,7 @@ Weird Fishes (print only)
 
 ![{{page.title}}](lps-06.webp "{{page.title}}")
 
-I'll hit the bottom and escape (print only)
+**I'll hit the bottom and escape (print only)**
 
 <a href="https://buy.stripe.com/7sI6p248o1MDe0UfZj" class="buybutton">
 	<img src="../assets/buy.svg" width="80%" height="80%" alt="I'll hit the bottom and escape" title="DI'll hit the bottom and escape" />
