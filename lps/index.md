@@ -42,8 +42,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Ripple Reflections" title="Ripple Reflections" />
 </a>
 
-
-![{{page.title}}](lps-04.webp "{{page.title}}")
+<img src="lps-04.webp" width="80%" height="80%" alt="Up is the New Down" title="Up is the New Down" />
 
 **Up is the New Down (print only)**
 
@@ -51,7 +50,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Down is the New Up" title="Down is the New Up" />
 </a>
 
-![{{page.title}}](lps-05.webp "{{page.title}}")
+<img src="lps-05.webp" width="80%" height="80%" alt="Weird Fishes" title="Weird Fishes" />
 
 **Weird Fishes (print only)**
 
@@ -59,7 +58,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Weird Fishes" title="Weird Fishes" />
 </a>
 
-![{{page.title}}](lps-06.webp "{{page.title}}")
+<img src="lps-06.webp" width="80%" height="80%" alt="I'll hit the bottom and escape" title="I'll hit the bottom and escape" />
 
 **I'll hit the bottom and escape (print only)**
 
