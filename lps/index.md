@@ -39,7 +39,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 **Ripple Reflections (print only)**
 
 <a href="https://buy.stripe.com/8wM00EfR676XbSM7sK" class="buybutton">
-	<img src="../assets/buy.svg" width="80%" height="80%" alt="Ripple Reflections" title="Ripple Reflections" />
+	<img src="../assets/buy.svg" width="288px" height="44px" alt="Ripple Reflections" title="Ripple Reflections" />
 </a>
 
 
@@ -48,7 +48,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 **Up is the New Down (print only)**
 
 <a href="https://buy.stripe.com/dR6dRucEUdvlg92bJ1" class="buybutton">
-	<img src="../assets/buy.svg" width="80%" height="80%" alt="Down is the New Up" title="Down is the New Up" />
+	<img src="../assets/buy.svg" width="288px" height="44px" alt="Down is the New Up" title="Down is the New Up" />
 </a>
 
 ![{{page.title}}](lps-05.webp "{{page.title}}")
@@ -56,7 +56,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 **Weird Fishes (print only)**
 
 <a href="https://buy.stripe.com/6oE14IawM8b1e0U7sM" class="buybutton">
-	<img src="../assets/buy.svg" width="80%" height="80%" alt="Weird Fishes" title="Weird Fishes" />
+	<img src="../assets/buy.svg" width="288px" height="44px" alt="Weird Fishes" title="Weird Fishes" />
 </a>
 
 ![{{page.title}}](lps-06.webp "{{page.title}}")
@@ -64,7 +64,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 **I'll hit the bottom and escape (print only)**
 
 <a href="https://buy.stripe.com/7sI6p248o1MDe0UfZj" class="buybutton">
-	<img src="../assets/buy.svg" width="80%" height="80%" alt="I'll hit the bottom and escape" title="DI'll hit the bottom and escape" />
+	<img src="../assets/buy.svg" width="288px" height="44px" alt="I'll hit the bottom and escape" title="DI'll hit the bottom and escape" />
 </a>
 
 ### Galleries
