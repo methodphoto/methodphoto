@@ -18,72 +18,54 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 
 <img src="lps-01.webp" width="50%" height="50%" alt="Reeds" title="Reeds" />
 
-Caption: Reeds (print only)
+Reeds (print only)
 
 <a href="https://buy.stripe.com/4gw6p20Wcaj9cWQ9AQ">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Reeds" title="Reeds" />
 </a>
 
 
-![{{page.title}}](lps-02.webp "{{page.title}}")
+<img src="lps-02.webp" width="50%" height="50%" alt="Blue Mood" title="Blue Mood" />
 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
+Blue Mood (print only)
 
-<stripe-buy-button
-  buy-button-id="buy_btn_1O6gXaEYn6r0o2yhK8xha5Yp"
-  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
->
-</stripe-buy-button>
+<a href="https://buy.stripe.com/4gw6p20Wcaj9cWQ9AQ">
+	<img src="../assets/buy.svg" width="288px" height="44px" alt="Blue Mood" title="Blue Mood" />
+</a>
 
-![{{page.title}}](lps-03.webp "{{page.title}}")
 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
+<img src="lps-03.webp" width="50%" height="50%" alt="Ripple Reflections" title="Ripple Reflections" />
 
-<stripe-buy-button
-  buy-button-id="buy_btn_1O6gZdEYn6r0o2yh5ZxMwQxZ"
-  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
->
-</stripe-buy-button>
+Ripple Reflections (print only)
+
+<a href="https://buy.stripe.com/4gw6p20Wcaj9cWQ9AQ">
+	<img src="../assets/buy.svg" width="288px" height="44px" alt="Ripple Reflections" title="Ripple Reflections" />
+</a>
+
 
 ![{{page.title}}](lps-04.webp "{{page.title}}")
 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
+Down is the New Up (print only)
 
-<stripe-buy-button
-  buy-button-id="buy_btn_1O6gdxEYn6r0o2yh1DHeQgIW"
-  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
->
-</stripe-buy-button>
+<a href="https://buy.stripe.com/4gw6p20Wcaj9cWQ9AQ">
+	<img src="../assets/buy.svg" width="288px" height="44px" alt="Down is the New Up" title="Down is the New Up" />
+</a>
 
 ![{{page.title}}](lps-05.webp "{{page.title}}")
 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
+Weird Fishes (print only)
 
-<stripe-buy-button
-  buy-button-id="buy_btn_1O6gh7EYn6r0o2yhO14tAP0e"
-  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
->
-</stripe-buy-button>
+<a href="https://buy.stripe.com/4gw6p20Wcaj9cWQ9AQ">
+	<img src="../assets/buy.svg" width="288px" height="44px" alt="Weird Fishes" title="Weird Fishes" />
+</a>
 
 ![{{page.title}}](lps-06.webp "{{page.title}}")
 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
+I'll hit the bottom and escape (print only)
 
-<stripe-buy-button
-  buy-button-id="buy_btn_1O6gjmEYn6r0o2yhQ949IcyY"
-  publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
->
-</stripe-buy-button>
+<a href="https://buy.stripe.com/4gw6p20Wcaj9cWQ9AQ">
+	<img src="../assets/buy.svg" width="288px" height="44px" alt="I'll hit the bottom and escape" title="DI'll hit the bottom and escape" />
+</a>
 
 ### Galleries
 
