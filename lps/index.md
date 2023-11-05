@@ -16,9 +16,9 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 
 
 
-<img src="lps-01.webp" width="80%" height="80%" alt="Reeds" title="Reeds" />
+<img src="lps-01.webp" width="80%" height="80%" alt="Liquid Echoes" title="Liquid Echoes" />
 
-**Reeds (print only)**
+**Liquid Echoes (print only)**
 
 <a href="https://buy.stripe.com/4gw6p20Wcaj9cWQ9AQ" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Reeds" title="Reeds" />
