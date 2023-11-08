@@ -3,7 +3,11 @@ layout: default
 title: Galleries
 ---
 
-# {{page.title}}
+# The London Photo Show
+
+I am currently exhibiting at the London Photo Show. [Find out more…](/lps/)
+
+## {{page.title}}
 
 <div class="grid">
    <div>
