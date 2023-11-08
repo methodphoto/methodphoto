@@ -15,6 +15,7 @@ Open **9–12 November 2023 11am–6pm**. Admission is free
 I will be showing some new work, images to be revealed as the exhibition opens. Here you will have an opportunity to buy the work on display as well as order copies of my two books, [Warped Topographies II and The Prismatic Pond](../books/warped-pond), these are available as a special bundle as well.
 
 
+<div class="unit">
 
 <img src="lps-01.webp" width="80%" height="80%" alt="Liquid Echoes" title="Liquid Echoes" />
 
@@ -24,7 +25,9 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Reeds" title="Reeds" />
 </a>
 
+</div>
 
+<div class="unit">
 <img src="lps-02.webp" width="80%" height="80%" alt="Blue Mood" title="Blue Mood" />
 
 **Blue Mood (print only)**
@@ -32,8 +35,9 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 <a href="https://buy.stripe.com/eVaeVydIYdvle0U00h" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Blue Mood" title="Blue Mood" />
 </a>
+</div>
 
-
+<div class="unit">
 <img src="lps-03.webp" width="80%" height="80%" alt="Ripple Reflections" title="Ripple Reflections" />
 
 **Ripple Reflections (print only)**
@@ -41,7 +45,10 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 <a href="https://buy.stripe.com/8wM00EfR676XbSM7sK" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Ripple Reflections" title="Ripple Reflections" />
 </a>
+</div>
 
+
+<div class="unit">
 <img src="lps-04.webp" width="80%" height="80%" alt="Up is the New Down" title="Up is the New Down" />
 
 **Up is the New Down (print only)**
@@ -49,7 +56,10 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 <a href="https://buy.stripe.com/dR6dRucEUdvlg92bJ1" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Down is the New Up" title="Down is the New Up" />
 </a>
+</div>
 
+
+<div class="unit">
 <img src="lps-05.webp" width="80%" height="80%" alt="Weird Fishes" title="Weird Fishes" />
 
 **Weird Fishes (print only)**
@@ -58,6 +68,8 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Weird Fishes" title="Weird Fishes" />
 </a>
 
+</div>
+<div class="unit">
 <img src="lps-06.webp" width="80%" height="80%" alt="I'll hit the bottom and escape" title="I'll hit the bottom and escape" />
 
 **I'll hit the bottom and escape (print only)**
@@ -65,6 +77,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 <a href="https://buy.stripe.com/7sI6p248o1MDe0UfZj" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="I'll hit the bottom and escape" title="DI'll hit the bottom and escape" />
 </a>
+</div>
 
 ### Galleries
 
