@@ -3,6 +3,12 @@ layout: default
 title: Links
 ---
 
+<a href="https://method.photo/lps/">
+	<button class="links">
+		The London Photo Show 2023
+	</button>
+</a>
+
 [![Buy Warped Topographies II and The Prismatic Pond](books/warped-prismatic.webp "Warped Topographies II and The Prismatic Pond covers")](https://method.photo/books/warped-pond)
 
 <a href="https://method.photo/books/warped-pond">
@@ -47,12 +53,6 @@ title: Links
 <a href="https://biblioscapes.com/in-discussion/richard-earney">
 	<button class="links">
 		Biblioscapes In Discussion 08/10/2020
-	</button>
-</a>
-
-<a href="https://method.photo/blog/2019-07-16-an-interview-with-paul-kenny.md">
-	<button class="links">
-		An Interview with Paul Kenny
 	</button>
 </a>
 
