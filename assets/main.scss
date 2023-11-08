@@ -74,7 +74,7 @@ button {box-shadow: none;}
 .social-links img {margin-right: 24px;}
 
 
-.unit {padding: 15px 0;margin: 15px 0 !important;}
+.unit {padding: 15px 0 !important; margin: 15px 0 !important;}
 
 table {margin-top: 24px; border: none; background-color: #eee; border-radius: 6px;}
 
@@ -207,4 +207,7 @@ blockquote {
 		height: 110px;
 		width: 110px;
 	}
+	
+.unit {padding: 15px 0 !important; margin: 15px 0 !important;}
+
 }
