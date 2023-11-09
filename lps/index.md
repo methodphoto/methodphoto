@@ -21,7 +21,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 
 <img src="lps-01.webp" width="100%" height="100%" alt="Liquid Echoes" title="Liquid Echoes" />
 
-**Liquid Echoes (print only)**
+**Liquid Echoes (print only)**<br/><br/>
 
 <a href="https://buy.stripe.com/4gw6p20Wcaj9cWQ9AQ" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Reeds" title="Reeds" />
@@ -32,7 +32,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 <div class="unit">
 <img src="lps-02.webp" width="100%" height="100%" alt="Blue Mood" title="Blue Mood" />
 
-**Blue Mood (print only)**
+**Blue Mood (print only)**<br/><br/>
 
 <a href="https://buy.stripe.com/eVaeVydIYdvle0U00h" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Blue Mood" title="Blue Mood" />
@@ -42,7 +42,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 <div class="unit">
 <img src="lps-03.webp" width="100%" height="100%" alt="Ripple Reflections" title="Ripple Reflections" />
 
-**Ripple Reflections (print only)**
+**Ripple Reflections (print only)**<br/><br/>
 
 <a href="https://buy.stripe.com/8wM00EfR676XbSM7sK" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Ripple Reflections" title="Ripple Reflections" />
@@ -53,7 +53,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 <div class="unit">
 <img src="lps-04.webp" width="100%" height="100%" alt="Up is the New Down" title="Up is the New Down" />
 
-**Up is the New Down (print only)**
+**Up is the New Down (print only)**<br/><br/>
 
 <a href="https://buy.stripe.com/dR6dRucEUdvlg92bJ1" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Down is the New Up" title="Down is the New Up" />
@@ -64,7 +64,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 <div class="unit">
 <img src="lps-05.webp" width="100%" height="100%" alt="Weird Fishes" title="Weird Fishes" />
 
-**Weird Fishes (print only)**
+**Weird Fishes (print only)**<br/><br/>
 
 <a href="https://buy.stripe.com/6oE14IawM8b1e0U7sM" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Weird Fishes" title="Weird Fishes" />
@@ -74,7 +74,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 <div class="unit">
 <img src="lps-06.webp" width="100%" height="100%" alt="I'll hit the bottom and escape" title="I'll hit the bottom and escape" />
 
-**I'll hit the bottom and escape (print only)**
+**I'll hit the bottom and escape (print only)**<br/><br/>
 
 <a href="https://buy.stripe.com/7sI6p248o1MDe0UfZj" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="I'll hit the bottom and escape" title="DI'll hit the bottom and escape" />
