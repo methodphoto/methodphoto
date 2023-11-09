@@ -19,18 +19,18 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 
 <div class="unit">
 
-<img src="lps-01.webp" width="100%" height="100%" alt="Liquid Echoes" title="Liquid Echoes" />
+<img src="lps-01.webp" width="100%" height="100%" alt="Liquid Echoes" title="Liquid Echoes" /><br/><br/>
 
 **Liquid Echoes (print only)**<br/><br/>
 
 <a href="https://buy.stripe.com/4gw6p20Wcaj9cWQ9AQ" class="buybutton">
-	<img src="../assets/buy.svg" width="288px" height="44px" alt="Reeds" title="Reeds" />
+	<img src="../assets/buy.svg" width="288px" height="44px" alt="Reeds" title="Reeds" /><br/><br/>
 </a>
 
 </div>
 
 <div class="unit">
-<img src="lps-02.webp" width="100%" height="100%" alt="Blue Mood" title="Blue Mood" />
+<img src="lps-02.webp" width="100%" height="100%" alt="Blue Mood" title="Blue Mood" /><br/><br/>
 
 **Blue Mood (print only)**<br/><br/>
 
@@ -40,7 +40,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 </div>
 
 <div class="unit">
-<img src="lps-03.webp" width="100%" height="100%" alt="Ripple Reflections" title="Ripple Reflections" />
+<img src="lps-03.webp" width="100%" height="100%" alt="Ripple Reflections" title="Ripple Reflections" /><br/><br/>
 
 **Ripple Reflections (print only)**<br/><br/>
 
@@ -51,7 +51,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 
 
 <div class="unit">
-<img src="lps-04.webp" width="100%" height="100%" alt="Up is the New Down" title="Up is the New Down" />
+<img src="lps-04.webp" width="100%" height="100%" alt="Up is the New Down" title="Up is the New Down" /><br/><br/>
 
 **Up is the New Down (print only)**<br/><br/>
 
@@ -62,7 +62,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 
 
 <div class="unit">
-<img src="lps-05.webp" width="100%" height="100%" alt="Weird Fishes" title="Weird Fishes" />
+<img src="lps-05.webp" width="100%" height="100%" alt="Weird Fishes" title="Weird Fishes" /><br/><br/>
 
 **Weird Fishes (print only)**<br/><br/>
 
@@ -72,7 +72,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 
 </div>
 <div class="unit">
-<img src="lps-06.webp" width="100%" height="100%" alt="I'll hit the bottom and escape" title="I'll hit the bottom and escape" />
+<img src="lps-06.webp" width="100%" height="100%" alt="I'll hit the bottom and escape" title="I'll hit the bottom and escape" /><br/><br/>
 
 **I'll hit the bottom and escape (print only)**<br/><br/>
 
