@@ -14,6 +14,8 @@ Open **9–12 November 2023 11am–6pm**. Admission is free
 
 I will be showing some new work, images to be revealed as the exhibition opens. Here you will have an opportunity to buy the work on display as well as order copies of my two books, [Warped Topographies II and The Prismatic Pond](../books/warped-pond), these are available as a special bundle as well.
 
+*If you would like any other size of print, please contact me and we can arrange something <richard@method.co.uk>*
+
 
 <div class="unit">
 
