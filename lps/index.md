@@ -18,7 +18,7 @@ I will be showing some new work, images to be revealed as the exhibition opens. 
 
 ## Books
 
-<a href="/books/warped-pond.md">
+<a href="/books/warped-pond">
 <img src="../books/warped-prismatic.webp" width="60%" height="60%" alt="Warped Topographies II and The Prismatic Pond" title="Warped Topographies II and The Prismatic Pond" />
 </a>
 
