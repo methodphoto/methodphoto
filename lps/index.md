@@ -26,7 +26,9 @@ I showed some new work. Here you will have an opportunity to buy the work on dis
 
 <img src="lps-01.webp" width="100%" height="100%" alt="Liquid Echoes" title="Liquid Echoes" /><br/><br/>
 
-**Liquid Echoes (print only)**<br/><br/>
+<strong>Liquid Echoes</strong><br />
+A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
+<br/><br/>
 
 <a href="https://buy.stripe.com/4gw6p20Wcaj9cWQ9AQ" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Reeds" title="Reeds" /><br/><br/>
@@ -37,7 +39,9 @@ I showed some new work. Here you will have an opportunity to buy the work on dis
 <div class="unit">
 <img src="lps-02.webp" width="100%" height="100%" alt="Blue Mood" title="Blue Mood" /><br/><br/>
 
-**Blue Mood (print only)**<br/><br/>
+<strong>Blue Mood</strong><br />
+A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
+<br/><br/>
 
 <a href="https://buy.stripe.com/eVaeVydIYdvle0U00h" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Blue Mood" title="Blue Mood" />
@@ -47,7 +51,9 @@ I showed some new work. Here you will have an opportunity to buy the work on dis
 <div class="unit">
 <img src="lps-03.webp" width="100%" height="100%" alt="Ripple Reflections" title="Ripple Reflections" /><br/><br/>
 
-**Ripple Reflections (print only)**<br/><br/>
+<strong>Ripple Reflections</strong><br />
+A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
+<br/><br/>
 
 <a href="https://buy.stripe.com/8wM00EfR676XbSM7sK" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Ripple Reflections" title="Ripple Reflections" />
@@ -58,7 +64,9 @@ I showed some new work. Here you will have an opportunity to buy the work on dis
 <div class="unit">
 <img src="lps-04.webp" width="100%" height="100%" alt="Up is the New Down" title="Up is the New Down" /><br/><br/>
 
-**Up is the New Down (print only)**<br/><br/>
+<strong>Up is the New Down</strong><br />
+A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
+<br/><br/>
 
 <a href="https://buy.stripe.com/dR6dRucEUdvlg92bJ1" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Down is the New Up" title="Down is the New Up" />
@@ -69,7 +77,9 @@ I showed some new work. Here you will have an opportunity to buy the work on dis
 <div class="unit">
 <img src="lps-05.webp" width="100%" height="100%" alt="Weird Fishes" title="Weird Fishes" /><br/><br/>
 
-**Weird Fishes (print only)**<br/><br/>
+<strong>Weird Fishes</strong><br />
+A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
+<br/><br/>
 
 <a href="https://buy.stripe.com/6oE14IawM8b1e0U7sM" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Weird Fishes" title="Weird Fishes" />
@@ -79,9 +89,11 @@ I showed some new work. Here you will have an opportunity to buy the work on dis
 <div class="unit">
 <img src="lps-06.webp" width="100%" height="100%" alt="I'll hit the bottom and escape" title="I'll hit the bottom and escape" /><br/><br/>
 
-**I'll hit the bottom and escape (print only)**<br/><br/>
+<strong>I'll hit the bottom and escape</strong><br />
+A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
+<br/><br/>
 
-<a href="https://buy.stripe.com/7sI6p248o1MDe0UfZj" class="buybutton">
+<a href="https://checkout.revolut.com/payment-link/03a39fa3-69b5-4e80-84d6-58443d73bf5d" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="I'll hit the bottom and escape" title="DI'll hit the bottom and escape" />
 </a>
 </div>
