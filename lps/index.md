@@ -10,7 +10,7 @@ year: 2023
 
 The London Photo Show 2023 took place at the Bargehouse Gallery, Oxo Tower Wharf, South Bank, London SE1 9PH from 9–12 November 2023.
 
-I showed some new work. Here you will have an opportunity to buy the work on display as well as order copies of my two books, [Warped Topographies II and The Prismatic Pond](../books/warped-pond), these are available as a special bundle as well.
+You have an opportunity to buy the work on display as well as order copies of my two books, [Warped Topographies II and The Prismatic Pond](../books/warped-pond), these are available as a special bundle as well.
 
 **If you would like any other size of print, please contact me and we can arrange something <richard@method.co.uk>**
 
@@ -30,7 +30,7 @@ I showed some new work. Here you will have an opportunity to buy the work on dis
 A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
 <br/><br/>
 
-<a href="https://buy.stripe.com/4gw6p20Wcaj9cWQ9AQ" class="buybutton">
+<a href="https://checkout.revolut.com/payment-link/66c8461d-5bdb-494d-8560-54330a90a9a9" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Reeds" title="Reeds" /><br/><br/>
 </a>
 
@@ -43,7 +43,7 @@ A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
 A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
 <br/><br/>
 
-<a href="https://buy.stripe.com/eVaeVydIYdvle0U00h" class="buybutton">
+<a href="https://checkout.revolut.com/payment-link/d6fcb117-a116-4354-8506-343e0dd5a8ea" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Blue Mood" title="Blue Mood" />
 </a>
 </div>
@@ -55,7 +55,7 @@ A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
 A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
 <br/><br/>
 
-<a href="https://buy.stripe.com/8wM00EfR676XbSM7sK" class="buybutton">
+<a href="https://checkout.revolut.com/payment-link/8e55e197-daab-4560-b0a9-6ba0c9f01ce6" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Ripple Reflections" title="Ripple Reflections" />
 </a>
 </div>
@@ -68,7 +68,7 @@ A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
 A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
 <br/><br/>
 
-<a href="https://buy.stripe.com/dR6dRucEUdvlg92bJ1" class="buybutton">
+<a href="https://checkout.revolut.com/payment-link/ef1c268d-bd28-4c91-a767-64b3f5135c0c" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Down is the New Up" title="Down is the New Up" />
 </a>
 </div>
