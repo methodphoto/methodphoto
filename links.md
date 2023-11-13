@@ -34,7 +34,6 @@ title: Links
 </a>
 
 <hr />
-<br />
 
 <a href="https://method.photo">
 	<button class="links">	
