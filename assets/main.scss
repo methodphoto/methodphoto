@@ -126,11 +126,15 @@ a.page-link {
 a.page-link:hover {
 	color: $secondary-link-color !important;
 	text-decoration: underline;
+	text-decoration-skip-ink: auto;
+	transition-duration: 0.3s;
 }
 
 a:hover.page-link {
 	color: $secondary-link-color !important;
 	text-decoration: underline;
+	text-decoration-skip-ink: auto;
+	transition-duration: 0.3s;
 }
 
 li.p-name {
