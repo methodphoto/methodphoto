@@ -3,9 +3,13 @@ layout: default
 title: Galleries
 ---
 
-# The London Photo Show
+# Next exhibition
 
-I am currently exhibiting at the London Photo Show. [Find out more…](/lps/)
+In March and April I will be exhibiting some recent work at the Original Gallery in Crouch End as part of the London Independent Photography - Crouch End group annual. More details to follow.
+
+## The London Photo Show
+
+I recently exhibited at the London Photo Show. [Find out more…](/lps/)
 
 ## {{page.title}}
 
