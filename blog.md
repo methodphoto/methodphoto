@@ -7,7 +7,8 @@ title: Blog
 
 ### 2023
 
-2023-04-17 [Through a Different Lens](2023-04-17-through-a-different-lens)
+2023-07-17 [Two Recent Talks](2023-07-17-two-recent-talks)<br />
+2023-04-17 [Through a Different Lens](2023-04-17-through-a-different-lens)<br />
 2023-03-21 [LIP Crouch End Annual](blog/2023-03-21-lip-crouch-end-annual)
 
 ### 2022
