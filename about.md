@@ -33,7 +33,7 @@ Over the years the common themes of representing time and motion in the still im
 
 *Selector:* Stephen H. Tyng Collection 2018/19
 
-Fellow of the Royal Photographic Society (FRPS) 2017
+**Fellow of the Royal Photographic Society (FRPS)** 2017
 
 Associate of the Royal Photographic Society (ARPS) 2014
 
