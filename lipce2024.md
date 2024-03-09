@@ -35,7 +35,4 @@ Thursday 28th: 13:00–17:00
 
 <img src="in-the-shudder-light/in-the-shudder-light-04.webp" alt="In the Shudder Light" width="100%" decoding="async" loading="lazy" />
 
-<img src="in-the-shudder-light/in-the-shudder-light-05.webp" alt="In the Shudder Light" width="100%" decoding="async" loading="lazy" />
-
-
 {% include gallery %}
