@@ -1,7 +1,7 @@
 ---
 layout: default
 title: In the Shudder Light
-year: 2023–4
+year: 2024
 parent: galleries
 ---
 
@@ -10,9 +10,22 @@ parent: galleries
 ### {{page.year}}
 
 
-It's dusk in autumn and winter. The day is ending, The dark is closing in. In that half-light there are still images out there and there is still colour. 
+The light fades, but the colour remains.<br />
+The unsettling sense of the eerie is all around..<br />
+Now you’re In the Shudder Light
 
-The images are still, but contain a sense of movement. This time is the Shudder Light.
+
+I'll be exhibiting some images from my current series In The Shudder Light at The Original Gallery First floor Hornsey Library London N8 9JA from 19–28 March 2024.
+
+**Opening Hours:**<br />
+Monday–Friday 13:00–19:00<br />
+Saturday: 13:00–17:00<br />
+Sunday: 12:00–16:00<br />
+Thursday 28th: 13:00–17:00
+
+**Private View (all welcome):** 19th March 18:00–20:30
+
+**Meet the Artists:** 24th March 14:00–16:00
 
 <img src="in-the-shudder-light/in-the-shudder-light-01.webp" alt="In the Shudder Light" width="100%" decoding="async" loading="lazy" />
 
