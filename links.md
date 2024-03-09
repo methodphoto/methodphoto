@@ -3,13 +3,12 @@ layout: default
 title: Links
 ---
 
-<a href="https://method.photo/lps/">
+<a href="https://method.photo/lipce2024">
 	<button class="links">
-		The London Photo Show 2023
+		LIP Crouch End Annual Exhibition
 	</button>
 </a>
 
-<br />
 <br />
 <br />
 
@@ -21,23 +20,15 @@ title: Links
 	</button>
 </a>
 
-<a href="https://method.photo/books/the-prismatic-pond">
-	<button class="links">
-		Buy The Prismatic Pond
-	</button>
-</a>
-
-<a href="https://method.photo/books/warped-topographies-ii">
-	<button class="links">
-		Buy Warped Topographies II
-	</button>
-</a>
-
-<hr />
-
 <a href="https://method.photo">
 	<button class="links">	
 		Method Photo
+	</button>
+</a>
+
+<a href="https://method.photo/lps/">
+	<button class="links">
+		The London Photo Show 2023
 	</button>
 </a>
 
