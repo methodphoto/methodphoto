@@ -10,9 +10,9 @@ parent: galleries
 ### {{page.year}}
 
 
-The light fades, but the colour remains.<br />
-The unsettling sense of the eerie is all around..<br />
-Now you’re In the Shudder Light
+> The light fades, but the colour remains.<br />
+> The unsettling sense of the eerie is all around..<br />
+> Now you’re In the Shudder Light
 
 
 I'll be exhibiting some images from my current series In The Shudder Light at The Original Gallery First floor Hornsey Library London N8 9JA from 19–28 March 2024.
