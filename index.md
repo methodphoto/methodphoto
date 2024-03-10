@@ -3,11 +3,21 @@ layout: default
 title: Galleries
 ---
 
-# Next exhibition
+# Exhibition news
 
-In March and April I will be exhibiting some recent work at the Original Gallery in Crouch End as part of the London Independent Photography - Crouch End group annual. More details to follow.
+I'll be exhibiting some images from my current series In The Shudder Light at The Original Gallery First floor Hornsey Library London N8 9JA from 19–28 March 2024.
 
-## The London Photo Show
+**Opening Hours:**<br />
+Monday–Friday 13:00–19:00<br />
+Saturday: 13:00–17:00<br />
+Sunday: 12:00–16:00<br />
+Thursday 28th: 13:00–17:00
+
+**Private View (all welcome):** 19th March 18:00–20:30
+
+**Meet the Artists:** 24th March 14:00–16:00
+
+### The London Photo Show 2023
 
 I recently exhibited at the London Photo Show. [Find out more…](/lps/)
 
