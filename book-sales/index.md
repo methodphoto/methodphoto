@@ -7,6 +7,12 @@ title: Book Sales
 
 I have a number of photobooks for sale, these are ones I no longer need or have duplicates of.
 
+<div class="book-sales">
+
+<div>
+ <img src="dark-room.webp" width="" height="" alt="Dark Room by Garry Fabian Miller"
+</div>
+<div>
 ## Dark Room 
 ### Garry Fabian Miller
 
@@ -17,4 +23,4 @@ An artist’s memoir of a life lived making pictures between the dark and the li
 <a href="https://buy.stripe.com/3cs6p2gVa4YPe0UaF4" class="buybutton">
 	<img src="../assets/buy.svg" width="288px" height="44px" alt="Reeds" title="Reeds" /><br/><br/>
 </a>
-
+<div>
