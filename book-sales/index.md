@@ -10,7 +10,7 @@ I have a number of photobooks for sale, these are ones I no longer need or have 
 <div class="book-sales">
 
 <div>
- <img src="dark-room.webp" width="" height="" alt="Dark Room by Garry Fabian Miller"
+ <img src="dark-room.webp" width="" height="" alt="Dark Room by Garry Fabian Miller" />
 </div>
 <div>
 ## Dark Room 
