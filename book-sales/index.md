@@ -13,8 +13,9 @@ I have a number of photobooks for sale, these are ones I no longer need or have 
  <img src="dark-room.webp" width="30%" height="30%" alt="Dark Room by Garry Fabian Miller" />
 </div>
 <div>
-## Dark Room 
-### Garry Fabian Miller
+
+<h3Dark Room</h3>
+<h4>Garry Fabian Miller</h4>
 
 One copy of Garry Fabian Miller's Dark Room in excellent condition. 
 
