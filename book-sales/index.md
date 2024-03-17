@@ -9,7 +9,7 @@ I have a number of photobooks for sale, these are ones I no longer need or have 
 
 <div class="book-sales">
 
-<h3>Dark Room<<br/>
+<h3>Dark Room<br/>
 <em>Garry Fabian Miller</em></h3>
 
 <div>
