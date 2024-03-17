@@ -7,19 +7,19 @@ title: Book Sales
 
 I have a number of photobooks for sale, these are ones I no longer need or have duplicates of.
 
-<div class="book-sales">
+<div>
 
 <h3>Dark Room<br/>
 <em>Garry Fabian Miller</em></h3>
 
-<div>
- <img src="dark-room.webp" width="30%" height="30%" alt="Dark Room by Garry Fabian Miller" />
-</div>
-<div>
+<div class="book-sales">
+	<div>
+		<img src="dark-room.webp" width="30%" height="30%" alt="Dark Room by Garry Fabian Miller" />
+	</div>
+	<div>
+		A copy of Garry Fabian Miller's Dark Room in excellent condition. 
 
-One copy of Garry Fabian Miller's Dark Room in excellent condition. 
-
-An artist’s memoir of a life lived making pictures between the dark and the light, a deeply personal account woven against the history of photography from the moment of its birth in the 1830s to its decline, and some would say death, in the digital age almost two hundred years later.
+		An artist’s memoir of a life lived making pictures between the dark and the light, a deeply personal account woven against the history of photography from the moment of its birth in the 1830s to its decline, and some would say death, in the digital age almost two hundred years later.
 
 <br />
 
