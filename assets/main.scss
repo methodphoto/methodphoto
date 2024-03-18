@@ -11,7 +11,7 @@ $primary-link-color: #0c5b97;
 $secondary-link-color: #996699;
 $primary-tint-color: #EFFBFB;
 $header-three: #996699;
-$test-background-colour: #eeeeee;
+$test-background-color: #eeeeee;
 $white: #ffffff;
 $black: #000000;
 
@@ -79,7 +79,7 @@ button {box-shadow: none;}
 
 .social-links img {margin-right: 24px;}
 
-.book-sales {background-color: $test-background-colour;}
+.book-sales {background: $test-background-color;}
 
 .book-sale-item,.book-sale-item-two  {
 	display: inline-block;}
@@ -88,13 +88,13 @@ button {box-shadow: none;}
 
 .unit {padding: 15px 0 !important; margin: 15px 0 !important;}
 
-table {margin-top: 24px; border: none; background-color: #$test-background-colour; border-radius: 6px;}
+table {margin-top: 24px; border: none; background-color: $test-background-color; border-radius: 6px;}
 
 tr { border: none;}
 
 td {
 	border: none;
-	background-color: #$test-background-colour;
+	background-color: $test-background-color;
 	width: 50%; 
 }
 
