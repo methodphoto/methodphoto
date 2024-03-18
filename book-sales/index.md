@@ -32,7 +32,7 @@ I have a number of photobooks for sale, these are ones I no longer need or have 
 	<em>Olaf Otto Becker</em></h3>
 <div class="book-sales-container">
 	<div class="book-sale-item">
-		<img src="dark-room.webp" alt="Reading the Landscape by Olaf Otto Becker" />
+		<img src="reading-the-landscape.webp" alt="Reading the Landscape by Olaf Otto Becker" />
 	</div>
 	<div class="book-sale-item-two">
 		<p>Olaf Otto Becker (* 1959) presents us with idyllic dreamlike places, paradisiacal tableaus from the jungles of Malaysia and Indonesia. Roman­tic floodplains, tree trunks slung with liana vines, eco­logical niches for countless life forms―these are the kinds of untouched tropical rainforests that we pic­ture in our dreams. </p>
@@ -50,12 +50,30 @@ I have a number of photobooks for sale, these are ones I no longer need or have 
 	<em>Jem Southam</em></h3>
 <div class="book-sales-container">
 	<div class="book-sale-item">
-		<img src="dark-room.webp" alt="Four Winters by Jem Southam" />
+		<img src="four-winters.webp" alt="Four Winters by Jem Southam" />
 	</div>
 	<div class="book-sale-item-two">
 		<p>For the past four winters the English artist Jem Southam has repeatedly visited a short stretch of riverbank along the floodplain of the River Exe. He stands and watches, as the dusk fades into darkness or as the light of dawn gathers, witnessing the different passage of each winter. In the evenings, long past sunset, swans, geese and ducks arrive on the river to spend the night in safety. In the mornings the birds wake, preen, feed and socialise as they prepare for the new day.</p>
 	
 		<p>£50 plus P&P</p>
+	</div>
+</div>
+	<a href="https://buy.stripe.com/3cs6p2gVa4YPe0UaF4" class="buybutton">
+		<img src="../assets/buy.svg" width="288px" height="44px" alt="Buy" title="Buy" />
+	</a>
+</div>
+
+<div class="book-sales">
+	<h3>Country Girls<br/>
+	<em>Anna Fox and Alison Goldfrapp/em></h3>
+<div class="book-sales-container">
+	<div class="book-sale-item">
+		<img src="country-girls.webp" alt="Country Girls by Anna Fox and Alison Goldfrapp" />
+	</div>
+	<div class="book-sale-item-two">
+		<p>For Anna Fox and Alison Goldfrapp, growing up in and around the town of Alton in the 1970s, a lingering chill hung over Flood Meadows, a bucolic corner of rural Hampshire. The legacy of the gruesome 1867 murder and dismemberment of eight-year-old Fanny Adams, whose body parts were gradually found scattered across the meadows, lingered on – over one hundred years later – in a current threat of violence, in the adolescent fights and misogyny all around them.</p>
+	
+		<p>£35 plus P&P</p>
 	</div>
 </div>
 	<a href="https://buy.stripe.com/3cs6p2gVa4YPe0UaF4" class="buybutton">
