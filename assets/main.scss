@@ -59,7 +59,10 @@ h3 {
 	width: 288px !important;
 }
 
-em {font-weight: normal;font-style: italic;}
+em {
+	font-weight: normal;
+	font-style: italic;
+}
 
 button {box-shadow: none;}
 
@@ -78,7 +81,12 @@ button {box-shadow: none;}
 
 .book-sales {background-color: #eee;}
 
-.book-sale-item {display: inline-block; padding 0.5rem;}
+.book-sale-item,.book-sale-item-two  {
+	display: inline-block; 
+	padding 0.5rem;
+}
+
+.book-sale-item-two {margin-bottom: 8px;}
 
 .unit {padding: 15px 0 !important; margin: 15px 0 !important;}
 
