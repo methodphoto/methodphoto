@@ -79,7 +79,18 @@ button {box-shadow: none;}
 
 .social-links img {margin-right: 24px;}
 
-.book-sales {background: $test-background-color;display: inline-block;}
+.book-sales-container {
+	display: flex;
+	gap: 1rem;
+	flex-direction: column;
+	margin: 1rem 0;
+}
+
+@media only screen and (min-width: 600px) {
+	.book-sales-container {
+	flex-direction: row;
+	}
+}
 
 .book-sale-item,.book-sale-item-two  {
 	display: inline-block;}
