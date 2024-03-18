@@ -79,16 +79,17 @@ button {box-shadow: none;}
 
 .social-links img {margin-right: 24px;}
 
-.book-sales {margin-bottom: 12px;}
+.book-sales {
+	margin-bottom: 12px;
+	background-color: $test-background-color;
+	border-radius: 8px;
+	padding: 12px;}
 
 .book-sales-container {
 	display: flex;
 	gap: 1rem;
 	flex-direction: column;
 	margin: 1rem;
-	background-color: $test-background-color;
-	border-radius: 8px;
-	padding: 12px;
 }
 
 @media only screen and (min-width: 600px) {
