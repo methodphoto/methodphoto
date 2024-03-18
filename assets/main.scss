@@ -5,15 +5,15 @@
 
 @import "minima";
 
-@import "form.css";
-
 $primary-color: #333f48;
 $primary-header-color: #0c5b97;
 $primary-link-color: #0c5b97;
 $secondary-link-color: #996699;
 $primary-tint-color: #EFFBFB;
 $header-three: #996699;
+$test-background-colour: #eeeeee;
 $white: #ffffff;
+$black: #000000;
 
 body {
 	margin-left: 16px !important;
@@ -79,24 +79,23 @@ button {box-shadow: none;}
 
 .social-links img {margin-right: 24px;}
 
-.book-sales {background-color: #eee;}
+.book-sales {background-color: $test-background-colour;}
 
 .book-sale-item,.book-sale-item-two  {
 	display: inline-block; 
-	padding 0.5rem;
-}
+	padding 0.5rem;}
 
 .book-sale-item-two {margin-bottom: 8px;}
 
 .unit {padding: 15px 0 !important; margin: 15px 0 !important;}
 
-table {margin-top: 24px; border: none; background-color: #eee; border-radius: 6px;}
+table {margin-top: 24px; border: none; background-color: #$test-background-colour; border-radius: 6px;}
 
 tr { border: none;}
 
 td {
 	border: none;
-	background-color: #eee;
+	background-color: #$test-background-colour;
 	width: 50%; 
 }
 
@@ -109,7 +108,7 @@ td:nth-child(2) {
 }
 
 .links:hover {
-	background-color: #000;
+	background-color: $black;
 }
 
 .links a {
