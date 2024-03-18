@@ -99,6 +99,10 @@ button {box-shadow: none;}
 	.book-sale-item img {width: 10%;}
 }
 
+@media only screen and (max-width: 600px) {
+	.book-sale-item img {width: 10%;}
+}
+
 .book-sale-item,.book-sale-item-two  {
 	display: inline-block;}
 
