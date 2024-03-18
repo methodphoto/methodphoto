@@ -95,12 +95,15 @@ button {box-shadow: none;}
 	.book-sales-container {
 	flex-direction: row;
 	}
+	
+	.book-sale-item img {width: 50%;}
 }
 
 .book-sale-item,.book-sale-item-two  {
 	display: inline-block;}
 
 .book-sale-item-two {margin-bottom: 8px;}
+
 
 .unit {padding: 15px 0 !important; margin: 15px 0 !important;}
 
