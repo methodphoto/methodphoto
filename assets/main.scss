@@ -84,6 +84,9 @@ button {box-shadow: none;}
 	gap: 1rem;
 	flex-direction: column;
 	margin: 1rem 0;
+	background-color: $test-background-color;
+	border-radius: 8px;
+	padding: 5px;
 }
 
 @media only screen and (min-width: 600px) {
