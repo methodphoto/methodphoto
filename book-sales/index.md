@@ -12,7 +12,7 @@ I have a number of photobooks for sale, these are ones I no longer need or have 
 	<em>Garry Fabian Miller</em></h3>
 <div class="book-sales-container">
 	<div class="book-sale-item">
-		<!-- <img src="dark-room.webp" width="25%" height="25%" alt="Dark Room by Garry Fabian Miller" /> -->
+		<!-- <img src="dark-room.webp" width="30%" height="30%" alt="Dark Room by Garry Fabian Miller" /> -->
 				<img src="dark-room.webp"  alt="Dark Room by Garry Fabian Miller" />
 
 	</div>
