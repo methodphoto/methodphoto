@@ -82,19 +82,19 @@ I have a number of photobooks for sale, these are ones I no longer need or have 
 </div>
 
 <div class="book-sales norm">
-	<h3>Country Girls<br/>
-	<em>Anna Fox and Alison Goldfrapp</em></h3>
+	<h3>Please Notify the Sun<br/>
+	<em>Stephen Gill</em></h3>
 <div class="book-sales-container">
 	<div class="book-sale-item">
-		<img src="country-girls.webp" alt="Country Girls by Anna Fox and Alison Goldfrapp" />
+		<img src="please-notify-the-sun.webp" alt="Please Notify the Sun by Stephen Gill" />
 	</div>
 	<div class="book-sale-item-two">
-		<p>For Anna Fox and Alison Goldfrapp, growing up in and around the town of Alton in the 1970s, a lingering chill hung over Flood Meadows, a bucolic corner of rural Hampshire. The legacy of the gruesome 1867 murder and dismemberment of eight-year-old Fanny Adams, whose body parts were gradually found scattered across the meadows, lingered on – over one hundred years later – in a current threat of violence, in the adolescent fights and misogyny all around them.</p>
+		<p>It was in 2017 that I began to have an inkling that a single fish might contain a universe of infinite proportions and how amazing a journey within its body could be. So I started to research everything I would need to embark on such an expedition. By January 2020 I had built a work top, obtained a microscope, a camera, optics, lights and fridge. Mentally, though, I was far from ready. I was lacking the courage, time, energy and mental strength to set out on this unknown voyage.</p>
 	
 		<p><strong>£35 inc P&P</strong></p>
 	</div>
 </div>
-	<a href="https://buy.stripe.com/fZe3cQawM0Iz9KEdRj" class="buybutton">
+	<a href="https://buy.stripe.com/7sI3cQ9sI76X4qk6oS" class="buybutton">
 		<img src="../assets/buy.svg" width="288px" height="44px" alt="Buy" title="Buy" />
 	</a>
 </div>
