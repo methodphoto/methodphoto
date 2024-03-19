@@ -35,7 +35,7 @@ I have a number of photobooks for sale, these are ones I no longer need or have 
 		<img src="reading-the-landscape.webp" alt="Reading the Landscape by Olaf Otto Becker" />
 	</div>
 	<div class="book-sale-item-two">
-		<p>Olaf Otto Becker (* 1959) presents us with idyllic dreamlike places, paradisiacal tableaus from the jungles of Malaysia and Indonesia. Roman­tic floodplains, tree trunks slung with liana vines, eco­logical niches for countless life forms―these are the kinds of untouched tropical rainforests that we pic­ture in our dreams. </p>
+		<p>Olaf Otto Becker presents us with idyllic dreamlike places, paradisiacal tableaus from the jungles of Malaysia and Indonesia. Romatic floodplains, tree trunks slung with liana vines, eclogical niches for countless life forms, these are the kinds of untouched tropical rainforests that we pic­ture in our dreams. </p>
 	
 		<p>£20 inc P&P</p>
 	</div>
