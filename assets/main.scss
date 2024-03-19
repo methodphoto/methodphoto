@@ -11,7 +11,8 @@ $primary-link-color: #0c5b97;
 $secondary-link-color: #996699;
 $primary-tint-color: #EFFBFB;
 $header-three: #996699;
-$test-background-color: #eeeeee;
+$test-background-color: #E9E1EA;
+$alt-background-color: #F5E3E3;
 $white: #ffffff;
 $black: #000000;
 
@@ -81,9 +82,12 @@ button {box-shadow: none;}
 
 .book-sales {
 	margin-bottom: 12px;
-	background-color: $test-background-color;
 	border-radius: 8px;
-	padding: 12px;}
+	padding: 12px;
+}
+	
+.norm {background-color: $test-background-color;}
+.alt {background-color: $alt-background-color;}
 
 .book-sales-container {
 	display: flex;
