@@ -65,7 +65,7 @@ I have a number of photobooks for sale, these are ones I no longer need or have 
 
 <div class="book-sales">
 	<h3>Country Girls<br/>
-	<em>Anna Fox and Alison Goldfrapp/em></h3>
+	<em>Anna Fox and Alison Goldfrapp</em></h3>
 <div class="book-sales-container">
 	<div class="book-sale-item">
 		<img src="country-girls.webp" alt="Country Girls by Anna Fox and Alison Goldfrapp" />
