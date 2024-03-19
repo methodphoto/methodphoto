@@ -37,7 +37,7 @@ I have a number of photobooks for sale, these are ones I no longer need or have 
 	<div class="book-sale-item-two">
 		<p>Olaf Otto Becker presents us with idyllic dreamlike places, paradisiacal tableaus from the jungles of Malaysia and Indonesia. Romatic floodplains, tree trunks slung with liana vines, eclogical niches for countless life forms, these are the kinds of untouched tropical rainforests that we pic­ture in our dreams. </p>
 	
-		<p>£20 inc P&P</p>
+		<p><strong>£20 inc P&P</strong></p>
 	</div>
 </div>
 	<a href="https://buy.stripe.com/5kAcNqfR6aj93mg8wX" class="buybutton">
@@ -55,7 +55,7 @@ I have a number of photobooks for sale, these are ones I no longer need or have 
 	<div class="book-sale-item-two">
 		<p>For the past four winters the English artist Jem Southam has repeatedly visited a short stretch of riverbank along the floodplain of the River Exe. He stands and watches, as the dusk fades into darkness or as the light of dawn gathers, witnessing the different passage of each winter. In the evenings, long past sunset, swans, geese and ducks arrive on the river to spend the night in safety. In the mornings the birds wake, preen, feed and socialise as they prepare for the new day.</p>
 	
-		<p>£50 inc P&P</p>
+		<p><strong>£50 inc P&P</strong></p>
 	</div>
 </div>
 	<a href="https://buy.stripe.com/00gdRucEU62T3mg00s" class="buybutton">
@@ -73,7 +73,7 @@ I have a number of photobooks for sale, these are ones I no longer need or have 
 	<div class="book-sale-item-two">
 		<p>For Anna Fox and Alison Goldfrapp, growing up in and around the town of Alton in the 1970s, a lingering chill hung over Flood Meadows, a bucolic corner of rural Hampshire. The legacy of the gruesome 1867 murder and dismemberment of eight-year-old Fanny Adams, whose body parts were gradually found scattered across the meadows, lingered on – over one hundred years later – in a current threat of violence, in the adolescent fights and misogyny all around them.</p>
 	
-		<p>£35 inc P&P</p>
+		<p><strong>£35 inc P&P</strong></p>
 	</div>
 </div>
 	<a href="https://buy.stripe.com/fZe3cQawM0Iz9KEdRj" class="buybutton">
@@ -91,7 +91,7 @@ I have a number of photobooks for sale, these are ones I no longer need or have 
 	<div class="book-sale-item-two">
 		<p>For Anna Fox and Alison Goldfrapp, growing up in and around the town of Alton in the 1970s, a lingering chill hung over Flood Meadows, a bucolic corner of rural Hampshire. The legacy of the gruesome 1867 murder and dismemberment of eight-year-old Fanny Adams, whose body parts were gradually found scattered across the meadows, lingered on – over one hundred years later – in a current threat of violence, in the adolescent fights and misogyny all around them.</p>
 	
-		<p>£35 inc P&P</p>
+		<p><strong>£35 inc P&P</strong></p>
 	</div>
 </div>
 	<a href="https://buy.stripe.com/fZe3cQawM0Iz9KEdRj" class="buybutton">
