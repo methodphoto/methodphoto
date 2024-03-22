@@ -71,7 +71,8 @@ em {
 button {box-shadow: none;}
 
 .links {
-	background-color: $primary-header-color;
+	background-color: rgb(232, 120, 72);
+	background-image: linear-gradient(243deg, rgb(90, 66, 237) 0%, rgba(232, 120, 72, 0.008) 74%);
 	width: 100%;
 	color: $white;
 	border-radius: 6px;
