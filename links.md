@@ -15,7 +15,7 @@ title: Links
 [![Buy Warped Topographies II and The Prismatic Pond](books/warped-prismatic.webp "Warped Topographies II and The Prismatic Pond covers")](https://method.photo/books/warped-pond)
 
 <a href="https://method.photo/books/warped-pond">
-	<button class="links">
+	<button class="links other">
 		Buy Warped Topographies II and The Prismatic Pond
 	</button>
 </a>
@@ -27,7 +27,7 @@ title: Links
 </a>
 
 <a href="https://method.photo/lps/">
-	<button class="links">
+	<button class="links other">
 		The London Photo Show 2023
 	</button>
 </a>
@@ -39,7 +39,7 @@ title: Links
 </a>
 
 <a href="https://biblioscapes.com/in-discussion/richard-earney-1">
-	<button class="links">
+	<button class="links other">
 		Biblioscapes In Discussion 08/12/2022
 	</button>
 </a>
@@ -51,7 +51,7 @@ title: Links
 </a>
 
 <a href="https://glass.photo/methodphoto">
-	<button class="links">
+	<button class="links other">
 		Glass.Photo
 	</button>
 </a>
