@@ -4,9 +4,9 @@ title: Links
 ---
 
 <a href="https://method.photo/lipce2024">
-	<span class="links">
+	<div class="links">
 		LIP Crouch End Annual Exhibition
-	</span>
+	</div>
 </a>
 
 <br />
@@ -15,50 +15,50 @@ title: Links
 [![Buy Warped Topographies II and The Prismatic Pond](books/warped-prismatic.webp "Warped Topographies II and The Prismatic Pond covers")](https://method.photo/books/warped-pond)
 
 <a href="https://method.photo/books/warped-pond">
-	<span class="links other">
+	<div class="links other">
 		Buy Warped Topographies II and The Prismatic Pond
-	</span>
+	</div>
 </a>
 
 <a href="https://method.photo">
-	<span class="links">	
+	<div class="links">	
 		Method Photo
-	</span>
+	</div>
 </a>
 
 <a href="https://method.photo/lps/">
-	<span class="links other">
+	<div class="links other">
 		The London Photo Show 2023
-	</span>
+	</div>
 </a>
 
 <a href="https://vimeo.com/449190135">
-	<span class="links">
+	<div class="links">
 		One Misty May Morning video
-	</span>
+	</div>
 </a>
 
 <a href="https://biblioscapes.com/in-discussion/richard-earney-1">
-	<span class="links other">
+	<div class="links other">
 		Biblioscapes In Discussion 08/12/2022
-	</span>
+	</div>
 </a>
 
 <a href="https://biblioscapes.com/in-discussion/richard-earney">
-	<span class="links">
+	<div class="links">
 		Biblioscapes In Discussion 08/10/2020
-	</span>
+	</div>
 </a>
 
 <a href="https://glass.photo/methodphoto">
-	<span class="links other">
+	<div class="links other">
 		Glass.Photo
-	</span>
+	</div>
 </a>
 
 <a href="https://threads.net/@methodphotonew">
-	<span class="links">
+	<div class="links">
 		Threads
-	</span>
+	</div>
 </a>
 
