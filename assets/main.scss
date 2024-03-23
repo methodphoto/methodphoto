@@ -63,7 +63,8 @@ h3 {
 }
 
 .button {
-	width: 288px !important;
+	min-width: 288px !important;
+	min-height: $unit-four;
 }
 
 em {
