@@ -56,9 +56,9 @@ title: Links
 	</div>
 </a>
 
-<a href="https://threads.net/@methodphotonew">
+
 	<div class="links">
-		Threads
+		<a href="https://threads.net/@methodphotonew">Threads</a>
 	</div>
-</a>
+
 
