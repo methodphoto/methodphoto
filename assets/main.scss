@@ -21,6 +21,7 @@ $unit-one: 8px;
 $unit-two: 12px;
 $unit-three: 16px;
 $unit-four: 24px;
+$unit-five: 48px;
 
 body {
 	margin-left: $unit-three !important;
@@ -64,7 +65,7 @@ h3 {
 
 .button {
 	min-width: 288px !important;
-	min-height: $unit-four;
+	min-height: $unit-five;
 }
 
 em {
