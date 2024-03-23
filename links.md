@@ -13,7 +13,7 @@ title: Links
 
 <a href="https://method.photo/books/warped-pond">
 	<button class="links other">
-		Buy Warped Topographies II and The Prismatic Pond
+		Buy both books
 	</button>
 </a>
 
