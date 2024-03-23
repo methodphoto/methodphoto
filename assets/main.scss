@@ -74,11 +74,13 @@ button {box-shadow: none;}
 	background-image: linear-gradient(243deg, rgb(90, 66, 237) 0%, rgba(232, 120, 72, 0.008) 74%);
 	width: 100%;
 	color: $white;
-	border-radius: 6px;
+	border-radius: 12px;
 	padding: 8px;
-	margin-bottom: 16px;
+	margin-bottom: 24px;
 	text-align: center;
 	font-size: 1.1rem !important;
+	display: block;
+	
 }
 
 .links:hover {background-color: $primary-header-color;}

@@ -63,6 +63,8 @@ On Landscape Magazine, [Hipstamatic Landscape Photography](https://www.onlandsca
 
 ## Exhibitions
 
+[London Independent Photography Crouch End group, 2024, The Original Gallery, London](lipce24)
+
 [London Photo Show 2023, Bargehouse Gallery, Oxo Tower](/lps/)
 
 [London Independent Photography Crouch End group, 2023, The Original Gallery, London](blog/2023-03-21-lip-crouch-end-annual)
