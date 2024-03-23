@@ -4,13 +4,10 @@ title: Links
 ---
 
 <a href="https://method.photo/lipce2024">
-	<button class="links">
+	<button class="links space">
 		LIP Crouch End Annual Exhibition
 	</button>
 </a>
-
-<br />
-<br />
 
 [![Buy Warped Topographies II and The Prismatic Pond](books/warped-prismatic.webp "Warped Topographies II and The Prismatic Pond covers")](https://method.photo/books/warped-pond)
 
