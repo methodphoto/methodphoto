@@ -17,10 +17,15 @@ $alt-background-color: #F9F0F0;
 $white: #ffffff;
 $black: #000000;
 
+$unit-one: 8px;
+$unit-two: 12px;
+$unit-three: 16px;
+$unit-four: 24px;
+$unit-five: 48px;
 
 body {
-	margin-left: 16px !important;
-	margin-right: 16px !important;
+	margin-left: $unit-three !important;
+	margin-right: $unit-three !important;
 }
 
 .wrapper {
@@ -59,7 +64,8 @@ h3 {
 }
 
 .button {
-	width: 288px !important;
+	min-width: 288px !important;
+	height: $unit-five;
 }
 
 em {
@@ -74,23 +80,39 @@ button {box-shadow: none;}
 	background-image: linear-gradient(243deg, rgb(90, 66, 237) 0%, rgba(232, 120, 72, 0.008) 74%);
 	width: 100%;
 	color: $white;
-	border-radius: 6px;
-	padding: 8px;
-	margin-bottom: 16px;
+	border-radius: $unit-two;
+	padding: $unit-one;
+	margin-bottom: $unit-four;
+	text-align: center;
+	font-size: 1.1rem !important;
+	display: block;	
+}
+
+.links2 {
+	background-color: rgb(232, 120, 72);
+	background-image: linear-gradient(243deg, rgb(90, 66, 237) 0%, rgba(232, 120, 72, 0.008) 74%);
+	width: 100%;
+	height:48px;
+	color: $white;
+	border-radius: $unit-two;
+	padding: $unit-one;
+	margin-bottom: $unit-four;
 	text-align: center;
 	font-size: 1.1rem !important;
 }
 
-.links:hover {background-image: none;}
+.links:hover {background-color: $primary-header-color;}
 
 .other {background-color: $secondary-link-color;}
 
-.social-links img {margin-right: 24px;}
+.social-links img {margin-right: $unit-four;}
+
+.space {margin-bottom: $unit-three;}
 
 .book-sales {
-	margin-bottom: 20px;
-	border-radius: 8px;
-	padding: 12px;
+	margin-bottom: $unit-four;
+	border-radius: $unit-one;
+	padding: $unit-two;
 }
 
 .book-sales:hover {box-shadow: 0px 2px 8px 0px rgba(0, 19, 70, 0.10);}
@@ -123,7 +145,7 @@ button {box-shadow: none;}
 
 .unit {padding: 15px 0 !important; margin: 15px 0 !important;}
 
-table {margin-top: 24px; border: none; background-color: $test-background-color; border-radius: 6px;}
+table {margin-top: $unit-four; border: none; background-color: $test-background-color; border-radius: 6px;}
 
 tr { border: none;}
 
@@ -239,11 +261,11 @@ blockquote {
 }
 
 .more {
-	margin-top: 24px;
+	margin-top: $unit-four;
 }
 
 .buybutton {
-	padding-bottom: 24px;
+	padding-bottom: $unit-four;
 }
 
 @media screen and (max-width: 600px) {
