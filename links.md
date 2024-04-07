@@ -3,9 +3,9 @@ layout: default
 title: Links
 ---
 
-<a href="https://method.photo/lipce2024">
-	<button class="links space">
-		LIP Crouch End Annual Exhibition
+<a href="<a href="https://method.photo/book-sales">
+	<button class="links">
+		Second-hand Books for sale
 	</button>
 </a>
 
@@ -17,15 +17,15 @@ title: Links
 	</button>
 </a>
 
-<a href="https://method.photo">
-	<span class="links">	
-		Method Photo
-	</span>
+<a href="https://method.photo/lipce2024">
+	<button class="links">
+		LIP Crouch End Annual Exhibition
+	</button>
 </a>
 
-<a href="https://method.photo/lps/">
-	<span class="links other">
-		The London Photo Show 2023
+<a href="https://method.photo">
+	<span class="links other">	
+		Method Photo
 	</span>
 </a>
 
