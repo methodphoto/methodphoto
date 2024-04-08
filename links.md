@@ -13,7 +13,7 @@ title: Links
 
 <a href="https://method.photo/books/warped-pond">
 	<button class="links other">
-		Buy both books
+		Buy my published books
 	</button>
 </a>
 
