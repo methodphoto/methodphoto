@@ -9,13 +9,19 @@ title: Links
 	</button>
 </a>
 
-[![Buy Warped Topographies II and The Prismatic Pond](books/warped-prismatic.webp "Warped Topographies II and The Prismatic Pond covers")](https://method.photo/books/warped-pond)
+<div class="book-sales norm">
+
+<a href="https://method.photo/books/warped-pond">
+	<img src="books/warped-prismatic.webp" alt="Buy Warped Topographies II and The Prismatic Pond" />
+</a>
 
 <a href="https://method.photo/books/warped-pond">
 	<button class="links other">
 		Buy my published books
 	</button>
 </a>
+
+</div>
 
 <a href="https://method.photo/lipce2024">
 	<button class="links">
