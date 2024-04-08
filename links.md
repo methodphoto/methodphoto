@@ -9,7 +9,7 @@ title: Links
 	</button>
 </a>
 
-<div class="book-sales norm">
+<div class="book-sales alt">
 
 <a href="https://method.photo/books/warped-pond">
 	<img src="books/warped-prismatic.webp" alt="Buy Warped Topographies II and The Prismatic Pond" />
