@@ -3,9 +3,9 @@ layout: default
 title: Links
 ---
 
-<a href="<a href="https://method.photo/book-sales">
+<a href="https://method.photo/book-sales">
 	<button class="links">
-		Second-hand Books for sale
+		Some second-hand Books for sale
 	</button>
 </a>
 
@@ -25,7 +25,7 @@ title: Links
 
 <a href="https://method.photo">
 	<span class="links other">	
-		Method Photo
+		Method Photo website
 	</span>
 </a>
 
@@ -50,11 +50,5 @@ title: Links
 <a href="https://glass.photo/methodphoto">
 	<span class="links other">
 		Glass.Photo
-	</span>
-</a>
-
-<a href="https://threads.net/@methodphotonew">
-	<span class="links">
-		Threads
 	</span>
 </a>
