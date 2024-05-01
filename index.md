@@ -3,23 +3,19 @@ layout: default
 title: Galleries
 ---
 
-# Exhibition news
+# News
 
-I'll be exhibiting some images from my current series In The Shudder Light at The Original Gallery First floor Hornsey Library London N8 9JA from 19–28 March 2024.
+### Books for Sale
 
-**Opening Hours:**<br />
-Monday–Friday 13:00–19:00<br />
-Saturday: 13:00–17:00<br />
-Sunday: 12:00–16:00<br />
-Thursday 28th: 13:00–17:00
+I have some second hand or duplicate [books for sale](book-sales), as well as the last remaining copies of [Warped Topographies II and The Prismatic Pond](books/warped-pond)
 
-**Private View (all welcome):** 19th March 18:00–20:30
+### Crouch End LIP Annual Exhibition 2024
 
-**Meet the Artists:** 24th March 14:00–16:00
+I recently exhibited some images from my current series [In The Shudder Light](lipce2024) at The Original Gallery. 19–28 March 2024.
 
 ### The London Photo Show 2023
 
-I recently exhibited at the London Photo Show. [Find out more…](/lps/)
+I exhibited at the London Photo Show 2023. [Find out more…](/lps/)
 
 ## {{page.title}}
 
