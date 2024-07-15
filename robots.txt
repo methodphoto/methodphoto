@@ -20,4 +20,4 @@ User-agent: omgili
 User-agent: omgilibot
 User-agent: PerplexityBot
 User-agent: YouBot
-Disallow
+Disallow: /
