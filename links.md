@@ -3,7 +3,7 @@ layout: default
 title: Links
 ---
 
-<div>
+<div style="margin-bottom:10px;">
 <a href="https://method.photo/books/warped-pond">
 	<button class="links other">
 		Buy my books
