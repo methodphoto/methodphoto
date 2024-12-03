@@ -3,7 +3,7 @@ layout: default
 title: Links
 ---
 
-<div class="book-sales alt">
+<div>
 
 <a href="https://method.photo/books/warped-pond">
 	<img src="books/warped-prismatic.webp" alt="Buy Warped Topographies II and The Prismatic Pond" />
