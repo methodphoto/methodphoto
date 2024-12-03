@@ -4,17 +4,15 @@ title: Links
 ---
 
 <div>
-
-<a href="https://method.photo/books/warped-pond">
-	<img src="books/warped-prismatic.webp" alt="Buy Warped Topographies II and The Prismatic Pond" />
-</a>
-
 <a href="https://method.photo/books/warped-pond">
 	<button class="links other">
 		Buy my books
 	</button>
 </a>
 
+<a href="https://method.photo/books/warped-pond">
+	<img src="books/warped-prismatic.webp" alt="Buy Warped Topographies II and The Prismatic Pond" />
+</a>
 </div>
 
 <a href="https://method.photo">
