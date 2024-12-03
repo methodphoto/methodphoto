@@ -3,12 +3,6 @@ layout: default
 title: Links
 ---
 
-<a href="https://method.photo/book-sales">
-	<button class="links">
-		Some second-hand Books for sale
-	</button>
-</a>
-
 <div class="book-sales alt">
 
 <a href="https://method.photo/books/warped-pond">
@@ -17,17 +11,11 @@ title: Links
 
 <a href="https://method.photo/books/warped-pond">
 	<button class="links other">
-		Buy my published books
+		Buy my books
 	</button>
 </a>
 
 </div>
-
-<a href="https://method.photo/lipce2024">
-	<button class="links">
-		LIP Crouch End Annual Exhibition
-	</button>
-</a>
 
 <a href="https://method.photo">
 	<span class="links other">	
