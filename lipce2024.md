@@ -15,17 +15,7 @@ parent: galleries
 > Now you’re In the Shudder Light
 
 
-I'll be exhibiting some images from my current series In The Shudder Light at The Original Gallery First floor Hornsey Library London N8 9JA from 19–28 March 2024.
-
-**Opening Hours:**<br />
-Monday–Friday 13:00–19:00<br />
-Saturday: 13:00–17:00<br />
-Sunday: 12:00–16:00<br />
-Thursday 28th: 13:00–17:00
-
-**Private View (all welcome):** 19th March 18:00–20:30
-
-**Meet the Artists:** 24th March 14:00–16:00
+I exhibited some images from my series In The Shudder Light at The Original Gallery, London N8 9JA in 19–28 March 2024.
 
 <div class="unit">
 
