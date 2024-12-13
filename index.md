@@ -9,17 +9,15 @@ title: Galleries
 
 I have some second hand or duplicate [books for sale](book-sales), as well as the last remaining copies of [Warped Topographies II and The Prismatic Pond](books/warped-pond)
 
-### Crouch End LIP Annual Exhibition 2024
-
-I recently exhibited some images from my current series [In The Shudder Light](lipce2024) at The Original Gallery. 19–28 March 2024.
-
-### The London Photo Show 2023
-
-I exhibited at the London Photo Show 2023. [Find out more…](/lps/)
-
 ## {{page.title}}
 
 <div class="grid">
+   <div>
+   		<a href="lipce2024">
+			<img src="assets/galleries/in-the-shudder-light-01.webp" alt="In the Shudder Light" title="In the Shudder Light" />
+			<span class="gallerytitle">In the Shudder Light</span>
+		</a>
+   	</div>
    <div>
    		<a href="ghosts-of-the-broomway">
 			<img src="assets/galleries/ghosts-of-the-broomway.webp" alt="Ghosts of the Broomway" title="Ghosts of the Broomway" />
