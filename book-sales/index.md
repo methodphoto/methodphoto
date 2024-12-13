@@ -7,6 +7,8 @@ title: Book Sales
 
 I have a number of photobooks for sale, these are ones I no longer need or have duplicates of.
 
+{% include gspr %}
+
 <div class="book-sales norm">
 	<h3>Reading the Landscape<br/>
 	<em>Olaf Otto Becker</em></h3>

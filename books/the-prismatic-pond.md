@@ -39,8 +39,9 @@ Printed with care by Wells Printing
 
 Copies ready for immediate dispatch
 
-
 **Please choose your correct shipping location on the next screen**
+
+{% include gspr %}
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">

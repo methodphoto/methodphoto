@@ -28,7 +28,9 @@ The images resemble aerial satellite imagery, with tortured landforms, disrupted
 **Soft Cover:** 350gsm Silk paper with soft touch lamination<br />
 **Contents:** 36pp 170gsm Silk paper
 
-**Price:** £8.50 + shipping (UK and EU/RoW)
+**Price:** £8.50 + shipping (UK and RoW)
+
+{% include gspr %}
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
