@@ -30,7 +30,7 @@ The images resemble aerial satellite imagery, with tortured landforms, disrupted
 
 **Price:** £8.50 + shipping (UK and RoW)
 
-{% include gspr %}
+Please note: **Method Photo is not shipping to the EU as their is huge uncertainty surrounding the EU's GSPR (thanks Brexiters!)**
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">

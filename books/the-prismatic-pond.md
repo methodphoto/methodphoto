@@ -41,7 +41,7 @@ Copies ready for immediate dispatch
 
 **Please choose your correct shipping location on the next screen**
 
-{% include gspr %}
+Please note: **Method Photo is not shipping to the EU as their is huge uncertainty surrounding the EU's GSPR (thanks Brexiters!)**
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
