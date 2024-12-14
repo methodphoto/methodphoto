@@ -47,7 +47,7 @@ On Landscape, Meeting of Minds 2018 Community Exhibition
 
 [London Independent Photography LIP 30 Exhibition 2018, Espacio Gallery](blog/2018-10-08-london-independent-photographers-30th-annual-exhibition)
 
-[#Connected 2018, Patching’s Gallery, Nottinghamshire](blog/2018-04-25-#connected2018)
+[#Connected 2018, Patching’s Gallery, Nottinghamshire](blog/2018-04-25-connected2018)
 
 #ConnectedTen, Patching’s Gallery, Nottinghamshire
 
