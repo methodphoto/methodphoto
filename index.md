@@ -11,6 +11,8 @@ I have some second hand or duplicate [books for sale](book-sales), as well as th
 
 ## {{page.title}}
 
+{% include gallery %}
+
 <div class="grid">
 	<div>
    		<a href="im-lost-at-sea-dont-bother-me/">
