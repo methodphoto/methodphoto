@@ -12,43 +12,49 @@ I have some second hand or duplicate [books for sale](book-sales), as well as th
 ## {{page.title}}
 
 <div class="grid">
-   <div>
+	<div>
+   		<a href="im-lost-at-sea-dont-bother-me/">
+			<img src="assets/galleries/im-lost-at-sea-dont-bother-me.webp" alt="I'm Lost at Sea, Don't Bother Me" title="I'm Lost at Sea, Don't Bother Me" />
+			<span class="gallerytitle">I'm Lost at Sea, Don't Bother Me</span>
+		</a>
+	</div>
+	<div>
    		<a href="we-await-the-sailors-return/">
 			<img src="assets/galleries/we-await-the-sailors-return.webp" alt="We Await (the Sailor's Return)" title="We Await (the Sailor's Return)" />
 			<span class="gallerytitle">We Await (the Sailor's Return)</span>
 		</a>
    	</div>
-   <div>
+	<div>
    		<a href="the-pressure-wave/">
 			<img src="assets/galleries/the-pressure-wave.webp" alt="The Pressure Wave" title="The Pressure Wave" />
 			<span class="gallerytitle">The Pressure Wave</span>
 		</a>
    	</div>
-   <div>
+	<div>
    		<a href="in-the-shudder-light/">
 			<img src="assets/galleries/in-the-shudder-light.webp" alt="In the Shudder Light" title="In the Shudder Light" />
 			<span class="gallerytitle">In the Shudder Light</span>
 		</a>
    	</div>
-   <div>
+	<div>
    		<a href="ghosts-of-the-broomway/">
 			<img src="assets/galleries/ghosts-of-the-broomway.webp" alt="Ghosts of the Broomway" title="Ghosts of the Broomway" />
 			<span class="gallerytitle">Ghosts of the Broomway</span>
 		</a>
    	</div>
-   <div>
+	<div>
    		<a href="motion-stills/">
 			<img src="assets/galleries/motion-stills.webp" alt="Motion Stills" title="Motion Stills" />
 			<span class="gallerytitle">Motion Stills</span>
 		</a>
    	</div>
-   <div>
+	<div>
   	 <a href="obscured-perception/">
 			<img src="assets/galleries/obscured-perception.webp" alt="Obscured Perception" title="Obscured Perception" />
 			<span class="gallerytitle">Obscured Perception</span>
 		</a>
   	</div>
-   <div>
+	<div>
    		<a href="in-the-morning-soft-is-the-light/">
 			<img src="assets/galleries/in-the-morning-soft-is-the-light.webp" alt="In the Morning, Soft is the Light" title="In the Morning, Soft is the Light" />
 			<span class="gallerytitle">In the Morning,<br />Soft is the Light</span>

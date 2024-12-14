@@ -6,6 +6,12 @@
 
 <div class="grid">
 	<div>
+   		<a href="../im-lost-at-sea-dont-bother-me/">
+			<img src="/assets/galleries/im-lost-at-sea-dont-bother-me.webp" alt="I'm Lost at Sea, Don't Bother Me" title="I'm Lost at Sea, Don't Bother Me" />
+			<span class="gallerytitle">I'm Lost at Sea, Don't Bother Me</span>
+		</a>
+	</div>
+	<div>
    		<a href="../we-await-the-sailors-return/">
 			<img src="/assets/galleries/we-await-the-sailors-return.webp" alt="We Await (The Sailor's Return)" title="We Await (The Sailor's Return)" />
 			<span class="gallerytitle">We Await (The Sailor's Return)</span>
