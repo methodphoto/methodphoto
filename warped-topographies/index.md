@@ -26,6 +26,8 @@ As the project picked up momentum, I came across the work of abstract landscape 
 
 Their work reinforced my conceit that my small-scale works were hand-made imagined landscapes from this and other worlds.
 
+There are still some 'slight seconds' of the book [Warped Topographies II](../books/warped-pond) available.
+
 Here are a mere 13 images of the approximately 1000 made, so far.
 
 ![{{page.title}}](warped-topographies-01.webp "{{page.title}}")
