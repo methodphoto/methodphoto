@@ -59,9 +59,9 @@ On Landscape, Meeting of Minds 2016 Community Exhibition
 
 ## Books
 
-[The Prismatic Pond](https://methodphotopress.co.uk), 2022
+[The Prismatic Pond](books/the-prismatic-pond), 2022
 
-[Warped Topographies II](http://methodphotopress.uk/), 2020 (can also be viewed at [Biblioscapes](https://biblioscapes.com/library/warped-topographies-ii))
+[Warped Topographies II](books/warped-topographies-ii), 2020 (can also be viewed at [Biblioscapes](https://biblioscapes.com/library/warped-topographies-ii))
 
 [Warped Topographies](https://www.kozubooks.com/books-new/richard-earney-warped-topographies), 2018 (can also be viewed at [Biblioscapes](https://biblioscapes.com/library/warped-topographies))
 
