@@ -22,7 +22,7 @@ With advice and a bon chance from []@florintintin](https://instagram.com/florint
 
 To me they resembled aerial satellite imagery, with tortured landforms, disrupted river flows, impenetrable forests, glacial melts and ice flows; all appeared in these twisted, fractured works.
 
-As the project picked up momentum, I came across the work of abstract landscape photographers such as [David Maisel](https://davidmaisel.works/terminal-mirage/) and [Edward Burtynsky](https://www.edwardburtynsky.projects/water), who both depict man’s impact on the environment. I also took inspiration from [Paul Kenny’s fabulous Seaworks](https://paul-kenny.co.uk) lifetime project. 
+As the project picked up momentum, I came across the work of abstract landscape photographers such as [David Maisel](https://davidmaisel.com/works/terminal-mirage/) and [Edward Burtynsky](https://www.edwardburtynsky.com/projects/photographs/waterr), who both depict man’s impact on the environment. I also took inspiration from [Paul Kenny’s fabulous Seaworks](https://paul-kenny.co.uk) lifetime project. 
 
 Their work reinforced my conceit that my small-scale works were hand-made imagined landscapes from this and other worlds.
 

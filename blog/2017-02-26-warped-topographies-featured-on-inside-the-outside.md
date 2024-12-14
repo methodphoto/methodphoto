@@ -8,7 +8,7 @@ next: 2017-05-08-warped-topographies-article-in-the-on-landscape-magazine
 
 #### {{page.date}}
 
-I'm delighted to announce that my project [Warped Topographies](http://method.photo/#/warped-topographies/) has been featured this week on [Inside the Outside](http://www.inside-the-outside.com/warped-topographies-richard-earney/).
+I'm delighted to announce that my project [Warped Topographies](http://method.photo/#/warped-topographies/) has been featured this week on [Inside the Outside](https://www.inside-the-outside.com/warped-topographies-richard-earney/).
 
 ![Warped Topographies](warped-topographies-00.webp "Warped Topographies")
 

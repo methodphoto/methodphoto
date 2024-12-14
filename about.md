@@ -89,11 +89,11 @@ Royal Photographic Society, [RPS Journal, Fellowship Special](https://method.pho
 
 Royal Photographic Society Distinctions Panel, 2017
 
-Pryme Magazine, [Happy Accidents](http://prymeeditions.com/happy-accidents-september-2017), 2017
+Pryme Magazine, Happy Accidents, 2017
 
 On Landscape Magazine, [Warped Topographies](https://www.onlandscape.co.uk/2017/04/warped-topographies/), 2017
 
-Inside the Outside, [Warped Topographies](http://www.inside-the-outside.com/warped-topographies-richard-earney/), 2017
+Inside the Outside, [Warped Topographies](https://www.inside-the-outside.com/warped-topographies-richard-earney/), 2017
 
 On Landscape Magazine,  4x4, [Abstract Grasses](https://www.onlandscape.co.uk/2016/01/subscribers-4x4-portfolios-106/), 2016
 
