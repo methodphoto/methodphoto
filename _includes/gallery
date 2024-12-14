@@ -37,7 +37,7 @@
    	</div>
 	<div>
   	 <a href="../obscured-perception/">
-			<img src="assets/galleries/obscured-perception.webp" alt="Obscured Perception" title="Obscured Perception" />
+			<img src="/assets/galleries/obscured-perception.webp" alt="Obscured Perception" title="Obscured Perception" />
 			<span class="gallerytitle">Obscured Perception</span>
 		</a>
   	</div>
@@ -73,7 +73,7 @@
 	</div>
 	<div>
 		<a href="../the-prismatic-pond/">
-			<img src="assets/galleries/the-prismatic-pond.webp" alt="The Prismatic Pond" title="The Prismatic Pond" />
+			<img src="/assets/galleries/the-prismatic-pond.webp" alt="The Prismatic Pond" title="The Prismatic Pond" />
 			<span class="gallerytitle">The Prismatic Pond</span>
 		</a>
 	</div>
