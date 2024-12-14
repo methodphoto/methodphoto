@@ -28,12 +28,6 @@ You have an opportunity to buy the work on display as well as order copies of my
 
 <strong>Liquid Echoes</strong><br />
 A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
-<br/><br/>
-
-<a href="https://checkout.revolut.com/payment-link/66c8461d-5bdb-494d-8560-54330a90a9a9" class="buybutton">
-	<img src="../assets/buy.svg" width="288px" height="44px" alt="Reeds" title="Reeds" /><br/><br/>
-</a>
-
 </div>
 
 <div class="unit">
@@ -41,11 +35,6 @@ A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
 
 <strong>Blue Mood</strong><br />
 A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
-<br/><br/>
-
-<a href="https://checkout.revolut.com/payment-link/d6fcb117-a116-4354-8506-343e0dd5a8ea" class="buybutton">
-	<img src="../assets/buy.svg" width="288px" height="44px" alt="Blue Mood" title="Blue Mood" />
-</a>
 </div>
 
 <div class="unit">
@@ -53,11 +42,6 @@ A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
 
 <strong>Ripple Reflections</strong><br />
 A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
-<br/><br/>
-
-<a href="https://checkout.revolut.com/payment-link/8e55e197-daab-4560-b0a9-6ba0c9f01ce6" class="buybutton">
-	<img src="../assets/buy.svg" width="288px" height="44px" alt="Ripple Reflections" title="Ripple Reflections" />
-</a>
 </div>
 
 
@@ -66,11 +50,6 @@ A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
 
 <strong>Up is the New Down</strong><br />
 A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
-<br/><br/>
-
-<a href="https://checkout.revolut.com/payment-link/ef1c268d-bd28-4c91-a767-64b3f5135c0c" class="buybutton">
-	<img src="../assets/buy.svg" width="288px" height="44px" alt="Down is the New Up" title="Down is the New Up" />
-</a>
 </div>
 
 
@@ -79,23 +58,13 @@ A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
 
 <strong>Weird Fishes</strong><br />
 A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
-<br/><br/>
-
-<a href="https://buy.stripe.com/6oE14IawM8b1e0U7sM" class="buybutton">
-	<img src="../assets/buy.svg" width="288px" height="44px" alt="Weird Fishes" title="Weird Fishes" />
-</a>
-
 </div>
+
 <div class="unit">
 <img src="lps-06.webp" width="100%" height="100%" alt="I'll hit the bottom and escape" title="I'll hit the bottom and escape" /><br/><br/>
 
 <strong>I'll hit the bottom and escape</strong><br />
 A 16x12" print on Hahnemühle PhotoRag 308, stamped and signed. £100
-<br/><br/>
-
-<a href="https://checkout.revolut.com/payment-link/03a39fa3-69b5-4e80-84d6-58443d73bf5d" class="buybutton">
-	<img src="../assets/buy.svg" width="288px" height="44px" alt="I'll hit the bottom and escape" title="DI'll hit the bottom and escape" />
-</a>
 </div>
 
 ### Galleries

@@ -79,7 +79,7 @@ While I was in Japan I stayed in Tokyo mainly and had managed to agree five meet
 
 My one trip outside was a three day trip to the town of Utsunumya (no, I’d never heard of it either). The curator at the Tochigi Prefectural museum invited me, he had been a leading light in organising a national touring Andy Goldsworthy show.
 
-He took me to Mashiko. Home of the potter [Shōji Hamada](https://en.wikipedia.org/wiki/Shōji_Hamada) he is dead but had been designated ‘national living treasure’. He taught [Bernard Leach](https://en.wikipedia.org/wiki/Bernard_Leach) and his style spawned all that [Cornish Habitat](http://www.studiopottery.com/cgi-bin/mp.cgi?item=9) look.
+He took me to Mashiko. Home of the potter [Shōji Hamada](https://en.wikipedia.org/wiki/Shōji_Hamada) he is dead but had been designated ‘national living treasure’. He taught [Bernard Leach](https://en.wikipedia.org/wiki/Bernard_Leach) and his style spawned all that Cornish Habitat look.
 
 ![Mashiko](o-hanami-mashiko.webp "Mashiko")
 
