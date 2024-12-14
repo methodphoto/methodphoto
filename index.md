@@ -13,6 +13,12 @@ I have some second hand or duplicate [books for sale](book-sales), as well as th
 
 <div class="grid">
    <div>
+   		<a href="the=pressure-wave">
+			<img src="assets/galleries/the=pressure-wave.webp" alt="The Pressure Wave" title="The Pressure Wave" />
+			<span class="gallerytitle">The Pressure Wave</span>
+		</a>
+   	</div>
+   <div>
    		<a href="in-the-shudder-light">
 			<img src="assets/galleries/in-the-shudder-light.webp" alt="In the Shudder Light" title="In the Shudder Light" />
 			<span class="gallerytitle">In the Shudder Light</span>
