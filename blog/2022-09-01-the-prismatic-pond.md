@@ -10,7 +10,7 @@ next: 2023-03-21-lip-crouch-end-annual
 
 ### it began with a riot of colour…
 
-My project [The Prismatic Pond](../the-prismatic-pond) is the second book published by [Method Photo Press](https://methodphotopress.co.uk).
+My project [The Prismatic Pond](../the-prismatic-pond) is the second book published by Method Photo Press.
 
 A 4 year study of a seemingly unremarkable pond, where the combination of light, organic decay and repeated visits led to a body of work which dazzles.
 

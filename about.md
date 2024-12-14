@@ -85,7 +85,7 @@ Licentiate of the Royal Photographic Society (LRPS) 2004
 
 Featured Photographer, [On Landscape Magazine](https://www.onlandscape.co.uk/2019/12/cemetery-bins-graveyards-graveyard/), Oct 2018
 
-Royal Photographic Society, [RPS Journal, Fellowship Special](https://method.photo/s/RPS-Journal-January-2018.pdf), Jan 2018
+Royal Photographic Society, RPS Journal, Fellowship Special, Jan 2018
 
 Royal Photographic Society Distinctions Panel, 2017
 

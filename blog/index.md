@@ -34,7 +34,7 @@ permalink: /blog/
 2018-10-19 [Featured Photographer - On Landscape Magazine](2018-10-19-featured-photographer-on-landscape-magazine)<br />
 2018-10-08 [London Independent Photography 30th Annual Exhibition](2018-10-08-london-independent-photographers-30th-annual-exhibition)<br />
 2018-04-28 [Warped Topographies - A Kozu Book](2018-04-28-warped-topographies-a-kozu-book)<br />
-2018-04-25 [#Connected 2018](2018-04-25-#connected2018)<br />
+2018-04-25 [#Connected 2018](2018-04-25-connected2018)<br />
 2018-03-26 [2 Years of Warped Topographies](2018-03-26-2-years-of-warped-topographies)<br />
 2018-01-14 [Feature in the RPS Journal](2018-01-14-feature-in-the-rps-journal)
 
