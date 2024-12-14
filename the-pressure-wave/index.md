@@ -9,7 +9,7 @@ parent: galleries
 
 ### {{page.year}}
 
-A lament
+Sandstone rock formations on Spittal Beach. Millions of years of pressure in a single image
 
 ![{{page.title}}](the-pressure-wave-01.webp "{{page.title}}")
 
