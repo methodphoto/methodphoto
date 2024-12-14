@@ -5,37 +5,37 @@
 ### Galleries
 
 <div class="grid">
-   <div>
+	<div>
    		<a href="the-pressure-wave">
 			<img src="assets/galleries/the-pressure-wave.webp" alt="The Pressure Wave" title="The Pressure Wavet" />
 			<span class="gallerytitle">The Pressure Wave</span>
 		</a>
-   	</div>
-   <div>
+	</div>
+	<div>
    		<a href="in-the-shudder-light">
 			<img src="assets/galleries/in-the-shudder-light.webp" alt="In the Shudder Light" title="In the Shudder Light" />
 			<span class="gallerytitle">In the Shudder Light</span>
 		</a>
    	</div>
-   <div>
+	<div>
    		<a href="ghosts-of-the-broomway">
 			<img src="assets/galleries/ghosts-of-the-broomway.webp" alt="Ghosts of the Broomway" title="Ghosts of the Broomway" />
 			<span class="gallerytitle">Ghosts of the Broomway</span>
 		</a>
    	</div>
-   <div>
+	<div>
    		<a href="motion-stills">
 			<img src="assets/galleries/motion-stills.webp" alt="Motion Stills" title="Motion Stills" />
 			<span class="gallerytitle">Motion Stills</span>
 		</a>
    	</div>
-   <div>
+	<div>
   	 <a href="obscured-perception">
 			<img src="assets/galleries/obscured-perception.webp" alt="Obscured Perception" title="Obscured Perception" />
 			<span class="gallerytitle">Obscured Perception</span>
 		</a>
   	</div>
-   <div>
+	<div>
    		<a href="in-the-morning-soft-is-the-light">
 			<img src="assets/galleries/in-the-morning-soft-is-the-light.webp" alt="In the Morning, Soft is the Light" title="In the Morning, Soft is the Light" />
 			<span class="gallerytitle">In the Morning,<br />Soft is the Light</span>
@@ -59,7 +59,7 @@
 			<span class="gallerytitle">Warped Topographies</span>
 		</a>
 	</div>
-		<div>
+	<div>
 		<a href="the-most-gigantic-lying-mouth-of-all-time-iii">
 			<img src="assets/galleries/the-most-gigantic-lying-mouth-of-all-time-iii.webp" alt="The Most Gigantic Lying Mouth of All Time III" title="The Most Gigantic Lying Mouth of All Time III" />
 			<span class="gallerytitle">The Most Gigantic Lying Mouth of All Time III</span>
@@ -83,7 +83,7 @@
 			<span class="gallerytitle">Life in a Glass House</span>
 		</a>
 	</div>
-		<div>
+	<div>
 		<a href="abstract-grasses">
 			<img src="assets/galleries/abstract-grasses.webp" alt="Abstract Grasses" title="Abstract Grasses" />
 			<span class="gallerytitle">Abstract Grasses</span>
