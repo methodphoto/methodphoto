@@ -22,36 +22,36 @@ With advice and a bon chance from []@florintintin](https://instagram.com/florint
 
 To me they resembled aerial satellite imagery, with tortured landforms, disrupted river flows, impenetrable forests, glacial melts and ice flows; all appeared in these twisted, fractured works.
 
-As the project picked up momentum, I came across the work of abstract landscape photographers such as [David Maisel](https://davidmaisel.com/works/terminal-mirage/) and [Edward Burtynsky](https://www.edwardburtynsky.com/projects/photographs/water), who both depict man’s impact on the environment. I also took inspiration from [Paul Kenny’s fabulous Seaworks](https://paul-kenny.co.uk) lifetime project. 
+As the project picked up momentum, I came across the work of abstract landscape photographers such as [David Maisel](https://davidmaisel.works/terminal-mirage/) and [Edward Burtynsky](https://www.edwardburtynsky.projects/water), who both depict man’s impact on the environment. I also took inspiration from [Paul Kenny’s fabulous Seaworks](https://paul-kenny.co.uk) lifetime project. 
 
 Their work reinforced my conceit that my small-scale works were hand-made imagined landscapes from this and other worlds.
 
 Here are a mere 13 images of the approximately 1000 made, so far.
 
-![{{page.title}}](warped-topographies/warped-topographies-01.webp "{{page.title}}")
+![{{page.title}}](warped-topographies-01.webp "{{page.title}}")
 
-![{{page.title}}](warped-topographies/warped-topographies-02.webp "{{page.title}}")
+![{{page.title}}](warped-topographies-02.webp "{{page.title}}")
 
-![{{page.title}}](warped-topographies/warped-topographies-03.webp "{{page.title}}")
+![{{page.title}}](warped-topographies-03.webp "{{page.title}}")
 
-![{{page.title}}](warped-topographies/warped-topographies-04.webp "{{page.title}}")
+![{{page.title}}](warped-topographies-04.webp "{{page.title}}")
 
-![{{page.title}}](warped-topographies/warped-topographies-05.webp "{{page.title}}")
+![{{page.title}}](warped-topographies-05.webp "{{page.title}}")
 
-![{{page.title}}](warped-topographies/warped-topographies-06.webp "{{page.title}}")
+![{{page.title}}](warped-topographies-06.webp "{{page.title}}")
 
-![{{page.title}}](warped-topographies/warped-topographies-07.webp "{{page.title}}")
+![{{page.title}}](warped-topographies-07.webp "{{page.title}}")
 
-![{{page.title}}](warped-topographies/warped-topographies-08.webp "{{page.title}}")
+![{{page.title}}](warped-topographies-08.webp "{{page.title}}")
 
-![{{page.title}}](warped-topographies/warped-topographies-09.webp "{{page.title}}")
+![{{page.title}}](warped-topographies-09.webp "{{page.title}}")
 
-![{{page.title}}](warped-topographies/warped-topographies-10.webp "{{page.title}}")
+![{{page.title}}](warped-topographies-10.webp "{{page.title}}")
 
-![{{page.title}}](warped-topographies/warped-topographies-11.webp "{{page.title}}")
+![{{page.title}}](warped-topographies-11.webp "{{page.title}}")
 
-![{{page.title}}](warped-topographies/warped-topographies-12.webp "{{page.title}}")
+![{{page.title}}](warped-topographies-12.webp "{{page.title}}")
 
-![{{page.title}}](warped-topographies/warped-topographies-13.webp "{{page.title}}")
+![{{page.title}}](warped-topographies-13.webp "{{page.title}}")
 
 {% include gallery %}

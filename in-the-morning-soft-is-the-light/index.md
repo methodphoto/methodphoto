@@ -18,36 +18,36 @@ After a bit of experimentation I realised that to present these images I couldn'
 
 And in doing so I was reminded of a French pastoral scene from a movie just as Jean de Florette or Manon des Sources where the camera would linger on the scene, out of focus, then snap onto the main character. These images are that moment before the camera snaps into focus. 
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-01.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-01.webp "{{page.title}}")
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-02.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-02.webp "{{page.title}}")
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-03.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-03.webp "{{page.title}}")
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-04.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-04.webp "{{page.title}}")
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-05.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-05.webp "{{page.title}}")
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-06.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-06.webp "{{page.title}}")
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-07.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-07.webp "{{page.title}}")
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-08.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-08.webp "{{page.title}}")
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-09.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-09.webp "{{page.title}}")
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-10.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-10.webp "{{page.title}}")
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-11.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-11.webp "{{page.title}}")
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-12.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-12.webp "{{page.title}}")
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-13.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-13.webp "{{page.title}}")
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-14.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-14.webp "{{page.title}}")
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-15.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-15.webp "{{page.title}}")
 
-![{{page.title}}](in-the-morning-soft-is-the-light/in-the-morning-soft-is-the-light-16.webp "{{page.title}}")
+![{{page.title}}](in-the-morning-soft-is-the-light-16.webp "{{page.title}}")
 
 {% include gallery %}

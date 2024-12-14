@@ -13,26 +13,26 @@ After a decade of great crisis weâ€™re cursed with the worst politicians. Theyâ€
 
 We may not deserve better, but we need better.
 
-![Cameron](the-most-gigantic-lying-mouth-of-all-time-iii/the-most-gigantic-lying-mouth-of-all-time-iii-cameron.webp "Cameron")
+![Cameron](the-most-gigantic-lying-mouth-of-all-time-iii-cameron.webp "Cameron")
 
-![May](the-most-gigantic-lying-mouth-of-all-time-iii/the-most-gigantic-lying-mouth-of-all-time-iii-may.webp "May")
+![May](the-most-gigantic-lying-mouth-of-all-time-iii-may.webp "May")
 
-![Putin](the-most-gigantic-lying-mouth-of-all-time-iii/the-most-gigantic-lying-mouth-of-all-time-iii-putin.webp "Putin")
+![Putin](the-most-gigantic-lying-mouth-of-all-time-iii-putin.webp "Putin")
 
-![Murdoch](the-most-gigantic-lying-mouth-of-all-time-iii/the-most-gigantic-lying-mouth-of-all-time-iii-murdoch.webp "Murdoch")
+![Murdoch](the-most-gigantic-lying-mouth-of-all-time-iii-murdoch.webp "Murdoch")
 
-![Trump](the-most-gigantic-lying-mouth-of-all-time-iii/the-most-gigantic-lying-mouth-of-all-time-iii-trump.webp "Trump")
+![Trump](the-most-gigantic-lying-mouth-of-all-time-iii-trump.webp "Trump")
 
-![Johnson](the-most-gigantic-lying-mouth-of-all-time-iii/the-most-gigantic-lying-mouth-of-all-time-iii-johnson.webp "Johnson")
+![Johnson](the-most-gigantic-lying-mouth-of-all-time-iii-johnson.webp "Johnson")
 
-![Cameron, redux](the-most-gigantic-lying-mouth-of-all-time-iii/the-most-gigantic-lying-mouth-of-all-time-iii-cameron-redux.webp "Cameron, redux")
+![Cameron, redux](the-most-gigantic-lying-mouth-of-all-time-iii-cameron-redux.webp "Cameron, redux")
 
-![Gove](the-most-gigantic-lying-mouth-of-all-time-iii/the-most-gigantic-lying-mouth-of-all-time-iii-gove.webp "Gove")
+![Gove](the-most-gigantic-lying-mouth-of-all-time-iii-gove.webp "Gove")
 
-![Trump, deranged](the-most-gigantic-lying-mouth-of-all-time-iii/the-most-gigantic-lying-mouth-of-all-time-iii-trump-deranged.webp "Trump, deranged")
+![Trump, deranged](the-most-gigantic-lying-mouth-of-all-time-iii-trump-deranged.webp "Trump, deranged")
 
-![Patel](the-most-gigantic-lying-mouth-of-all-time-iii/the-most-gigantic-lying-mouth-of-all-time-iii-patel.webp "Patel")
+![Patel](the-most-gigantic-lying-mouth-of-all-time-iii-patel.webp "Patel")
 
-![Farage](the-most-gigantic-lying-mouth-of-all-time-iii/the-most-gigantic-lying-mouth-of-all-time-iii-farage.webp "Farage")
+![Farage](the-most-gigantic-lying-mouth-of-all-time-iii-farage.webp "Farage")
 
 {% include gallery %}

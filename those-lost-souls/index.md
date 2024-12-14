@@ -9,7 +9,7 @@ parent: galleries
 
 ### {{page.year}}
 
-It isn't often that I get to shoot images when the weather is -3C, with 20m/s winds, in the middle of a snowstorm, while the sun still shines, but I'm mightily glad I did with this set.
+It isn't often that I get to shoot images when the weather is -3C, with 20s winds, in the middle of a snowstorm, while the sun still shines, but I'm mightily glad I did with this set.
 
 They were all shot on a frozen lake in Rif in the Snaefelsness peninsular of Iceland.
 
@@ -21,46 +21,46 @@ There are also elements of Jupiter's cloud patterns to be seen in the shapes; so
 
 
 
-![{{page.title}}](those-lost-souls/those-lost-souls-01.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-01.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-02.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-02.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-03.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-03.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-04.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-04.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-05.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-05.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-06.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-06.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-07.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-07.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-08.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-08.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-09.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-09.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-10.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-10.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-11.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-11.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-12.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-12.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-13.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-13.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-14.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-14.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-15.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-15.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-16.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-16.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-17.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-17.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-18.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-18.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-19.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-19.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-20.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-20.webp "{{page.title}}")
 
-![{{page.title}}](those-lost-souls/those-lost-souls-21.webp "{{page.title}}")
+![{{page.title}}](those-lost-souls-21.webp "{{page.title}}")
 
 {% include gallery %}

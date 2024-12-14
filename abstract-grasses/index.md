@@ -15,51 +15,51 @@ Most of the images were created in camera using single or multiple exposures. Mo
 
 A [Blurb book](https://www.blurb.com/b/7212166-abstract-grasses) is available for this project
 
-![{{page.title}}](abstract-grasses/abstract-grasses-01.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-01.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-02.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-02.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-03.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-03.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-04.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-04.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-05.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-05.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-06.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-06.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-07.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-07.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-08.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-08.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-09.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-09.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-10.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-10.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-11.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-11.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-12.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-12.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-13.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-13.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-14.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-14.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-15.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-15.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-16.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-16.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-17.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-17.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-18.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-18.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-19.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-19.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-20.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-20.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-21.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-21.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-22.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-22.webp "{{page.title}}")
 
-![{{page.title}}](abstract-grasses/abstract-grasses-23.webp "{{page.title}}")
+![{{page.title}}](abstract-grasses-23.webp "{{page.title}}")
 
 
 {% include gallery %}
