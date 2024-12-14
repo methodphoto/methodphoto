@@ -31,7 +31,7 @@ A: I’ve been developing my work on lightboxes for over a year. The idea to try
 
 On Twitter I see those overhead shots of the big photo fairs, Photo London, AIPAD New York, Paris Photo...hundreds of galleries showing thousands of people’s work. So I’ve been looking at presentation. For many years I’ve had an interest in the icons of the Greek and Russian Orthodox Church, masterpieces of maximum power in minimum form. The monks who made them call them “windows into heaven”. I’m in no way ‘religious’ but I love the idea that a small, largely two dimensional work can offer a portal to an amazing complex world.
 
-In addition I’d seen some amazing work on [Twitter by Clifford Ross](https://www.youtube.com/watch?v=EdDXySkWD7A) around the same time I was very moved by seeing the [Bill Viola installation in St Pauls Cathedral](https://youtu.be/1_ZcIoGeRIQ). Although these are both videos, I liked the idea of presenting digital work on screens treated like frames.
+In addition I’d seen some amazing work on [YouTube by Clifford Ross](https://www.youtube.com/watch?v=EdDXySkWD7A) around the same time I was very moved by seeing the [Bill Viola installation in St Pauls Cathedral](https://youtu.be/1_ZcIoGeRIQ). Although these are both videos, I liked the idea of presenting digital work on screens treated like frames.
 
 The final thread came from my love of the iPad, I use it all the time and the thought kept surfacing that my images looked better on a backlit display than in a print; all this led to my pursuit of making backlit works.
 
@@ -136,7 +136,7 @@ I’ve also started growing and drying specific flowers with a view to making wo
 
 Thank you for taking the time to answer these questions Paul, and good luck with the book!
 
-Paul is currently exhibiting at The Lowry, Salford in [Expect the Unexpected](https://thelowry.com/whats-on/expect-the-unexpected-a-chance-exhibition/) 29 Jun–29 September and  [O Hanami: The Celebration of Transient Beauty](http://gavaganart.com/index.php/o-hanami-celebration-transient-beauty-13-july-17-august-2019/) at Gavagan Art in Settle Town Hall from 13 July–17 August
+Paul is currently exhibiting at The Lowry, Salford in [Expect the Unexpected](https://thelowry.com/whats-on/expect-the-unexpected-a-chance-exhibition/) 29 Jun–29 September and  [O Hanami: The Celebration of Transient Beauty](https://gavaganart.com/artist/paul-kenny/) at Gavagan Art in Settle Town Hall from 13 July–17 August
 
 
 
