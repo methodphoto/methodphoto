@@ -5,7 +5,7 @@ title: Books
 
 # {{page.title}}
 
-[![The Prismatic Pond](the-prismatic-pond-01.webp "The Prismatic Pond")](books/the-prismatic-pond)
+[![The Prismatic Pond](the-prismatic-pond-01.webp "The Prismatic Pond")](the-prismatic-pond)
 
 ### Previous Books
 
