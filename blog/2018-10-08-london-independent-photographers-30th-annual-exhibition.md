@@ -10,9 +10,9 @@ next: 2018-10-19-featured-photographer-on-landscape-magazine
 
 Naturally this is an after the event post, but last week I had two Warped Topographies in the [London Independent Photographers](http://www.londonphotography.org.uk/) 30th (LIP30) [Annual Exhibition](http://www.londonphotography.org.uk/exhibitions/LIP30Annual/).
 
-The LIP30 exhibition is part of the vibrant [Photomonth East London](https://www.photomonth.org/). And it was a real pleasure to have had a couple of images selected for it.
+The LIP30 exhibition is part of the vibrant Photomonth East London. And it was a real pleasure to have had a couple of images selected for it.
 
-It was held at the Espacio Gallery in Bethnal Green Road, a gallery I really like and have [exhibited](https://method.photo/blog/2016/10/11/rps-international-photobook-exhibition) at before.
+It was held at the Espacio Gallery in Bethnal Green Road, a gallery I really like and have exhibited at before.
 
 The Private View was held on Thursday 4th October and was properly packed! Thanks to all who came along.
 
