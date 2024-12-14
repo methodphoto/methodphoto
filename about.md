@@ -21,7 +21,7 @@ Over the years the common themes of representing time and motion in the still im
 
 ## Exhibitions
 
-[London Independent Photography Crouch End group, 2024, The Original Gallery, London](lipce2024)
+London Independent Photography Crouch End group, 2024, The Original Gallery, London
 
 [London Photo Show 2023, Bargehouse Gallery, Oxo Tower](/lps/)
 
