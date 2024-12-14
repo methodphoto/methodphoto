@@ -12,7 +12,7 @@ I'm delighted to announce that my project [Warped Topographies](http://method.ph
 
 ![Warped Topographies](warped-topographies-00.webp "Warped Topographies")
 
-Inside the Outside is a collective run by [Al Brydon](Al Brydon), [Rob Hudson](http://www.robhudsonlandscape.net/), [Stephen Segasby](http://www.stephensegasby.com/) and [Joseph Wright](http://www.josephwright.co.uk/).
+Inside the Outside is a collective run by [Al Brydon](http://www.al-brydon.com/), [Rob Hudson](http://www.robhudsonlandscape.net/), [Stephen Segasby](http://www.stephensegasby.com/) and [Joseph Wright](http://www.josephwright.co.uk/).
 
 > "Whether we simply enjoy being in the landscape or are involved in its representation the question we will all confront at some stage is ’How do we relate to the landscape?’. There is the inescapable awareness that we are of nature and yet apart from it. And although we can see and even imagine nature, it is beyond our abilities to fully comprehend it. Plus we all become aware that the land is not only changed by the hand of people, it can also change us.
 
