@@ -14,7 +14,7 @@ I have some second hand or duplicate [books for sale](book-sales), as well as th
 <div class="grid">
    <div>
    		<a href="the=pressure-wave">
-			<img src="assets/galleries/the=pressure-wave.webp" alt="The Pressure Wave" title="The Pressure Wave" />
+			<img src="assets/galleries/the-pressure-wave.webp" alt="The Pressure Wave" title="The Pressure Wave" />
 			<span class="gallerytitle">The Pressure Wave</span>
 		</a>
    	</div>
