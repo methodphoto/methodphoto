@@ -19,7 +19,7 @@ I have some second hand or duplicate [books for sale](book-sales), as well as th
 		</a>
    	</div>
    <div>
-   		<a href="in-the-shudder-light">
+   		<a href="in-the-shudder-light/">
 			<img src="assets/galleries/in-the-shudder-light.webp" alt="In the Shudder Light" title="In the Shudder Light" />
 			<span class="gallerytitle">In the Shudder Light</span>
 		</a>
