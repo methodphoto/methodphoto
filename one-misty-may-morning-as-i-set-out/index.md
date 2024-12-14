@@ -15,7 +15,7 @@ Unlike *An Early Morning Walk, One Day in Spring* it was made into a video!
 
 This series is about walking, movement, lockdown, freedom, fragmented memory and a sense of looking around and taking in the beauty of the morning.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/449190135?h=6b89ebaf1e" width="800" frameborder="0" allowfullscreen>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/449190135?h=6b89ebaf1e" width="640" height="480" frameborder="0" allowfullscreen>
 </iframe>
 
 ![{{page.title}}](one-misty-may-morning-as-i-set-out-01.webp "{{page.title}}")
