@@ -14,7 +14,7 @@ My project [The Prismatic Pond](../the-prismatic-pond) is the second book publis
 
 A 4 year study of a seemingly unremarkable pond, where the combination of light, organic decay and repeated visits led to a body of work which dazzles.
 
-Copies are [directly available](https://methodphotopress.co.uk) and are £17:50 + shipping.
+Copies are [directly available](../books/the-prismatic-pond) and are £17:50 + shipping.
 
 ![{{page.title}}](../books/the-prismatic-pond-01.webp "{{page.title}}")
 
