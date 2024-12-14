@@ -12,25 +12,25 @@ title: Books
 <div class="grid">
    <div>
    		<a href="warped-topographies-ii">
-			<img src="books/warped-topographies-ii-01.webp" alt="Warped Topographies II" title="warped-topographies II" />
+			<img src="warped-topographies-ii-01.webp" alt="Warped Topographies II" title="warped-topographies II" />
 			<span class="gallerytitle">Warped Topographies II</span>
 		</a>
    	</div>
    <div>
   	 <a href="warped-topographies">
-			<img src="books/warped-topographies.webp" alt="Warped Topographies" title="Warped Topographies" />
+			<img src="warped-topographies.webp" alt="Warped Topographies" title="Warped Topographies" />
 			<span class="gallerytitle">Warped Topographies</span>
 		</a>
   	</div>
    <div>
   	 <a href="abstract-grasses">
-			<img src="books/abstract-grasses.webp" alt="Abstract Grasses" title="Abstract Grasses" />
+			<img src="abstract-grasses.webp" alt="Abstract Grasses" title="Abstract Grasses" />
 			<span class="gallerytitle">Abstract Grasses</span>
 		</a>
   	</div>
    <div>
    		<a href="inside-lightroom">
-			<img src="books/inside-lightroom.webp" alt="Inside Lightroom" title="Inside Lightroom" />
+			<img src="inside-lightroom.webp" alt="Inside Lightroom" title="Inside Lightroom" />
 			<span class="gallerytitle">Inside Lightroom</span>
 		</a>
 	</div>

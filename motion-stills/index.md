@@ -18,7 +18,7 @@ These images are collected here in a Motion Stills section.
 
 ![{{page.title}}](motion-stills-01.webp "{{page.title}}")
 
-![{{page.title}}](motion-stills-02.webp "{{page.title}}")
+![{{page.title}}](motion-stills-02.webp "{{page.title}}"))
 
 ![{{page.title}}](motion-stills-03.webp "{{page.title}}")
 
