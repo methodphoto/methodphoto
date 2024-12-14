@@ -17,7 +17,6 @@ I am showing works from Warped Topographies and The Prismatic Pond
 
 ![{{page.title}}](bargehouse.webp "{{page.title}}")
 
-![The Prismatic Pond](../the-prismatic-pond/the-prismatic-pond-08.webp "The Prismatic Pond")
-
+![The Prismatic Pond](../the-prismatic-pond/the-prismatic-pond-18.webp "The Prismatic Pond")
 
 {% include blog-link %}
