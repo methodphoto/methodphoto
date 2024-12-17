@@ -11,7 +11,7 @@ I have some second hand or duplicate [books for sale](book-sales), as well as th
 
 ## Featured Gallery
 
-### I'm Lost at Sea, Don't Bother Me
+### I'm Lost at Sea, Don't Bother Me, 2024
 
 [![I'm Lost at Sea, Don't Bother Me](im-lost-at-sea-dont-bother-me/im-lost-at-sea-dont-bother-me-12.webp)](im-lost-at-sea-dont-bother-me/)
 
