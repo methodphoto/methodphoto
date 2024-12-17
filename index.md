@@ -13,6 +13,6 @@ I have some second hand or duplicate [books for sale](book-sales), as well as th
 
 ### I'm Lost at Sea, Don't Bother Me
 
-![I'm Lost at Sea, Don't Bother Me](im-lost-at-sea-dont-bother-me/im-lost-at-sea-dont-bother-me-12.webp "I'm Lost at Sea, Don't Bother Me")
+[![I'm Lost at Sea, Don't Bother Me](im-lost-at-sea-dont-bother-me/im-lost-at-sea-dont-bother-me-12.webp)](im-lost-at-sea-dont-bother-me/)
 
 {% include gallery %}
