@@ -9,6 +9,7 @@
 
 $primary-color: #333f48;
 $primary-header-color: #2A353D;
+$secondary-header-color: #0c5b97;
 $primary-link-color: #0c5b97;
 $secondary-link-color: #996699;
 $primary-tint-color: #EFFBFB;
@@ -56,6 +57,11 @@ body {
 h1, h1.post-title {
 	font-weight: 500;
 	color: $primary-header-color;
+}
+
+h2, h2.post-title {
+	font-weight: 400;
+	color: $secondary-header-color;
 }
 
 h3 {
