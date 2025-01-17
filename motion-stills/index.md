@@ -16,7 +16,7 @@ With many of my recent projects I’ve been experimenting with ways to depict th
 
 These images are collected here in a Motion Stills section.
 
-<div id="gallery">
+<div>
     <div class="slider">
         <div class="slide">
             <p>Slide 1</p>
