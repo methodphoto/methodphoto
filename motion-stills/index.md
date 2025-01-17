@@ -16,25 +16,6 @@ With many of my recent projects I’ve been experimenting with ways to depict th
 
 These images are collected here in a Motion Stills section.
 
-<div>
-    <div class="slider">
-        <div class="slide">
-            <p>Slide 1</p>
-        </div>
-        <div class="slide">
-            <p>Slide 2</p>
-        </div>
-        <div class="slide">
-            <p>Slide 3</p>
-        </div>
-        <div class="slide">
-            <p>Slide 4</p>
-        </div>
-    </div>
-</div>
-
-
-
 
 ![{{page.title}}](motion-stills-01.webp "{{page.title}}")
 
