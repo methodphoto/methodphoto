@@ -16,7 +16,6 @@ With many of my recent projects I’ve been experimenting with ways to depict th
 
 These images are collected here in a Motion Stills section.
 
-
 ![{{page.title}}](motion-stills-01.webp "{{page.title}}")
 
 ![{{page.title}}](motion-stills-02.webp "{{page.title}}"))
