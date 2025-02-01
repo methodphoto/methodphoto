@@ -5,6 +5,20 @@ title: LIP 2025 Biographies
 
 # {{page.title}}
 
+<div style="background-color: #FFFFE8;paddin 8px;">
+
+<h2>Instructions</h2>
+
+<p>Click on your name and read what you have. If there are corrections, please let me know via <strong>WhatsApp</strong> 07710 248 896, not email as it might get lost.</p>
+
+<ol>
+<li>If your biography is there and seems shorter, or edited then that’s to fit (based on previous years’ entries).</li>
+<li>Please indicate which link you would like to be made into a QR code for the exhibition panel, Email or one of your Social Media addresses.</li>
+<li>If you’ve not got a biography here, please send it to me (WhatsApp only) in the same style as the ones on the page and try to be concise!</li>
+</ol>
+
+</div>
+
  - [Carole Rawlinson](#carole-rawlinson)
  - [Elizabeth Brown](#elizabeth-brown)
  - [Eva Turrell](#eva-turrell)
@@ -42,7 +56,7 @@ of weather and light on her subjects especi. Nature inspires a large part of her
 experimental analogue photography and printmaking and she often uses her garden as a
 darkroom experimenting with alternative photographic processes.
 
-**Website:** www.elizabethhaybrown.com
+**Website:** www.elizabethhaybrown.com<br />
 **Instagram:** @elizabethhaybrown
 
 ## Eva Turrell
