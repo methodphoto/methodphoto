@@ -11,11 +11,17 @@ title: LIP 2025 Biographies
 
 <p>Click on your name below to read yours. If there are corrections, please let me know via <strong>WhatsApp 07710 248 896</strong>, <em>not by email as it might get lost</em>.</p>
 
-<ol>
-	<li>If your biography is there and seems shorter, that’s to fit (based on previous years’ entries)</li>
-	<li>If you’ve not got a biography here, please send it to me (WhatsApp only) in the same style as the ones on the page and try to be concise!</li>
-	<li>Please indicate via WhatsApp which link you would like to be made into a QR code for the exhibition panel, Email or one of your Social Media addresses.</li>
+<h3>If your biography is here:</h3>
 
+<ol>
+	<li> If it seems shorter, then it has been previously edited to fit based on ones I have</li>
+	<li>Please indicate via <strong>WhatsApp</strong> which link you would like to be made into a QR code for the exhibition panel, Email or one of your Social Media addresses.</li>
+</ol>
+
+<h3>If your biography is not here:</h3>
+
+<ol>
+	<li>Please send it to me <strong>WhatsApp only</strong> in the same style as the ones on the page and try to be concise!</li>
 </ol>
 
 </div>
