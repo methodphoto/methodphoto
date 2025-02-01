@@ -36,7 +36,8 @@ Society.
 Elizabeth Brown is an artist whose primary mediums are photography and printmaking.
 She enjoys working collaboratively, collecting stories and images of objects to learn more
 about people. Observation is a key element of her work and a need to capture unique
-images presented to her by life, nature and events. She is fascinated by the random effects
+images presented to her by life, nature and events. She is fascinated by the random effects.
+
 of weather and light on her subjects especi. Nature inspires a large part of her
 experimental analogue photography and printmaking and she often uses her garden as a
 darkroom experimenting with alternative photographic processes.
@@ -113,12 +114,10 @@ felt rather than be technically perfect.
 ## Mary Thompson
 
 Mary is a political and social documentary photographer. She believes that building a
-story through putting together a series of images can often be more impactful than just the
-written word.
+story through putting together a series of images can often be more impactful than just the written word.
 
 She has told a variety of photographic stories over the years. She looks for stories about
-issues she can personally connect with such as political activism, the climate and personal
-hospitalisation.
+issues she can personally connect with such as political activism, the climate and personal hospitalisation.
 
 Mary has recently had documentary work about her sister’s experience of living with
 Osteoporosis published in the Royal Photographic Society’s Women in
@@ -160,6 +159,7 @@ memories and retrieve the past, from the environments of the present.
 Sonia Davda undertook a BA (Hons) in Photography at the University of Brighton. She
 has worked as a photojournalist for numerous publications including The Guardian, The
 Times Education Supplement and the BBC.
+
 Her specialism is in portraiture and documentary and tells stories of places and people
 through her work.
 
@@ -169,9 +169,6 @@ through her work.
 ## Robin Barr
 
 Robin creates abstract images from shapes, lines, colours, and textures that he sees in the urban environment. He also has a passion for photographing architecture and extracting abstract shapes and patterns from buildings that he finds visually striking. During 2022 he printed a series of square format greeting cards of his architectural photography that have sold very well. He has also exhibited in several exhibitions since 2019, more recently in London, Halifax and Hebden Bridge.
-The two abstract photographs shown in this exhibition were taken on an iPhone in 2015. The first image is a section of weathered walkway on a bridge footpath in Montreal. The second is the top of a roadside salt box in Hastings. 
-Robin's curious interest in photographing indistinguishable marks, weathered paint, and faded graffiti that appeal to him as abstract shapes and forms continue to this day. A current project if his involves photographing some of the many closed-up 
-shopfronts across the country. 
 
 Robin has been on a general photography and image hosting website called 'Flickr' since 2014. His name on there is 'No Great Hurry', he can also be also be found on there under the name 'Robin Maurice Barr'. Since he joined that site his abstract and architectural images have been viewed 7.5 million times.
 
@@ -185,8 +182,8 @@ Robin has been on a general photography and image hosting website called 'Flickr
 ## Sonia Hunt
 
 I fell in love with photography many years ago and completed a BTEC in darkroom practices at the London School of Communication and a HNC at Westminster College. I am also a member of London Independent Photography (LIP) and f4 Photography.
+
 I have worked in all areas of photography but in recent years I have concentrated predominantly on landscapes and seascapes which I have exhibited in Brighton and London. I also supply professional stock garden imagery and am represented by GAP and Getty photo libraries.
-Winter in Walthamstow and Epping Forest 2023.
 
 **Email:** soniahunt57@gmail.com
 **Instagram:** @soniahunt57
