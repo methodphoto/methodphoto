@@ -24,6 +24,8 @@ title: LIP 2025 Biographies
 	<li>Please send it to me <strong>WhatsApp only</strong> in the same style as the ones on the page and try to be concise!</li>
 </ol>
 
+<h3>Deadline: Sunday 9th February - Midnight!</h3>
+
 </div>
 
  - [Carole Rawlinson](#carole-rawlinson)
