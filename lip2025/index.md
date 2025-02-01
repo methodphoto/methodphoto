@@ -81,7 +81,7 @@ and participated in The Royal Academy Summer Show in 2019.
 Eva was one of the winners at The London Invitational 2023 Galeria Moderna. She was
 awarded Px3 Honourable Mention in the 2023 Prix de la Photographie de Paris
 
-**Email:** evaturrell@gmail.com
+**Email:** evaturrell@gmail.com<br />
 **Instagram:** @evaturrellphotography
 
 ## Gordana Johnson
@@ -90,7 +90,7 @@ Photography is an intuitive and creative expression of her innerworld as trigger
 outside world. She photographs anything that excites her inner self without favouring a
 particular genre.
 
-**Website:** www.gordanajohnson.com
+**Website:** www.gordanajohnson.com<br />
 **Instagram:** @gordanajohnson
 
 ## Haim Bresheeth
@@ -121,7 +121,7 @@ Portrait, Astrophotography and Photomicroscopy.
 More recently, alternative processes have been used in his creative work. He is based in the
 UK and USA.
 
-**Instagram:** @johnphotographerartist
+**Instagram:** @johnphotographerartist<br />
 **Website:** artybollocks.com
 
 ## Derek Cottrell
@@ -164,7 +164,7 @@ the contemporary world from the perspective of human and nature rights. She publ
 in international media outlets, has won international photo awards and exhibited in
 China, Italy and the UK.
 
-**Website:** www.sabrinamerolla.co.uk
+**Website:** www.sabrinamerolla.co.uk<br />
 **Instagram:** @sabrinamero
 
 ## Sandra Roberts
@@ -174,7 +174,7 @@ aims to discover and document the influence of people, their individual stories,
 history can create a sense of place. She is interested in how photography can capture
 memories and retrieve the past, from the environments of the present.
 
-**Website:** www.sandraroberts.myportfolio.com
+**Website:** www.sandraroberts.myportfolio.com<br />
 **Instagram:** @sandrarobertsphotography
 
 ## Sonia Davda
@@ -186,7 +186,7 @@ Times Education Supplement and the BBC.
 Her specialism is in portraiture and documentary and tells stories of places and people
 through her work.
 
-**Email:** discosonia@hotmail.com
+**Email:** discosonia@hotmail.com<br />
 **Instagram:** @soniadavda
 
 ## Robin Barr
@@ -197,9 +197,9 @@ Robin has been on a general photography and image hosting website called 'Flickr
 
 **Email:** nogreathurry@gmail.com
 
-**Instagram:** @nogreathurry
-**Instagram:** @nogreathurry_people
-**Instagram:** @robin.likes.abstracts
+**Instagram:** @nogreathurry<br />
+**Instagram:** @nogreathurry_people<br />
+**Instagram:** @robin.likes.abstracts<br />
 **Instagram:** @robin_maurice_barr
 
 ## Sonia Hunt
@@ -208,7 +208,7 @@ I fell in love with photography many years ago and completed a BTEC in darkroom 
 
 I have worked in all areas of photography but in recent years I have concentrated predominantly on landscapes and seascapes which I have exhibited in Brighton and London. I also supply professional stock garden imagery and am represented by GAP and Getty photo libraries.
 
-**Email:** soniahunt57@gmail.com
+**Email:** soniahunt57@gmail.com<br />
 **Instagram:** @soniahunt57
 
 
