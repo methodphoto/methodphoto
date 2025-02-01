@@ -3,22 +3,23 @@ layout: default
 title: LIP 2025 Biographies
 ---
 
-Jump to the [conclusion](#conclusion).
+# {{page.title}}
 
-
-[Carole Rawlinson](#Carole Rawlinson]
-[Elizabeth Brown](#Elizabeth Brown]
-[Eva Turrell](#Eva Turrell]
-[Gordana Johnson](Gordana Johnson)
-[Haim Bresheeth](#Haim Bresheeth]
-[Jayne Selvaggio](#Jayne Selvaggio]
-[John Tolliday](#John Tolliday]
-[Derek Cottrell](#Derek Cottrell]
-[Mary Thompson](#Mary Thompson]
-[Reza Tavakol](#Reza Tavakol]
-[Sabrina Merolla](#Sabrina Merolla]
-[Sandra Roberts](#Sandra Roberts]
-[Sonia Davda](#Sonia Davda]
+ - [Carole Rawlinson](index.html#Carole Rawlinson]
+ - [Elizabeth Brown](index.html#Elizabeth Brown]
+ - [Eva Turrell](index.html#Eva Turrell]
+ - [Gordana Johnson](index.html#Gordana Johnson)
+ - [Haim Bresheeth](index.html#Haim Bresheeth]
+ - [Jayne Selvaggio](index.html#Jayne Selvaggio]
+ - [John Tolliday](index.html#John Tolliday]
+ - [Derek Cottrell](index.html#Derek Cottrell]
+ - [Mary Thompson](index.html#Mary Thompson]
+ - [Reza Tavakol](index.html#Reza Tavakol]
+ - [Sabrina Merolla](index.html#Sabrina Merolla]
+ - [Sandra Roberts](index.html#Sandra Roberts]
+ - [Sonia Davda](index.html#Sonia Davda]
+ - [Robin Barr](index.html#Robin Barr]
+ - [Sonia Hunt](index.html#Sonia Hunt]
 
 ## Carole Rawlinson FRPS
 
@@ -164,6 +165,34 @@ through her work.
 
 **Email:** discosonia@hotmail.com
 **Instagram:** @soniadavda
+
+## Robin Barr
+
+Robin creates abstract images from shapes, lines, colours, and textures that he sees in the urban environment. He also has a passion for photographing architecture and extracting abstract shapes and patterns from buildings that he finds visually striking. During 2022 he printed a series of square format greeting cards of his architectural photography that have sold very well. He has also exhibited in several exhibitions since 2019, more recently in London, Halifax and Hebden Bridge.
+The two abstract photographs shown in this exhibition were taken on an iPhone in 2015. The first image is a section of weathered walkway on a bridge footpath in Montreal. The second is the top of a roadside salt box in Hastings. 
+Robin's curious interest in photographing indistinguishable marks, weathered paint, and faded graffiti that appeal to him as abstract shapes and forms continue to this day. A current project if his involves photographing some of the many closed-up 
+shopfronts across the country. 
+
+Robin has been on a general photography and image hosting website called 'Flickr' since 2014. His name on there is 'No Great Hurry', he can also be also be found on there under the name 'Robin Maurice Barr'. Since he joined that site his abstract and architectural images have been viewed 7.5 million times.
+
+**Email:** nogreathurry@gmail.com
+
+**Instagram:** @nogreathurry
+**Instagram:** @nogreathurry_people
+**Instagram:** @robin.likes.abstracts
+**Instagram:** @robin_maurice_barr
+
+## Sonia Hunt
+
+I fell in love with photography many years ago and completed a BTEC in darkroom practices at the London School of Communication and a HNC at Westminster College. I am also a member of London Independent Photography (LIP) and f4 Photography.
+I have worked in all areas of photography but in recent years I have concentrated predominantly on landscapes and seascapes which I have exhibited in Brighton and London. I also supply professional stock garden imagery and am represented by GAP and Getty photo libraries.
+Winter in Walthamstow and Epping Forest 2023.
+
+**Email:** soniahunt57@gmail.com
+**Instagram:** @soniahunt57
+
+
+
 
 
 
