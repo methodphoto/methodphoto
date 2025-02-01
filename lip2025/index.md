@@ -14,8 +14,8 @@ title: LIP 2025 Biographies
 <h3>If your biography is here:</h3>
 
 <ol>
-	<li> If it seems shorter, then it has been previously edited to fit based on ones I have</li>
-	<li>Please indicate via <strong>WhatsApp</strong> which link you would like to be made into a QR code for the exhibition panel, Email or one of your Social Media addresses.</li>
+	<li> If it seems shorter, then it's been edited before to fit based on ones I've had in the past</li>
+	<li>Please indicate via <strong>WhatsApp</strong> which link you would like to be made into a QR code for the exhibition panel; email or one of your Social Media addresses 1 QR code per person.</li>
 </ol>
 
 <h3>If your biography is not here:</h3>
