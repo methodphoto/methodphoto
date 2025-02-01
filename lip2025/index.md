@@ -9,7 +9,7 @@ title: LIP 2025 Biographies
 
 <h2>Instructions</h2>
 
-<p>Click on your name below to read yours. If there are corrections, please let me know via <strong>WhatsApp 07710 248 896</strong>, <em>not by email as it might get lost</em>.</p>
+<p>Tap on your name below to read yours. If there are corrections, please let me know via <strong>WhatsApp 07710 248 896</strong>, <em>not by email as it might get lost</em>.</p>
 
 <h3>If your biography is here:</h3>
 
