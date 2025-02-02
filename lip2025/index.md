@@ -113,7 +113,7 @@ time.
 
 **Email:** jayneselvaggio@gmail.com
 
-## John Tolliday
+### John Tolliday
 
 John works in film and digital covering numerous genres which include Landscape, Portrait and Astrophotography
 
