@@ -115,14 +115,13 @@ time.
 
 ## John Tolliday
 
-John works in film and digital covering numerous genres which include Landscape,
-Portrait, Astrophotography and Photomicroscopy.
+John works in film and digital covering numerous genres which include Landscape, Portrait and Astrophotography
 
-More recently, alternative processes have been used in his creative work. He is based in the
-UK and USA.
+More recently, alternative processes have been used in his creative work. He is based in the UK and USA.
+
 
 **Instagram:** @johnphotographerartist<br />
-**Website:** artybollocks.com
+**Website:** johntolliday.myportfolio.com - QR
 
 ## Derek Cottrell
 
