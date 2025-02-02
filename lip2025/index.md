@@ -166,7 +166,7 @@ China, Italy and the UK.
 **Website:** www.sabrinamerolla.co.uk<br />
 **Instagram:** @sabrinamero
 
-## Sandra Roberts
+### Sandra Roberts
 
 Sandra Roberts photographs span the divide between rural and urban locations where she
 aims to discover and document the influence of people, their individual stories, and how
@@ -174,7 +174,8 @@ history can create a sense of place. She is interested in how photography can ca
 memories and retrieve the past, from the environments of the present.
 
 **Website:** www.sandraroberts.myportfolio.com<br />
-**Instagram:** @sandrarobertsphotography
+**Glass:** @sandrarobertsphotography
+**Instagram:** @sandrarobertsphotography - QR
 
 ## Sonia Davda
 
