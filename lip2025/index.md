@@ -155,7 +155,7 @@ photography.
 
 **Email:** r.tavakol@qmul.ac.uk
 
-## Sabrina Merolla
+### Sabrina Merolla
 
 Sabrina Merolla is a press and documentary photographer, participatory art facilitator
 and mixed media artist. Her work focuses on the multiple displacements and identities of
@@ -163,7 +163,7 @@ the contemporary world from the perspective of human and nature rights. She publ
 in international media outlets, has won international photo awards and exhibited in
 China, Italy and the UK.
 
-**Website:** www.sabrinamerolla.co.uk<br />
+**Website:** www.sabrinamerolla.co.uk - QR<br />
 **Instagram:** @sabrinamero
 
 ### Sandra Roberts
