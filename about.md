@@ -8,9 +8,9 @@ title: About
 
 ## Richard Earney
 
-I’m a photographer who aims to represent the landscape using Abstract and Conceptual photography. I tend to work in series rather than the individual image.
+Richard is an abstract landscape photographer who mostly works in series rather than the individual image.
 
-Over the years the common themes of representing time and motion in the still image have become more central to my work.
+He uses images to representing time, motion, colour, and light in the still image.
 
 -   [Exhibitions](#exhibitions)
 -   [Books](#books)
