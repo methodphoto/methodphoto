@@ -10,7 +10,7 @@ title: About
 
 Richard is an abstract landscape photographer who mostly works in series rather than the individual image.
 
-He uses images to representing time, motion, colour, and light in the still image.
+He uses images to represent time, motion, colour, and light in the still image.
 
 -   [Exhibitions](#exhibitions)
 -   [Books](#books)
