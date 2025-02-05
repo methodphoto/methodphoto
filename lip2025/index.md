@@ -147,7 +147,7 @@ Photography Magazine.
 
 **Website:** www.maryfoxleythompson.uk
 
-## Reza Tavakol
+### Reza Tavakol
 
 Reza Tavakol is an artist/writer/cosmologist. His art practice is concerned with the
 aesthetic and conceptual explorations of the real employing various art forms including
@@ -202,7 +202,7 @@ Robin has been on a general photography and image hosting website called 'Flickr
 **Instagram:** @robin.likes.abstracts<br />
 **Instagram:** @robin_maurice_barr
 
-## Sonia Hunt
+### Sonia Hunt
 
 I fell in love with photography many years ago and completed a BTEC in darkroom practices at the London School of Communication and a HNC at Westminster College. I am also a member of London Independent Photography (LIP) and f4 Photography.
 
