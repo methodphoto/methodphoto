@@ -39,13 +39,9 @@ title: LIP 2025 Biographies
  - [Sonia Davda](#sonia-davda)
  - [Robin Barr](#robin-barr)
 
-## Carole Rawlinson FRPS
+### Carole Rawlinson FRPS
 
-Carole is a documentary urban and rural landscape photographer. Urban interests include
-in bridges, hospitals, features of Edwardian houses and doorknockers. She is also
-interested in wild remote landscapes including icy and desert environments, archeology
-and rock art and for many years she was a stock photographer for the Royal Geographical
-Society.
+Carole is a documentary urban and rural landscape photographer. Urban topics include bridges, hospitals, features of Edwardian houses and doorknockers. She is also interested in wild remote landscapes including icy and desert environments, archeology and rock art. Combining text and images is the focus for her Signs and Symbols images in this exhibition.
 
 **Email:** carolerawlinson@virginmedia.com
 
