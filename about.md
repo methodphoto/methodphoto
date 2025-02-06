@@ -8,9 +8,9 @@ title: About
 
 ## Richard Earney
 
-Richard is an abstract landscape photographer who mostly works in series rather than the individual image.
+Richard is an abstract landscape photographer and a Fellow of the Royal Photographic Society. 
 
-He uses images to represent time, motion, colour, and light in the still image.
+His work primarily unfolds in series rather than standalone images, exploring the interplay of time, motion, color, and light within the still image.
 
 -   [Exhibitions](#exhibitions)
 -   [Books](#books)
