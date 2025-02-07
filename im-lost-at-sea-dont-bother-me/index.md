@@ -9,7 +9,7 @@ parent: galleries
 
 ### {{page.year}}
 
-A companion piece to We Await [The Sailor's Return](../im-lost-at-sea-dont-bother-me/). The sailor responds…
+A companion piece to [We Await (The Sailor's Return)](../we-await-the-sailors-return/). The sailor responds…
 
 ![{{page.title}}](im-lost-at-sea-dont-bother-me-01.webp "{{page.title}}")
 
