@@ -75,13 +75,13 @@ awarded Px3 Honourable Mention in the 2023 Prix de la Photographie de Paris
 **Email:** evaturrell@gmail.com<br />
 **Instagram:** @evaturrellphotography
 
-## Gordana Johnson
+### Gordana Johnson
 
 Photography is an intuitive and creative expression of her innerworld as triggered by the
 outside world. She photographs anything that excites her inner self without favouring a
 particular genre.
 
-**Website:** www.gordanajohnson.com<br />
+**Website:** gordanajohnson.com<br />
 **Instagram:** @gordanajohnson
 
 ## Haim Bresheeth
