@@ -180,11 +180,9 @@ through her work.
 **Email:** discosonia@hotmail.com<br />
 **Instagram:** @soniadavda
 
-## Robin Barr
+### Robin Barr
 
-Robin creates abstract images from shapes, lines, colours, and textures that he sees in the urban environment. He also has a passion for photographing architecture and extracting abstract shapes and patterns from buildings that he finds visually striking. During 2022 he printed a series of square format greeting cards of his architectural photography that have sold very well. He has also exhibited in several exhibitions since 2019, more recently in London, Halifax and Hebden Bridge.
-
-Robin has been on a general photography and image hosting website called 'Flickr' since 2014. His name on there is 'No Great Hurry', he can also be also be found on there under the name 'Robin Maurice Barr'. Since he joined that site his abstract and architectural images have been viewed 7.5 million times.
+Robin creates abstract images inspired by patterns, shapes, lines, colours, and textures. He also enjoys creating in-camera multiple exposure images that require the viewer to take a longer look at the details captured. He has exhibited in multiple shows, including in Glasgow, Bradford, London, Halifax, and Hebden Bridge.
 
 **Email:** nogreathurry@gmail.com
 
