@@ -245,7 +245,13 @@ Working in both analogue black and white and digital colour, and ignoring (or be
 
 **Email:** donholtum@gmail.com
 
-## Mal Woodford and Charlotte Woolford
+## Charlotte Woolford and Mal Woolford
+
+Charlotte and Mal use the early photographic technique wet-plate collodion to make closely observed portraits not as photographer and model but as co-photographers. They trouble the historic use of photography to explore equal control and representation.
+
+Having known each other from the school pickup, they found they are connected through historic transatlantic chattel slavery and a household of enslavers and enslaved in Georgetown, Guyana.
+
+**Instagram:** @woolfordandwoolford
 
 ![<# alt text #>](mal-and-charlotte.jpg "mal-and-charlotte.jpg")
 
