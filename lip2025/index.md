@@ -34,27 +34,33 @@ title: LIP 2025 Biographies
  - [Gordana Johnson](#gordana-johnson)
  - [Haim Bresheeth](#haim-bresheeth)
  - [Jayne Selvaggio](#jayne-selvaggio)
+ - [John Tolliday](john-tolliday)
  - [Derek Cottrell](#derek-cottrell)
  - [Mary Thompson](#mary-thompson)
+ - [Reza Tavakol](reza-tavakol)
+ - [Sabrina Merolla](sabrina-merolla)
+ - [Richard Earney](richard-earney)
+ - [Sandra Roberts](sandra-roberts)
  - [Sonia Davda](#sonia-davda)
  - [Robin Barr](#robin-barr)
+ - [Sonia Hunt](sonia-hunt)
+ - [Kasia Kowalska](kasia-kowalska)
+ - [Don Holtum](don-holtum)
+ - [Mal Woodford and Charlotte Woolford](mal-woodford-and-charlotte-woolford)
+ - [Paul Plummer](paul-plummer)
+ 
 
-### Carole Rawlinson FRPS
+## Carole Rawlinson FRPS
 
-Carole is a documentary urban and rural landscape photographer. Urban topics include bridges, hospitals, features of Edwardian houses and doorknockers. She is also interested in wild remote landscapes including icy and desert environments, archeology and rock art. Combining text and images is the focus for her Signs and Symbols images in this exhibition.
+Carole is a documentary urban and rural landscape photographer. Urban topics include bridges, hospitals, features of Edwardian houses and doorknockers. She is also interested in wild remote landscapes including icy and desert environments, archeology and rock art. Combining text and images is the focus for her Signs and Symbols images in this exhibition. A book about this project can be previewed using the following link: https://www.blurb.co.uk/b/12280903-signs-and-symbols-in-the-city
 
 **Email:** carolerawlinson@virginmedia.com
 
 ## Elizabeth Brown
 
-Elizabeth Brown is an artist whose primary mediums are photography and printmaking.
-She enjoys working collaboratively, collecting stories and images of objects to learn more
-about people. Observation is a key element of her work and a need to capture unique
-images presented to her by life, nature and events. She is fascinated by the random effects.
+lizabeth Brown is an artist whose primary mediums are photography and printmaking.
 
-of weather and light on her subjects especi. Nature inspires a large part of her
-experimental analogue photography and printmaking and she often uses her garden as a
-darkroom experimenting with alternative photographic processes.
+She enjoys working collaboratively, collecting stories and images of objects to learn more about people. Observation is a key element of her work and a need to capture unique images presented to her by life, nature and events. She is fascinated by the random effects of weather and light on her subjects. Nature inspires a large part of her experimental analogue photography and printmaking and she often uses her garden as a darkroom 
 
 **Website:** www.elizabethhaybrown.com<br />
 **Instagram:** @elizabethhaybrown
@@ -86,12 +92,7 @@ particular genre.
 
 ## Haim Bresheeth
 
-Haim Bresheeth-Žabner is a filmmaker, photographer, film studies scholar and a
-Researcher at SOAS. His books include Introduction to the Holocaust, The Gulf War and
-the New World Order. His films include State of Danger (1989, BBC2), London is
-Burning (2013) and Convivencia at the Turnpike (2015). His most recent book is An Army
-Like No Other: How the IDF Made Israel, Verso, 2020. He has taken part in photo
-exhibitions and film festivals abroad.
+Haim Bresheeth-Žabner is a filmmaker, photographer, film studies scholar and a Researcher at SOAS. His books include Introduction to the Holocaust, The Gulf War and the New World Order. His films include State of Danger (1989, BBC2), London is Burning (2013) and Convivencia at the Turnpike (2015). His most recent book is An Army Like No Other: How the IDF Made Israel, Verso, 2020. He has taken part in photo exhibitions and film festivals abroad.
 
 **Email:** hb26@soas.ac.uk
 
@@ -104,69 +105,61 @@ time.
 
 **Email:** jayneselvaggio@gmail.com
 
-### John Tolliday
+## John Tolliday
 
-John works in film and digital covering numerous genres which include Landscape, Portrait and Astrophotography
+John works in film and digital covering numerous genres which include Landscape, Portrait and Astrophotography.
 
 More recently, alternative processes have been used in his creative work. He is based in the UK and USA.
 
-
 **Instagram:** @johnphotographerartist<br />
-**Website:** johntolliday.myportfolio.com - QR
+**Website:** johntolliday.myportfolio.com
 
 ## Derek Cottrell
 
-Derek originally became interested in photography in his late teens. His interest in
-photography somewhat waned and for forty odd years it became just a means to record
-high days and holidays. In the last seven years he has reconnected with photography. He
-has had no formal training as such and he finds himself drawn to photography that can be
-felt rather than be technically perfect.
+Derek originally became interested in photography in his late teens. His interest in photography somewhat waned and for forty odd years it became just a means to record high days and holidays. In the last seven years he has reconnected with photography. He has had no formal training as such and he finds himself drawn to photography that can be felt rather than be technically perfect.
 
 **Instagram:** @derekcottrell
 
 ## Mary Thompson
 
-Mary is a political and social documentary photographer. She believes that building a
-story through putting together a series of images can often be more impactful than just the written word.
+Mary is a political and social documentary photographer. As a photographer she look for ways of telling stories that she cares about that can draw people in more easily than just the written word.
 
-She has told a variety of photographic stories over the years. She looks for stories about
-issues she can personally connect with such as political activism, the climate and personal hospitalisation.
+Her photographic projects include Living with Osteoporosis, Activists, the Working Coast, the Climate Crisis and Hospitalisation.
 
-Mary has recently had documentary work about her sister’s experience of living with
-Osteoporosis published in the Royal Photographic Society’s Women in
-Photography Magazine.
-
+**Instagram:** @mary_thompson68
 **Website:** www.maryfoxleythompson.uk
 
-### Reza Tavakol
+## Reza Tavakol
 
-Reza Tavakol is an artist/writer/cosmologist. His art practice is concerned with the
-aesthetic and conceptual explorations of the real employing various art forms including
-photography.
+Reza Tavakol is an artist/writer/cosmologist. 
+
+His art practice is concerned with the aesthetic and conceptual explorations of the real employing various art forms including photography.
 
 **Email:** r.tavakol@qmul.ac.uk
 
-### Sabrina Merolla
+## Sabrina Merolla
 
-Sabrina Merolla is a press and documentary photographer, participatory art facilitator
-and mixed media artist. Her work focuses on the multiple displacements and identities of
-the contemporary world from the perspective of human and nature rights. She publishes
-in international media outlets, has won international photo awards and exhibited in
-China, Italy and the UK.
+Sabrina Merolla is a press and documentary photographer, participatory art facilitator and mixed media artist. Her work focuses on the multiple displacements and identities of the contemporary world from the perspective of human and nature rights. She publishes in international media outlets, has won international photo awards and exhibited in China, Italy, 
 
-**Website:** www.sabrinamerolla.co.uk - QR<br />
+**Website:** www.sabrinamerolla.co.uk<br />
 **Instagram:** @sabrinamero
 
-### Sandra Roberts
+## Richard Earney
 
-Sandra Roberts photographs span the divide between rural and urban locations where she
-aims to discover and document the influence of people, their individual stories, and how
-history can create a sense of place. She is interested in how photography can capture
-memories and retrieve the past, from the environments of the present.
+Richard is an abstract landscape photographer and a Fellow of the Royal Photographic Society.
+
+His work primarily unfolds in series rather than standalone images, exploring the interplay of time, motion, colour, and light within the still image.
+
+**Website:** method.photo<br />
+**Instagram:** @methodphoto
+
+## Sandra Roberts
+
+Sandra Roberts photographs span the divide between rural and urban locations where she aims to discover and document the influence of people, their individual stories, and how history can create a sense of place. She is interested in how photography can capture memories and retrieve the past, from the environments of the present.
 
 **Website:** www.sandraroberts.myportfolio.com<br />
 **Glass:** @sandrarobertsphotography
-**Instagram:** @sandrarobertsphotography - QR
+**Instagram:** @sandrarobertsphotography
 
 ## Sonia Davda
 
@@ -180,7 +173,7 @@ through her work.
 **Email:** discosonia@hotmail.com<br />
 **Instagram:** @soniadavda
 
-### Robin Barr
+## Robin Barr
 
 Robin creates abstract images inspired by patterns, shapes, lines, colours, and textures. He also enjoys creating in-camera multiple exposure images that require the viewer to take a longer look at the details captured. He has exhibited in multiple shows, including in Glasgow, Bradford, London, Halifax, and Hebden Bridge.
 
@@ -191,16 +184,34 @@ Robin creates abstract images inspired by patterns, shapes, lines, colours, and 
 **Instagram:** @robin.likes.abstracts<br />
 **Instagram:** @robin_maurice_barr
 
-### Sonia Hunt
+## Sonia Hunt
 
-I fell in love with photography many years ago and completed a BTEC in darkroom practices at the London School of Communication and a HNC at Westminster College. I am also a member of London Independent Photography (LIP) and f4 Photography.
-
-I have worked in all areas of photography but in recent years I have concentrated predominantly on landscapes and seascapes which I have exhibited in Brighton and London. I also supply professional stock garden imagery and am represented by GAP and Getty photo libraries.
+I fell in love with photography many years ago and completed a BvTEC in darkroom practices at the London School of Communication and a HNC at Westminster College. I am also a member of London Independent Photography (LIP) and f4 Photography.
+ 
+I have worked in all areas of photography but in recent years I have concentrated predominantly on landscapes and seascapes which I have exhibited in Brighton and London. I also supply professional stock garden imagery.
 
 **Email:** soniahunt57@gmail.com<br />
 **Instagram:** @soniahunt57
 
+## Kasia Kowalska
 
+Kasia Kowalska is a Polish artist living in London. Her work involves digital and analogue photography. In her recent practice she reflects on a subjective experience relating to the female figure, feminist art theory, gender performativity, photographic archives, and our personal and collective relationship with the natural world. She has a BA degree in Photography from London Metropolitan University. She is a British Journal of Photography’s Portrait of Britain winner and Association of Photographers Student Awards winner and multiple finalist. She is the current editor of fLIP magazine.
+
+**Instagram:**	@kasia_kowalska_photography
+
+## Don Holtum
+
+Don Holtum comes from a science and business background and his photographic interests derive from the appearance and nature of things around him.
+
+Working in both analogue black and white and digital colour, and ignoring (or being ignorant of) the conventions of “the language of photography” and its ideological commitments, he seeks to produce pictures which are dynamic and context rich, with a resonance reflecting the realities and complexities of our surroundings.
+
+**Email:** donholtum@gmail.com
+
+## Mal Woodford and Charlotte Woolford
+
+## Paul Plummer
+
+Paul works mainly with digital, and sometimes with analogue cameras. He's interested in alternative approaches, particularly pinhole photography. His bent is towards the abstract. He is fascinated by what it means to say a photograph is 'interesting' or 'worthwhile', and would like to extend the range of photography, often by considering subjects that are regularly overlooked.
 
 
 
