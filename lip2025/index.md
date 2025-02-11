@@ -45,7 +45,7 @@ search_exclude: true
  - [Sandra Roberts](sandra-roberts)
  - [Sonia Davda](#sonia-davda)
  - [Robin Barr](#robin-barr)
- - [Sonia Hunt](sonia-hunt)
+ - [Sonia Hunt](#sonia-hunt)
  - [Kasia Kowalska](kasia-kowalska)
  - [Don Holtum](don-holtum)
  - [Mal Woodford and Charlotte Woolford](mal-woodford-and-charlotte-woolford)
