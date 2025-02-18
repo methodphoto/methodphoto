@@ -43,7 +43,6 @@ search_exclude: true
  - [Sabrina Merolla](sabrina-merolla)
  - [Richard Earney](richard-earney)
  - [Sandra Roberts](sandra-roberts)
- - [Sonia Davda](#sonia-davda)
  - [Robin Barr](#robin-barr)
  - [Sonia Hunt](#sonia-hunt)
  - [Kasia Kowalska](kasia-kowalska)
@@ -188,20 +187,6 @@ Sandra Roberts photographs span the divide between rural and urban locations whe
 **Website:** www.sandraroberts.myportfolio.com<br />
 **Glass:** @sandrarobertsphotography
 **Instagram:** @sandrarobertsphotography
-
-## Sonia Davda
-
-![<# alt text #>](sonia-davda.jpg "sonia-davda.jpg")
-
-Sonia Davda undertook a BA (Hons) in Photography at the University of Brighton. She
-has worked as a photojournalist for numerous publications including The Guardian, The
-Times Education Supplement and the BBC.
-
-Her specialism is in portraiture and documentary and tells stories of places and people
-through her work.
-
-**Email:** discosonia@hotmail.com<br />
-**Instagram:** @soniadavda
 
 ## Robin Barr
 
