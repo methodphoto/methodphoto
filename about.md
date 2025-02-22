@@ -21,6 +21,10 @@ His work primarily unfolds in series rather than standalone images, exploring th
 
 ## Exhibitions
 
+[London Independent Photography Crouch End group, 2025](https://www.londonphotography.org.uk/upcoming/2025/02/19/lip-crouch-end-annual-exhibition/), The Original Gallery, London
+
+[London Independent Photography 36th Annual Exhibition 2025](https://showcase.londonphotography.org.uk/wp-content/uploads/2025/01/36thAnnual.pdf), Espacio Gallery, London
+
 London Independent Photography Crouch End group, 2024, The Original Gallery, London
 
 [London Photo Show 2023, Bargehouse Gallery, Oxo Tower](/lps/)
