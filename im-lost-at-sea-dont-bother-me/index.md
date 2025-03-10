@@ -11,6 +11,8 @@ parent: galleries
 
 A companion piece to [We Await (The Sailor's Return)](../we-await-the-sailors-return/). The sailor responds…
 
+The images were exhibited in the London Independent Photography Crouch End [Annual Exhibition](https://www.londonphotography.org.uk/upcoming/2025/02/19/lip-crouch-end-annual-exhibition/) 2025
+
 ![{{page.title}}](im-lost-at-sea-dont-bother-me-01.webp "{{page.title}}")
 
 ![{{page.title}}](im-lost-at-sea-dont-bother-me-02.webp "{{page.title}}")
