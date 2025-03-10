@@ -19,7 +19,7 @@ His work primarily unfolds in series rather than standalone images, exploring th
 -   [Talks](#talks)
 -   [Podcasts](#podcasts)
 
-## Exhibitions
+### Exhibitions
 
 [London Independent Photography Crouch End group, 2025](https://www.londonphotography.org.uk/upcoming/2025/02/19/lip-crouch-end-annual-exhibition/), The Original Gallery, London
 
@@ -61,7 +61,7 @@ On Landscape, Meeting of Minds 2016 Community Exhibition
 
 [International Photobook Exhibition 2016, Espacio Gallery, London](blog/2016-10-11-rps-international-photobook-exhibition)
 
-## Books
+### Books
 
 [The Prismatic Pond](books/the-prismatic-pond), 2022
 
@@ -71,7 +71,7 @@ On Landscape, Meeting of Minds 2016 Community Exhibition
 
 [Inside Lightroom 2: The serious photographer's guide to Lightroom efficiency](https://www.amazon.co.uk/Inside-Lightroom-serious-photographers-efficiency/dp/1138456306?crid=13UHN3DFGKZXT&keywords=Inside%20lightroom&qid=1666183854&sprefix=inside%20lightroom%2Caps%2C82&sr=8-1), 2012
 
-## Awards and Positions
+### Awards and Positions
 
 *Selector:* Stephen H. Tyng Collection 2018/19
 
@@ -81,7 +81,7 @@ Associate of the Royal Photographic Society (ARPS) 2014
 
 Licentiate of the Royal Photographic Society (LRPS) 2004
 
-## Articles
+### Articles
 
 [Royal Photographic Society Visual Art Magazine 157, Jan 2020](blog/2018-01-14-feature-in-the-rps-journal)
 
@@ -103,7 +103,7 @@ On Landscape Magazine,  4x4, [Abstract Grasses](https://www.onlandscape.co.uk/20
 
 On Landscape Magazine, [Hipstamatic Landscape Photography](https://www.onlandscape.co.uk/2011/11/hipstamatic-landscape-photography/), 2011
 
-## Talks
+### Talks
 
 [Find Your Voice](https://fyv.art/) July 2023, *Realistic Abstraction*
 
@@ -116,7 +116,7 @@ RPS Southern Region 2018, *On Turning Away*
 Magdelane College, Cambridge Festival of Sound, *The User Experience of Music Recognition*
 
 
-## Podcasts
+### Podcasts
 
 Biblioscapes: In Discussion [Episode 113](https://biblioscapes.com/in-discussion/richard-earney-1) (The Prismatic Pond)
 
