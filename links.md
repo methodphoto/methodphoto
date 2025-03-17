@@ -17,7 +17,7 @@ title: Links
 
 <a href="https://method.photo">
 	<span class="links other">	
-		Method Photo website
+		Website
 	</span>
 </a>
 
@@ -29,18 +29,18 @@ title: Links
 
 <a href="https://biblioscapes.com/in-discussion/richard-earney-1">
 	<span class="links other">
-		Biblioscapes In Discussion 08/12/2022
+		Biblioscapes 2022 - The Prismatic Pond
 	</span>
 </a>
 
 <a href="https://biblioscapes.com/in-discussion/richard-earney">
 	<span class="links">
-		Biblioscapes In Discussion 08/10/2020
+		Biblioscapes 2020 - Warped Topographies
 	</span>
 </a>
 
 <a href="https://glass.photo/methodphoto">
 	<span class="links other">
-		Glass.Photo
+		Glass
 	</span>
 </a>
