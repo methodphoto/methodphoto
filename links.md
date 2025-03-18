@@ -5,9 +5,9 @@ title: Links
 
 <div style="margin-bottom:10px;">
 <a href="https://method.photo/im-lost-at-sea-dont-bother-me/">
-	<span class="links other">	
+	<button class="links">	
 		Framed Prints for Sale
-	</span>
+	</button>
 </a>
 
 <a href="https://method.photo/im-lost-at-sea-dont-bother-me/">
@@ -28,31 +28,31 @@ title: Links
 </div>
 
 <a href="https://method.photo">
-	<span class="links other">	
+	<button class="links other">	
 		Website
-	</span>
+	</button>
 </a>
 
 <a href="https://vimeo.com/449190135">
-	<span class="links">
+	<button class="links">
 		One Misty May Morning video
-	</span>
+	</button>
 </a>
 
 <a href="https://biblioscapes.com/in-discussion/richard-earney-1">
-	<span class="links other">
+	<button class="links other">
 		Biblioscapes 2022 - The Prismatic Pond
-	</span>
+	</button>
 </a>
 
 <a href="https://biblioscapes.com/in-discussion/richard-earney">
-	<span class="links">
+	<button class="links">
 		Biblioscapes 2020 - Warped Topographies
-	</span>
+	</button>
 </a>
 
 <a href="https://glass.photo/methodphoto">
-	<span class="links other">
+	<button class="links other">
 		Glass
-	</span>
+	</button>
 </a>
