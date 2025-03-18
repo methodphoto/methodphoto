@@ -15,7 +15,7 @@ The images were exhibited in the London Independent Photography Crouch End [Annu
 
 ## Prints for Sale
 
-Three framed prints are available. These are printed onto Hannemule Photo Rag, mounted onto dibond, Dimensions: 510x340mm. Displayed in a black tray frame. The frames do not have glass so are non-reflective yet retain a superb colour. <br />
+Three framed prints are available. These are printed onto Hannemule Photo Rag, mounted onto dibond, Dimensions: 510x340mm. Displayed in a black tray frame. The frames do not have glass. <br />
 £200 each or £500 for all 3.
 
 <div style="margin-bottom:10px;text-align: center;">
