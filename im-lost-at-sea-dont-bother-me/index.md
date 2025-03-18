@@ -15,21 +15,24 @@ The images were exhibited in the London Independent Photography Crouch End [Annu
 
 Three framed prints are available. These are printed onto Hannemule Photo Rag, mounted onto dibond 510x340mm. Displayed in a black tray frame. The frames do not have glass so are non-reflective yet retain a superb colour. £200 each or £500 for all 3.
 
-<a href="https://buy.stripe.com/fZe4gUcEUcrh1e84gL">
-	<img src="exhibition-01.webp" width="50%" height="50%" alt="Buy this framed print" />
-</a>
+<div>
 
 <a href="https://buy.stripe.com/fZe4gUcEUcrh1e84gL">
-	<img src="exhibition-02.webp" width="50%" height="50%" alt="Buy this framed print" />
+	<img src="exhibition-01.webp" width="30%" height="30%" alt="Buy this framed print" />
 </a>
 
-<a href="https://buy.stripe.com/fZe4gUcEUcrh1e84gL">
-	<img src="exhibition-03.webp" width="50%" height="50%" alt="Buy this framed print" />
+<a href="https://buy.stripe.com/eVabJm6gw76Xf4Y8x2">
+	<img src="exhibition-02.webp" width="30%" height="30%" alt="Buy this framed print" />
 </a>
 
-<a href="https://buy.stripe.com/fZe4gUcEUcrh1e84gL">
-	<img src="exhibition-all-three.webp" width="50%" height="50%" alt="Buy this framed print" />
+<a href="https://buy.stripe.com/cN27t6awM76X4qkaFb">
+	<img src="exhibition-03.webp" width="30%" height="30%" alt="Buy this framed print" />
 </a>
+
+<a href="https://buy.stripe.com/7sI6p2dIYfDt2icfZw">
+	<img src="exhibition-all-three.webp" width="30%" height="30%" alt="Buy this framed print" />
+</a>
+</div>
 
 ![{{page.title}}](im-lost-at-sea-dont-bother-me-01.webp "{{page.title}}")
 
