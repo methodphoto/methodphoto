@@ -29,7 +29,7 @@ Three framed prints are available. These are printed onto Hannemule Photo Rag, m
 	<img src="exhibition-03.webp" width="30%" height="30%" alt="Buy this framed print" />
 </a>
 
-<div style="margin-bottom: 20px; text-align: center;">
+<div style="margin: 20px 0; text-align: center;">
 <a href="https://buy.stripe.com/7sI6p2dIYfDt2icfZw">
 	<img src="exhibition-all-three.webp" width="50%" height="50%" alt="Buy this framed print" />
 </a>
