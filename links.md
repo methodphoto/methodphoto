@@ -3,6 +3,7 @@ layout: default
 title: Links
 ---
 
+<div style="margin-bottom:10px;">
 <a href="https://method.photo/im-lost-at-sea-dont-bother-me/">
 	<span class="links other">	
 		Framed Prints for Sale
