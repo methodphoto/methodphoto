@@ -11,11 +11,9 @@ parent: galleries
 
 A companion piece to [We Await (The Sailor's Return)](../we-await-the-sailors-return/). The sailor responds…
 
-The images were exhibited in the London Independent Photography Crouch End [Annual Exhibition](https://www.londonphotography.org.uk/upcoming/2025/02/19/lip-crouch-end-annual-exhibition/) 2025
-
 ## Prints for Sale
 
-Three framed prints are available. These are printed onto Hannemule Photo Rag, mounted onto dibond, Dimensions: 510x340mm. Displayed in a black tray frame. The frames do not have glass. <br />
+Three framed prints as exhibited at the London Independent Photography Crouch End [Annual Exhibition](https://www.londonphotography.org.uk/upcoming/2025/02/19/lip-crouch-end-annual-exhibition/) 2025,  are available. These are printed onto Hannemule Photo Rag, mounted onto dibond, Dimensions: 510x340mm. Displayed in a black tray frame. The frames do not have glass. <br />
 £200 each or £500 for all 3.
 
 <div style="margin-bottom:10px;text-align: center;" class="alt">
