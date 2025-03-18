@@ -16,7 +16,7 @@ A companion piece to [We Await (The Sailor's Return)](../we-await-the-sailors-re
 Three framed prints as exhibited at the London Independent Photography Crouch End [Annual Exhibition](https://www.londonphotography.org.uk/upcoming/2025/02/19/lip-crouch-end-annual-exhibition/) 2025,  are available. These are printed onto Hannemule Photo Rag, mounted onto dibond, Dimensions: 510x340mm. Displayed in a black tray frame. The frames do not have glass. <br />
 £200 each or £500 for all 3.
 
-<div style="margin-bottom:10px;text-align: center;" class="alt">
+<div style="margin-bottom:10px;text-align: center; padding: 10px 0;" class="alt">
 
 <a href="https://buy.stripe.com/fZe4gUcEUcrh1e84gL" style="padding-right: 10px;">
 	<img src="exhibition-01.webp" width="30%" height="30%" alt="Buy this framed print" />
