@@ -31,9 +31,11 @@ Three framed prints are available. These are printed onto Hannemule Photo Rag, m
 
 </div>
 
+<div style="align:center;margin: 0 auto; text-align: "center">
 <a href="https://buy.stripe.com/7sI6p2dIYfDt2icfZw">
 	<img src="exhibition-all-three.webp" width="50%" height="50%" alt="Buy this framed print" />
 </a>
+</div>
 
 
 ![{{page.title}}](im-lost-at-sea-dont-bother-me-01.webp "{{page.title}}")
