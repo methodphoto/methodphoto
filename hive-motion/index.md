@@ -13,32 +13,32 @@ nav_exclude: true
  - It should create a simple moment of delight
  - Consider the overall page impact of lots of animations on a page
  
- ## Intros
+## Intros
  
   - Default - No Intro
   - Optional Photographic intro for Hive+
   
- ## Outros
+## Outros
  
   - Primary option = Wordmark + Know Your Power
   - Secondary option = Logo + Know Your Power (example = Hive+ videos where a Hive+ outro has been used)
   - Hive + Know Your Power should always be on the liquorice background
 
- ## Typography
+## Typography
  
- ### Basic
+### Basic
  
  1. Push up/down
  2. Subtile zoom reveal
  3. Instant text
  4. Word by word/sentence by sentence slide
  
- ### Special styles
+### Special styles
  
  1. Word by word reveal (Potentially only for voice over)
  2. Letters and numbers roll
  
- ### Know Your Power style
+### Know Your Power style
  
  1. Subtle Zoom reveal
  
@@ -59,7 +59,7 @@ nav_exclude: true
  - Less is more - we want these to feel subtle and sophistacted
  - These should create a simple moment of delight
  
- ## Iconography
+## Iconography
  
  
-  ## Infographics
+## Infographics
