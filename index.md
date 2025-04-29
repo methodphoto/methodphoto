@@ -13,9 +13,5 @@ title: Galleries
 
 Three images from this series showed at [The Original Gallery](https://www.londonphotography.org.uk/upcoming/2025/02/19/lip-crouch-end-annual-exhibition/) in Crouch End and [Framed prints](im-lost-at-sea-dont-bother-me/) are available.
 
-## Books for Sale
-
-I have some second hand or duplicate [books for sale](book-sales), as well as the last remaining copies of [Warped Topographies II and The Prismatic Pond](books/warped-pond)
-
 
 {% include gallery %}
