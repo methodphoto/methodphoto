@@ -58,6 +58,7 @@ His work primarily unfolds in series rather than standalone images, exploring th
 
 ### Articles
 
+ - fLIP issue 60, Spring 2025 - The Sideways Issue
  - [Royal Photographic Society Visual Art Magazine 157, Jan 2020](blog/2018-01-14-feature-in-the-rps-journal)<br/>
  - [Endframe](https://www.onlandscape.co.uk/2019/12/cemetery-bins-graveyards-graveyard/), On Landscape Magazine, Dec 2019<br/>
  - Featured Photographer, [On Landscape Magazine](https://www.onlandscape.co.uk/2019/12/cemetery-bins-graveyards-graveyard/), Oct 2018<br/>
