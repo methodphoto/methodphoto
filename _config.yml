@@ -6,6 +6,6 @@ url: "https://method.photo" # the base hostname & protocol for your site, e.g. h
 heading_anchors: false
 minima:
   social_links:
-    - { platform: mastadon, user_url: "https://toot.community/@methodphoto" }
+    - { platform: bluesky, user_url: "https://bsky.app/profile/methodphoto.bsky.social" }
     - { platform: instagram,  user_url: "https://instagram.com/methodphotonew" }
     - { platform: glass,  user_url: "https://glass.photo/methodphoto" }
