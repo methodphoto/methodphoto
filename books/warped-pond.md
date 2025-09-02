@@ -37,7 +37,7 @@ Copies ready for immediate dispatch
 </script>
 
 <stripe-buy-button
-  buy-button-id="buy_btn_1NVuCbEYn6r0o2yhJV4yLPAd"
+  buy-button-id="buy_btn_1S2uWEEYn6r0o2yh5IStmw2c"
   publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
 >
 </stripe-buy-button>
@@ -52,7 +52,7 @@ Copies ready for immediate dispatch
 </script>
 
 <stripe-buy-button
-  buy-button-id="buy_btn_1NIoqNEYn6r0o2yhS4UMbLjV"
+  buy-button-id="buy_btn_1S2uV9EYn6r0o2yhyHhmeRLh"
   publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
 >
 </stripe-buy-button>
@@ -64,7 +64,7 @@ Copies ready for immediate dispatch
 </script>
 
 <stripe-buy-button
-  buy-button-id="buy_btn_1MtBIWEYn6r0o2yhzei5Kbnt"
+  buy-button-id="buy_btn_1S2uSFEYn6r0o2yheqLlF9kn"
   publishable-key="pk_live_S7EHANc4TF7Q5M2Hqwbjzup3"
 >
 </stripe-buy-button>
