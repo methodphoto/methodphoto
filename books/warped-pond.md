@@ -12,6 +12,7 @@ parent: books
 
 ![{{page.title}}](warped-prismatic.webp "{{page.title}}")
 
+
 After some necessary tidying of my studio, I have found some extra seconds of **Warped Topographies II**. So if you missed out, or would like a copy for Sunday best, there are copies for you.
 
 They are classed as seconds as they have a faint blue printing scuff in the margin area of one page ([see images here](warped-topographies-ii)), otherwise the reproduction is superb. As it will make more space in the office. 
