@@ -16,19 +16,17 @@ After some necessary tidying of my studio, I have found some extra seconds of **
 
 They are classed as seconds as they have a faint blue printing scuff in the margin area of one page ([see images here](warped-topographies-ii)), otherwise the reproduction is superb. As it will make more space in the office. 
 
-[Warped Topographies II](#wt) is available for £8.50 + Shipping (UK or ROW). 
+[Warped Topographies II](#wt) is available for £6.50 + Shipping (UK or ROW). 
 
 There are also a few copies of **The Prismatic Pond** still remaining. This book looks at the beauty in a small, overlooked, edgeland pond in a North London Country Park. A pond that for a few years captivated me with its beguiling show of colours, pattern and texture. 
 
-[The Prismatic Pond](#pp) is in a signed, limited edition of 100, for £17.50  + Shipping (UK or ROW).
+[The Prismatic Pond](#pp) is in a signed, limited edition of 100, for £15.00  + Shipping (UK or ROW).
 
-**If you would like both books for a combo price and one shipping fee then they are [available for £24.00](#buy-both-books) + Shipping (UK or EU/ROW).**
+**If you would like both books for a combo price and one shipping fee then they are [available for £20.00](#buy-both-books) + Shipping (UK or EU/ROW).**
 
 Copies ready for immediate dispatch
 
 **Please choose your correct shipping location on the next screen**
-
-Please note: **Method Photo is not shipping to the EU as there is huge uncertainty surrounding the EU's GSPR (thanks Brexiters!)**
 
 <div align="center">
 

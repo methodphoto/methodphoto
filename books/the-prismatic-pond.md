@@ -35,13 +35,11 @@ This book celebrates that quiet knowing, that riot of colour, and the subtle bea
 **Text:** 170gsm Silk<br />
 Printed with care by Wells Printing
 
-**£17.50 + shipping. Signed, limited edition of 100**
+**£15.00 + shipping. Signed, limited edition of 100**
 
 Copies ready for immediate dispatch
 
 **Please choose your correct shipping location on the next screen**
-
-Please note: **Method Photo is not shipping to the EU as there is huge uncertainty surrounding the EU's GSPR (thanks Brexiters!)**
 
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
