@@ -27,32 +27,26 @@ title: Links
 </a>
 </div>
 
-<a href="https://method.photo">
-	<button class="links other">	
-		Website
-	</button>
-</a>
-
 <a href="https://vimeo.com/449190135">
-	<button class="links">
+	<button class="links other">
 		One Misty May Morning video
 	</button>
 </a>
 
 <a href="https://biblioscapes.com/in-discussion/richard-earney-1">
-	<button class="links other">
+	<button class="links">
 		Biblioscapes 2022 - The Prismatic Pond
 	</button>
 </a>
 
 <a href="https://biblioscapes.com/in-discussion/richard-earney">
-	<button class="links">
+	<button class="links other">
 		Biblioscapes 2020 - Warped Topographies
 	</button>
 </a>
 
 <a href="https://glass.photo/methodphoto">
-	<button class="links other">
+	<button class="links">
 		Glass
 	</button>
 </a>
