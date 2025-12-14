@@ -11,7 +11,7 @@ title: About
 Richard is an abstract landscape photographer.<br />
 He is a Fellow of the Royal Photographic Society and a member of London Independent Photography.
 
-His work primarily unfolds in series rather than standalone images, exploring the interplay of time, motion, color, and light within the still image.
+His work primarily unfolds in series rather than standalone images, exploring the interplay of time, motion, colour, and light within the still image.
 
 -   [Exhibitions](#exhibitions)
 -   [Books](#books)
@@ -22,9 +22,18 @@ His work primarily unfolds in series rather than standalone images, exploring th
 
 ### Exhibitions
 
+#### 2025
+
+ - [Wabi Sabi – the perfect imperfect, 2025](https://www.photohastings.org/2025-contemporary-photographic-festival/), Electro Studios Project Space, St Leonards-on-Sea<br/>
  - [London Independent Photography Crouch End group, 2025](https://www.londonphotography.org.uk/upcoming/2025/02/19/lip-crouch-end-annual-exhibition/), The Original Gallery, London<br/>
  - [London Independent Photography 36th Annual Exhibition 2025](https://showcase.londonphotography.org.uk/wp-content/uploads/2025/01/36thAnnual.pdf), Espacio Gallery, London<br/>
+
+#### 2024
+
  - London Independent Photography Crouch End group, 2024, The Original Gallery, London<br/>
+ 
+#### 2023 and before
+
  - [London Photo Show 2023, Bargehouse Gallery, Oxo Tower](/lps/)<br/>
  - [London Independent Photography Crouch End group, 2023, The Original Gallery, London](blog/2023-03-21-lip-crouch-end-annual)<br/>
  - [Through a Different Lens](https://www.instagram.com/p/Cp-yq5aIS24), Sullen Riot Curation in association with Jupiter Asset Mananagement Ltd<br/>

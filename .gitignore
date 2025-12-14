@@ -2,3 +2,8 @@
 .DS_Store
 Gemfile
 Gemfile.lock
+/_site
+/_site
+_site/sitemap.xml
+_site/feed.xml
+_site/about.html
