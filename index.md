@@ -4,7 +4,7 @@ title: Galleries
 ---
 {% assign carousel_images = site.static_files
   | where_exp: "file", "file.path contains '/assets/carousel/'"
-  | where_exp: "file", "file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.webp' or file.extname == '.avif'"
+  | where_exp: "file", "'.jpg|.jpeg|.png|.webp|.avif' contains file.extname"
   | sort: "path" %}
 
 # News
