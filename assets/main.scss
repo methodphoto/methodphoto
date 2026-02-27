@@ -188,6 +188,62 @@ article {
 	margin-bottom: 30px;
 }
 
+/* Carousel */
+
+.home-carousel {
+	position: relative;
+	margin: 1rem 0 1.5rem;
+	aspect-ratio: 4 / 3;
+	max-width: 960px;
+	background: $test-background-color;
+	overflow: hidden;
+}
+
+.home-carousel__slide {
+	display: none;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.home-carousel__slide.is-active {
+	display: block;
+}
+
+.home-carousel__arrow {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 2.5rem;
+	height: 2.5rem;
+	border: 0;
+	border-radius: 999px;
+	background: rgba(0, 0, 0, 0.55);
+	color: $white;
+	font-size: 1.2rem;
+	line-height: 1;
+	cursor: pointer;
+}
+
+.home-carousel__arrow:hover {
+	background: rgba(0, 0, 0, 0.75);
+}
+
+.home-carousel__arrow:focus-visible {
+	outline: 2px solid $white;
+	outline-offset: 2px;
+}
+
+.home-carousel__arrow--prev {
+	left: 0.5rem;
+}
+
+.home-carousel__arrow--next {
+	right: 0.5rem;
+}
+
+/* /end Carousel */
+
 .site-header {
 	margin-top: 15px;
 	border: none;
@@ -291,4 +347,103 @@ blockquote {
 	
 .unit {padding: 15px 0 !important; margin: 15px 0 !important;}
 
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+	:root {
+		color-scheme: dark;
+	}
+
+	body {
+		background-color: #11161b;
+		color: #d3dde5;
+	}
+
+	h1,
+	h1.post-title {
+		color: #edf2f7;
+	}
+
+	h2,
+	h2.post-title {
+		color: #8ecbff;
+	}
+
+	h3,
+	.gallerytitle,
+	blockquote {
+		color: #d1b9ff;
+	}
+
+	a {
+		color: #8ecbff;
+	}
+
+	a:visited {
+		color: #c6a8ff;
+	}
+
+	.site-title,
+	.site-title:visited {
+		color: #edf2f7;
+	}
+
+	a.page-link {
+		color: #8ecbff !important;
+	}
+
+	a.page-link:hover,
+	a:hover.page-link {
+		color: #c6a8ff !important;
+	}
+
+	.site-header {
+		border-bottom-color: #2c3641;
+	}
+
+	.site-footer {
+		border-top-color: #2c3641;
+	}
+
+	.footer-col-wrapper {
+		color: #a4b2bf;
+	}
+
+	@media screen and (max-width: 600px) {
+		.site-nav {
+			background-color: #11161b;
+			border-color: #2c3641;
+		}
+	}
+
+	.site-nav .menu-icon > svg,
+	.site-nav .menu-icon svg path {
+		fill: #d3dde5;
+	}
+
+	.norm,
+	.alt,
+	table,
+	td,
+	.book-sales,
+	.home-carousel {
+		background-color: #1a232c;
+	}
+
+	.book-sales:hover {
+		box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.45);
+	}
+
+	.links:hover {
+		background-color: #11161b;
+	}
+
+	.home-carousel__arrow {
+		background: rgba(0, 0, 0, 0.68);
+	}
+
+	.home-carousel__arrow:hover {
+		background: rgba(0, 0, 0, 0.85);
+	}
 }
