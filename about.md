@@ -22,6 +22,11 @@ His work primarily unfolds in series rather than standalone images, exploring th
 
 ### Exhibitions
 
+#### 2026
+
+ - [London Independent Photography Crouch End group, 2026](https://www.londonphotography.org.uk/upcoming/2026/02/21/lip-crouch-end-annual-exhibition-2026/), The Original Gallery, London<br/>
+ - [London Independent Photography 37th Annual Exhibition 2026](https://showcase.londonphotography.org.uk/exhibition_archive/LIP37Annual/37_annual.pdf), Espacio Gallery, London<br/>
+
 #### 2025
 
  - [Wabi Sabi – the perfect imperfect, 2025](https://www.photohastings.org/2025-contemporary-photographic-festival/), Electro Studios Project Space, St Leonards-on-Sea<br/>
