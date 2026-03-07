@@ -38,6 +38,8 @@ body {
     padding-right: 0 !important;
 }
 
+.wrapper p {margin-bottom: 10px;}
+
 @media screen and (max-width: 800px) {
     .wrapper {
         max-width: -webkit-calc(800px - (15px));
