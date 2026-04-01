@@ -4,9 +4,10 @@ title: Links
 ---
 
 <div style="margin-bottom:10px;">
-<a href="https://method.photo/im-lost-at-sea-dont-bother-me/">
-	<button class="links">	
-		Framed Prints for Sale
+
+<a href="https://vimeo.com/1165109561">
+	<button class="links other">
+		I Am the Sea Alone video
 	</button>
 </a>
 
@@ -42,11 +43,5 @@ title: Links
 <a href="https://biblioscapes.com/in-discussion/richard-earney">
 	<button class="links other">
 		Biblioscapes 2020 - Warped Topographies
-	</button>
-</a>
-
-<a href="https://glass.photo/methodphoto">
-	<button class="links">
-		Glass
 	</button>
 </a>
