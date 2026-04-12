@@ -24,6 +24,7 @@ His work primarily unfolds in series rather than standalone images, exploring th
 
 #### 2026
 
+ - [Little Death Print Swap, 2026](https://docs.google.com/presentation/d/1MX8U1He1HXEWar_tanngkXNI9s05k7Gq_52CMwTlFCo/preview?slide=id.g3d063dfa6e0_0_786), Online<br/>
  - [London Independent Photography Crouch End group, 2026](https://www.londonphotography.org.uk/upcoming/2026/02/21/lip-crouch-end-annual-exhibition-2026/), The Original Gallery, London<br/>
  - [London Independent Photography 37th Annual Exhibition 2026](https://showcase.londonphotography.org.uk/exhibition_archive/LIP37Annual/37_annual.pdf), Espacio Gallery, London<br/>
 
