@@ -6,6 +6,12 @@
 
 <div class="grid">
 	<div>
+   		<a href="../i-am-the-sea-alone/">
+			<img src="/assets/galleries/i-am-the-sea-alone.webp" alt="I am the Sea Alone" title="I am the Sea Alone" />
+			<span class="gallerytitle">I am the Sea Alone</span>
+		</a>
+	</div>
+	<div>
    		<a href="../the-pressure-wave-mono/">
 			<img src="/assets/galleries/the-pressure-wave-mono.webp" alt="The Pressure Wave mono" title="The Pressure Wave mono" />
 			<span class="gallerytitle">The Pressure Wave mono</span>
